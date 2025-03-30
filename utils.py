@@ -151,4 +151,3 @@ def normalize_vietnamese(input_str):
     normalized = ''.join(vietnamese_map.get(c, c) for c in nfkd_form if not unicodedata.combining(c))
     normalized = normalized.lower().replace(" ", "_").replace(",", "").replace("/", "_").replace("(", "").replace(")", "")
     return normalized
-
