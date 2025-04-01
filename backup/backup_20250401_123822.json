@@ -42,12 +42,10 @@
             "Ngành nghề kinh doanh": []
         },
         "templates": {
-            "MTV-tang von dieu le.docx": "MTV-tang von dieu le.docx",
             "ca nhan_uy quyen.docx": "ca nhan_uy quyen.docx",
             "doanh nghiep_uy quyen.docx": "doanh nghiep_uy quyen.docx",
             "MTV_dieu le.docx": "MTV_dieu le.docx",
-            "MTV_giay de nghi.docx": "MTV_giay de nghi.docx",
-            "thong bao cap nhat cccd.docx": "thong bao cap nhat cccd.docx"
+            "MTV_giay de nghi.docx": "MTV_giay de nghi.docx"
         },
         "entries": [
             {
@@ -211,243 +209,28 @@
             {
                 "name": "data",
                 "data": {
-                    "tên_doanh_nghiệp": "CÔNG TY TNHH TM DV LOGISTICS BẢO  PHÁT",
-                    "tên_doanh_nghiệp_bằng_tiếng_anh": "",
-                    "tên_viết_tắt": "LOGISTICS BẢO  PHÁT",
-                    "mã_số_doanh_nghiệp": "",
-                    "ngày_cấp_mst": "",
-                    "số_nhà_tên_đường": "38/11 Đường Số 1, Khu Phố 3",
-                    "xã_phường": "Phường Tam Phú",
-                    "quận_huyện": "Thành Phố Thủ Đức",
-                    "tỉnh_thành_phố": "Thành Phố Hồ Chí Minh",
-                    "số_điện_thoại": "0967835778",
-                    "vốn_điều_lệ": "1.500.000.000",
-                    "họ_tên": "ĐỖ VĂN CAO QUẾ",
-                    "giới_tính": "Nam",
-                    "ngày_sinh": "17/04/1987",
-                    "dân_tộc": "Kinh",
-                    "quốc_tịch": "Việt Nam",
-                    "số_cccd": "035087010642",
-                    "ngày_cấp": "18/09/2022",
-                    "nơi_cấp": "Cục Trưởng Cục Cảnh Sát Quản Lý Hành Chính Về Trật Tự Xã Hội",
-                    "ngày_hết_hạn": "17/04/2027",
-                    "địa_chỉ_thường_trú": "Thôn Phúc Thượng, Xã Hợp Lý, Huyện Lý Nhân, Tỉnh Hà Nam, Việt Nam",
-                    "địa_chỉ_liên_lạc": "Thôn Phúc Thượng, Xã Hợp Lý, Huyện Lý Nhân, Tỉnh Hà Nam, Việt Nam",
-                    "họ_tên_uq": "TRƯƠNG HỒNG TÂN",
-                    "giới_tính_uq": "Nam",
-                    "ngày_sinh_uq": "19/05/1992",
-                    "số_cccd_uq": "087092001337",
-                    "ngày_cấp_uq": "15/04/2021",
-                    "nơi_cấp_uq": "Cục Cảnh Sát Quản Lý Hành Chính Về Trật Tự Xã Hội",
-                    "địa_chỉ_liên_lạc_uq": "230/70/16 Nguyễn Xiển, Phường Trường Thạnh, Tp Thủ Đức, Tp Hồ Chí Minh, Việt Nam",
-                    "sdt_uq": "0968988000",
-                    "email_uq": "dkkd@giaiphapsme.com",
-                    "nganh_nghe": [
-                        {
-                            "ten_nganh": "Vận tải hành khách đường sắt",
-                            "ma_nganh": 4911,
-                            "la_nganh_chinh": false
-                        },
-                        {
-                            "ten_nganh": "Vận tải hàng hóa đường sắt",
-                            "ma_nganh": 4912,
-                            "la_nganh_chinh": false
-                        },
-                        {
-                            "ten_nganh": "Vận tải hành khách bằng xe buýt trong nội thành",
-                            "ma_nganh": 4921,
-                            "la_nganh_chinh": false
-                        },
-                        {
-                            "ten_nganh": "Vận tải hành khách bằng xe buýt giữa nội thành và ngoại thành, liên tỉnh",
-                            "ma_nganh": 4922,
-                            "la_nganh_chinh": false
-                        },
-                        {
-                            "ten_nganh": "Vận tải hành khách bằng xe buýt loại khác",
-                            "ma_nganh": 4929,
-                            "la_nganh_chinh": false
-                        },
-                        {
-                            "ten_nganh": "Vận tải hành khách đường bộ trong nội thành, ngoại thành (trừ vận tải bằng xe buýt)",
-                            "ma_nganh": 4931,
-                            "la_nganh_chinh": false
-                        },
-                        {
-                            "ten_nganh": "Vận tải hành khách đường bộ khác",
-                            "ma_nganh": 4932,
-                            "la_nganh_chinh": false
-                        },
-                        {
-                            "ten_nganh": "Vận tải hàng hóa bằng đường bộ - (trừ hóa lỏng khí để vận chuyển)",
-                            "ma_nganh": 4933,
-                            "la_nganh_chinh": true
-                        },
-                        {
-                            "ten_nganh": "Vận tải đường ống",
-                            "ma_nganh": 4940,
-                            "la_nganh_chinh": false
-                        },
-                        {
-                            "ten_nganh": "Vận tải hành khách ven biển và viễn dương",
-                            "ma_nganh": 5011,
-                            "la_nganh_chinh": false
-                        },
-                        {
-                            "ten_nganh": "Vận tải hàng hóa ven biển và viễn dương",
-                            "ma_nganh": 5012,
-                            "la_nganh_chinh": false
-                        },
-                        {
-                            "ten_nganh": "Vận tải hành khách đường thủy nội địa",
-                            "ma_nganh": 5021,
-                            "la_nganh_chinh": false
-                        },
-                        {
-                            "ten_nganh": "Vận tải hàng hóa đường thủy nội địa",
-                            "ma_nganh": 5022,
-                            "la_nganh_chinh": false
-                        },
-                        {
-                            "ten_nganh": "Kho bãi và lưu giữ hàng hóa - Chi tiết: Hoạt động lưu giữ hàng hóa (trừ kinh doanh kho bãi)",
-                            "ma_nganh": 5210,
-                            "la_nganh_chinh": false
-                        },
-                        {
-                            "ten_nganh": "Hoạt động dịch vụ hỗ trợ trực tiếp cho vận tải đường sắt - (trừ hóa lỏng khí để vận chuyển và trừ kinh doanh kết cấu hạ tầng đường sắt)",
-                            "ma_nganh": 5221,
-                            "la_nganh_chinh": false
-                        },
-                        {
-                            "ten_nganh": "Hoạt động dịch vụ hỗ trợ trực tiếp cho vận tải đường thủy - (trừ hóa lỏng khí để vận chuyển)",
-                            "ma_nganh": 5222,
-                            "la_nganh_chinh": false
-                        },
-                        {
-                            "ten_nganh": "Bốc xếp hàng hóa - (trừ bốc xếp hàng hóa cảng hàng không)",
-                            "ma_nganh": 5224,
-                            "la_nganh_chinh": false
-                        },
-                        {
-                            "ten_nganh": "Hoạt động dịch vụ hỗ trợ trực tiếp cho vận tải đường bộ - (trừ hóa lỏng khí để vận chuyển)",
-                            "ma_nganh": 5225,
-                            "la_nganh_chinh": false
-                        },
-                        {
-                            "ten_nganh": "Hoạt động dịch vụ hỗ trợ khác liên quan đến vận tải - (trừ hóa lỏng khí để vận chuyển và hoạt động liên quan đến vận tải đường hàng không)",
-                            "ma_nganh": 5229,
-                            "la_nganh_chinh": false
-                        },
-                        {
-                            "ten_nganh": "Cho thuê xe có động cơ",
-                            "ma_nganh": 7710,
-                            "la_nganh_chinh": false
-                        }
-                    ],
-                    "thanh_vien": [
-                        {
-                            "ho_ten": "HOÀNG VĂN TRƯỞNG",
-                            "gioi_tinh": "Nam",
-                            "ngay_sinh": "27/06/1984",
-                            "dan_toc": "Kinh",
-                            "quoc_tich": "Việt Nam",
-                            "loai_giay_to": "Căn cước công dân",
-                            "so_cccd": "036084030584",
-                            "ngay_cap": "30/08/2024",
-                            "noi_cap": "Bộ Công An",
-                            "ngay_het_han": "27/06/2044",
-                            "dia_chi_thuong_tru": "Khu Nguyễn Tảo, Thị Trấn Cồn, Huyện Hải Hậu, Tỉnh Nam Định, Việt Nam",
-                            "dia_chi_lien_lac": "30B Dương Đình Hội, khu phố 6, Phường Phước Long B,  Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
-                            "von_gop": "",
-                            "ty_le_gop": "",
-                            "ngay_gop_von": "",
-                            "la_chu_tich": "True"
-                        }
-                    ]
-                }
-            },
-            {
-                "name": "0314034320 - CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI DỊCH VỤ CƠ KHÍ TRƯỜNG THỊNH",
-                "data": {
-                    "tên_doanh_nghiệp": "CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI DỊCH VỤ CƠ KHÍ TRƯỜNG THỊNH",
+                    "tên_doanh_nghiệp": "",
                     "tên_doanh_nghiệp_bằng_tiếng_anh": "",
                     "tên_viết_tắt": "",
-                    "mã_số_doanh_nghiệp": "0314034320",
-                    "ngày_cấp_mst": "27/09/2016",
-                    "số_nhà_tên_đường": "30B Dương Đình Hội, khu phố 6",
-                    "xã_phường": "Phường Phước Long B",
-                    "quận_huyện": " Thành phố Thủ Đức",
-                    "tỉnh_thành_phố": "Thành phố Hồ Chí Minh",
-                    "số_điện_thoại": "0979567880",
-                    "vốn_điều_lệ": "9.500.000.000",
-                    "họ_tên": "HOÀNG VĂN TRƯỞNG",
-                    "giới_tính": "Nam",
-                    "ngày_sinh": "27/06/1984",
-                    "dân_tộc": "Kinh",
-                    "quốc_tịch": "Việt Nam",
-                    "số_cccd": "036084030584",
-                    "ngày_cấp": "30/08/2024",
-                    "nơi_cấp": "Bộ Công An",
-                    "ngày_hết_hạn": "27/06/2044",
-                    "địa_chỉ_thường_trú": "Khu Nguyễn Tảo, Thị Trấn Cồn, Huyện Hải Hậu, Tỉnh Nam Định, Việt Nam",
-                    "địa_chỉ_liên_lạc": "30B Dương Đình Hội, khu phố 6, Phường Phước Long B,  Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
-                    "họ_tên_uq": "LÊ PHƯỚC THIÊN",
-                    "giới_tính_uq": "Nam",
-                    "ngày_sinh_uq": "04/12/1997",
-                    "số_cccd_uq": "087097007616",
-                    "ngày_cấp_uq": "09/07/2021",
-                    "nơi_cấp_uq": "Cục Cảnh Sát Quản Lý Hành Chính Về Trật Tự Xã Hội",
-                    "địa_chỉ_liên_lạc_uq": "230/70/16 Nguyễn Xiển, Phường Trường Thạnh, Tp Thủ Đức, Tp Hồ Chí Minh, Việt Nam",
-                    "sdt_uq": "0981901000",
-                    "email_uq": "dkkd@giaiphapsme.com",
-                    "nganh_nghe": [],
-                    "thanh_vien": [
-                        {
-                            "ho_ten": "HOÀNG VĂN TRƯỞNG",
-                            "gioi_tinh": "Nam",
-                            "ngay_sinh": "27/06/1984",
-                            "dan_toc": "Kinh",
-                            "quoc_tich": "Việt Nam",
-                            "loai_giay_to": "Căn cước công dân",
-                            "so_cccd": "036084030584",
-                            "ngay_cap": "30/08/2024",
-                            "noi_cap": "Bộ Công An",
-                            "ngay_het_han": "27/06/2044",
-                            "dia_chi_thuong_tru": "Khu Nguyễn Tảo, Thị Trấn Cồn, Huyện Hải Hậu, Tỉnh Nam Định, Việt Nam",
-                            "dia_chi_lien_lac": "30B Dương Đình Hội, khu phố 6, Phường Phước Long B,  Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
-                            "von_gop": "",
-                            "ty_le_gop": "",
-                            "ngay_gop_von": "",
-                            "la_chu_tich": "True"
-                        }
-                    ]
-                }
-            },
-            {
-                "name": "data2",
-                "data": {
-                    "tên_doanh_nghiệp": "csc ds",
-                    "tên_doanh_nghiệp_bằng_tiếng_anh": "vvdv",
-                    "tên_viết_tắt": "eaf",
-                    "mã_số_doanh_nghiệp": "fse",
-                    "ngày_cấp_mst": "ffs",
+                    "mã_số_doanh_nghiệp": "",
+                    "ngày_cấp_mst": "",
                     "số_nhà_tên_đường": "",
                     "xã_phường": "",
-                    "quận_huyện": "fsef",
+                    "quận_huyện": "",
                     "tỉnh_thành_phố": "",
                     "số_điện_thoại": "",
                     "vốn_điều_lệ": "",
-                    "họ_tên": "ĐỖ VĂN CAO QUẾ",
-                    "giới_tính": "Nam",
-                    "ngày_sinh": "17/04/1987",
-                    "dân_tộc": "Kinh",
-                    "quốc_tịch": "Việt Nam",
-                    "số_cccd": "035087010642",
-                    "ngày_cấp": "18/09/2022",
-                    "nơi_cấp": "Cục Trưởng Cục Cảnh Sát Quản Lý Hành Chính Về Trật Tự Xã Hội",
-                    "ngày_hết_hạn": "17/04/2027",
-                    "địa_chỉ_thường_trú": "Thôn Phúc Thượng, Xã Hợp Lý, Huyện Lý Nhân, Tỉnh Hà Nam, Việt Nam",
-                    "địa_chỉ_liên_lạc": "Thôn Phúc Thượng, Xã Hợp Lý, Huyện Lý Nhân, Tỉnh Hà Nam, Việt Nam",
+                    "họ_tên": "",
+                    "giới_tính": "",
+                    "ngày_sinh": "",
+                    "dân_tộc": "",
+                    "quốc_tịch": "",
+                    "số_cccd": "",
+                    "ngày_cấp": "",
+                    "nơi_cấp": "",
+                    "ngày_hết_hạn": "",
+                    "địa_chỉ_thường_trú": "",
+                    "địa_chỉ_liên_lạc": "",
                     "họ_tên_uq": "TRƯƠNG HỒNG TÂN",
                     "giới_tính_uq": "Nam",
                     "ngày_sinh_uq": "19/05/1992",
@@ -461,7 +244,7 @@
                         {
                             "ten_nganh": "Vận tải hành khách đường sắt",
                             "ma_nganh": 4911,
-                            "la_nganh_chinh": true
+                            "la_nganh_chinh": false
                         },
                         {
                             "ten_nganh": "Vận tải hàng hóa đường sắt",
@@ -496,7 +279,7 @@
                         {
                             "ten_nganh": "Vận tải hàng hóa bằng đường bộ - (trừ hóa lỏng khí để vận chuyển)",
                             "ma_nganh": 4933,
-                            "la_nganh_chinh": false
+                            "la_nganh_chinh": true
                         },
                         {
                             "ten_nganh": "Vận tải đường ống",
@@ -567,7 +350,7 @@
                             "dan_toc": "Kinh",
                             "quoc_tich": "Việt Nam",
                             "loai_giay_to": "Căn cước công dân",
-                            "so_cccd": "035087010642",
+                            "so_cccd": 35087010642,
                             "ngay_cap": "18/09/2022",
                             "noi_cap": "Cục Trưởng Cục Cảnh Sát Quản Lý Hành Chính Về Trật Tự Xã Hội",
                             "ngay_het_han": "17/04/2027",
@@ -576,17 +359,17 @@
                             "von_gop": "",
                             "ty_le_gop": "",
                             "ngay_gop_von": "",
-                            "la_chu_tich": ""
+                            "la_chu_tich": true
                         }
                     ]
                 }
             },
             {
-                "name": "mới",
+                "name": "0314034320 - CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI DỊCH VỤ CƠ KHÍ TRƯỜNG THỊNH",
                 "data": {
-                    "tên_doanh_nghiệp": "mới",
-                    "tên_doanh_nghiệp_bằng_tiếng_anh": "thử",
-                    "tên_viết_tắt": "tính năng",
+                    "tên_doanh_nghiệp": "CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI DỊCH VỤ CƠ KHÍ TRƯỜNG THỊNH",
+                    "tên_doanh_nghiệp_bằng_tiếng_anh": "",
+                    "tên_viết_tắt": "",
                     "mã_số_doanh_nghiệp": "0314034320",
                     "ngày_cấp_mst": "27/09/2016",
                     "số_nhà_tên_đường": "30B Dương Đình Hội, khu phố 6",
@@ -605,37 +388,17 @@
                     "nơi_cấp": "Bộ Công An",
                     "ngày_hết_hạn": "27/06/2044",
                     "địa_chỉ_thường_trú": "Khu Nguyễn Tảo, Thị Trấn Cồn, Huyện Hải Hậu, Tỉnh Nam Định, Việt Nam",
-                    "địa_chỉ_liên_lạc": "30B Dương Đình Hội, khu phố 6, Phường Phước Long B,  Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
-                    "họ_tên_uq": "LÊ PHƯỚC THIÊN",
+                    "địa_chỉ_liên_lạc": "Khu Nguyễn Tảo, Thị Trấn Cồn, Huyện Hải Hậu, Tỉnh Nam Định, Việt Nam",
+                    "họ_tên_uq": "TRƯƠNG HỒNG TÂN",
                     "giới_tính_uq": "Nam",
-                    "ngày_sinh_uq": "04/12/1997",
-                    "số_cccd_uq": "087097007616",
-                    "ngày_cấp_uq": "09/07/2021",
-                    "nơi_cấp_uq": "Cục Cảnh Sát Quản Lý Hành Chính Về Trật Tự Xã Hội",
-                    "địa_chỉ_liên_lạc_uq": "230/70/16 Nguyễn Xiển, Phường Trường Thạnh, Tp Thủ Đức, Tp Hồ Chí Minh, Việt Nam",
-                    "sdt_uq": "0981901000",
-                    "email_uq": "dkkd@giaiphapsme.com",
-                    "nganh_nghe": [],
-                    "thanh_vien": [
-                        {
-                            "ho_ten": "HOÀNG VĂN TRƯỞNG",
-                            "gioi_tinh": "Nam",
-                            "ngay_sinh": "27/06/1984",
-                            "dan_toc": "Kinh",
-                            "quoc_tich": "Việt Nam",
-                            "loai_giay_to": "Căn cước công dân",
-                            "so_cccd": "036084030584",
-                            "ngay_cap": "30/08/2024",
-                            "noi_cap": "Bộ Công An",
-                            "ngay_het_han": "27/06/2044",
-                            "dia_chi_thuong_tru": "Khu Nguyễn Tảo, Thị Trấn Cồn, Huyện Hải Hậu, Tỉnh Nam Định, Việt Nam",
-                            "dia_chi_lien_lac": "30B Dương Đình Hội, khu phố 6, Phường Phước Long B,  Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
-                            "von_gop": "",
-                            "ty_le_gop": "",
-                            "ngay_gop_von": "",
-                            "la_chu_tich": "True"
-                        }
-                    ]
+                    "ngày_sinh_uq": "19/05/1992",
+                    "số_cccd_uq": "087092001337",
+                    "ngày_cấp_uq": "15/04/2021",
+                    "nơi_cấp_uq": "Cục Quản Lý Hành Chính Về Trật Tự Xã Hội",
+                    "địa_chỉ_liên_lạc_uq": "230/70/16 Nguyễn Xiển, Phường Trường Thạnh, Tp. Thủ Đức, Tp. Hồ Chí Minh",
+                    "sdt_uq": "0968988000",
+                    "email_uq": "nophoso@giaiphapsme.com",
+                    "nganh_nghe": []
                 }
             }
         ]

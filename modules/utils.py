@@ -1,9 +1,10 @@
 import tkinter as tk
-from tkinter import ttk, messagebox, filedialog, simpledialog, Toplevel, Text
+from tkinter import ttk
 from docx.oxml import OxmlElement
 from docx.oxml.ns import qn
-from docxcompose.composer import Composer
 import unicodedata
+import logging
+
 
 class ToolTip:
     def __init__(self, widget, text):
@@ -37,22 +38,6 @@ class ToolTip:
         if self.tooltip:
             self.tooltip.destroy()
             self.tooltip = None
-
-def create_centered_popup(parent, title, width, height):
-    """Tạo một popup căn giữa màn hình với kích thước và tiêu đề tùy chỉnh."""
-    popup = tk.Toplevel(parent)
-    popup.title(title)
-    
-    screen_width = popup.winfo_screenwidth()
-    screen_height = popup.winfo_screenheight()
-    x = (screen_width - width) // 2
-    y = (screen_height - height) // 2
-    
-    popup.geometry(f"{width}x{height}+{x}+{y}")
-    popup.transient(parent)
-    popup.grab_set()
-    
-    return popup
 
 def add_section_break(doc):
     last_paragraph = doc.paragraphs[-1]
@@ -151,3 +136,39 @@ def normalize_vietnamese(input_str):
     normalized = ''.join(vietnamese_map.get(c, c) for c in nfkd_form if not unicodedata.combining(c))
     normalized = normalized.lower().replace(" ", "_").replace(",", "").replace("/", "_").replace("(", "").replace(")", "")
     return normalized
+
+def create_popup(root, title, width, height):
+    """Tạo một popup được căn giữa."""
+    popup = tk.Toplevel(root)
+    popup.title(title)
+
+    screen_width = popup.winfo_screenwidth()
+    screen_height = popup.winfo_screenheight()
+    x = (screen_width - width) // 2
+    y = (screen_height - height) // 2
+
+    popup.geometry(f"{width}x{height}+{x}+{y}")
+    popup.transient(root)  # Đặt popup là cửa sổ con của root
+    popup.grab_set()  # Chặn tương tác với cửa sổ khác
+    popup.resizable(False, False)  # Không cho phép thay đổi kích thước
+    popup.bind('<Escape>', lambda e: popup.destroy())  # Đóng popup khi nhấn Escape
+    return popup
+
+def create_popup_with_notebook(root, title, width, height, tabs):
+    """Tạo một popup với Notebook chứa các tab."""
+    popup = create_popup(root, title, width, height)
+    notebook = ttk.Notebook(popup)
+    notebook.pack(fill="both", expand=True, padx=5, pady=5)
+    entries = {}
+    for tab_name, fields in tabs.items():
+        tab = ttk.Frame(notebook)
+        notebook.add(tab, text=tab_name)
+        for field in fields:
+            ttk.Label(tab, text=field.replace('_', ' ').title()).pack(pady=5)
+            entry = ttk.Entry(tab, width=50)
+            entry.pack(pady=5)
+            entries[field] = entry
+    return popup, entries
+
+
+       

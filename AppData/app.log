@@ -2036,3 +2036,2081 @@
 2025-03-30 13:32:57,870 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
 2025-03-30 13:38:57,060 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
 2025-03-30 13:40:41,540 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-30 15:29:05,756 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-30 23:35:16,084 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-30 23:40:54,980 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-30 23:41:52,048 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 10:57:52,144 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 10:59:39,394 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 11:20:44,464 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 11:33:45,881 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 11:36:50,443 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 11:39:41,072 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 12:22:13,404 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 12:22:51,874 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 12:24:12,050 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 12:30:50,292 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 12:49:05,971 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 12:51:00,032 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 12:51:12,538 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 12:52:33,249 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 12:52:38,300 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 20, Members: 1
+2025-03-31 12:52:38,301 - INFO - Doc paths: ['templates\\ca nhan_uy quyen.docx', 'templates\\doanh nghiep_uy quyen.docx']
+2025-03-31 12:52:38,437 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-03-31 12:52:38,522 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-03-31 12:52:38,620 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_1.docx
+2025-03-31 12:52:38,714 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_1.docx
+2025-03-31 12:52:38,808 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t g\u1ed9p
+2025-03-31 12:53:28,842 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 20, Members: 1
+2025-03-31 12:53:28,842 - INFO - Doc paths: ['templates\\MTV_giay de nghi.docx']
+2025-03-31 12:53:29,156 - ERROR - L\u1ed7i khi g\u1ed9p tài li\u1ec7u: create_industry_table() missing 1 required positional argument: 'industries'
+2025-03-31 12:53:38,235 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/output_20250331_125326
+2025-03-31 12:55:24,197 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 12:55:32,514 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 20, Members: 1
+2025-03-31 12:55:32,514 - INFO - Doc paths: ['templates\\MTV_giay de nghi.docx']
+2025-03-31 12:55:33,150 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-03-31 12:55:34,306 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-03-31 12:55:34,348 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-03-31 12:55:39,128 - INFO - Xu\u1ea5t Word g\u1ed9p: C:/Users/noname/Downloads/output_20250331_125531.docx
+2025-03-31 12:56:03,420 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 4
+2025-03-31 12:56:03,420 - INFO - Doc paths: ['templates\\2TV_BBH.docx']
+2025-03-31 12:56:03,614 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-03-31 12:56:03,773 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-03-31 12:56:03,796 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-03-31 12:56:16,338 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/output_20250331_125601
+2025-03-31 13:00:51,785 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 13:08:22,594 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 13:09:06,931 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 13:13:02,102 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 13:15:50,610 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 13:24:55,490 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 13:31:11,924 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 20, Members: 1
+2025-03-31 13:31:11,925 - INFO - Doc paths: ['templates\\MTV_giay de nghi.docx']
+2025-03-31 13:31:12,585 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-03-31 13:31:13,721 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-03-31 13:31:13,762 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-03-31 13:31:15,967 - INFO - Xu\u1ea5t Word g\u1ed9p: C:/Users/noname/Downloads/output_20250331_133109.docx
+2025-03-31 13:34:57,085 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 13:35:14,639 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 4
+2025-03-31 13:35:14,639 - INFO - Doc paths: ['templates\\2TV_BBH.docx']
+2025-03-31 13:35:14,805 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-03-31 13:35:14,959 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-03-31 13:35:14,981 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-03-31 13:35:23,632 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/output_20250331_133512
+2025-03-31 13:35:35,795 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 20, Members: 1
+2025-03-31 13:35:35,796 - INFO - Doc paths: ['templates\\MTV_dieu le.docx']
+2025-03-31 13:35:36,475 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-03-31 13:35:36,858 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-03-31 13:35:36,892 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-03-31 13:53:07,244 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 14:07:08,001 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 14:07:08,248 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-03-31 14:07:51,427 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 14:07:51,639 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-03-31 14:15:47,683 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 14:15:47,867 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-03-31 14:16:29,931 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 14:16:30,126 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-03-31 14:28:23,779 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 14:28:30,473 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 14:29:16,973 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-03-31 14:29:16,979 - ERROR - L\u1ed7i khi khôi ph\u1ee5c: Invalid slave specification 
+2025-03-31 14:29:30,032 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-03-31 14:29:30,034 - ERROR - L\u1ed7i khi khôi ph\u1ee5c: Invalid slave specification 
+2025-03-31 14:30:22,641 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 14:30:58,715 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 14:32:20,352 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 14:32:33,202 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 20, Members: 1
+2025-03-31 14:32:33,202 - INFO - Doc paths: ['templates\\ca nhan_uy quyen.docx', 'templates\\doanh nghiep_uy quyen.docx']
+2025-03-31 14:32:33,337 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-03-31 14:32:33,445 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-03-31 14:32:33,569 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_1.docx
+2025-03-31 14:32:33,681 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_1.docx
+2025-03-31 14:32:33,751 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t g\u1ed9p
+2025-03-31 14:33:00,752 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 14:43:01,772 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250331_144301.json
+2025-03-31 15:56:39,269 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 16:10:58,209 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 16:11:14,061 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 16:18:37,601 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 16:38:54,406 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 17:33:18,272 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 17:33:27,560 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 20, Members: 1
+2025-03-31 17:33:27,560 - INFO - Doc paths: ['templates\\ca nhan_uy quyen.docx', 'templates\\MTV_dieu le.docx']
+2025-03-31 17:33:27,694 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-03-31 17:33:27,810 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-03-31 17:33:28,537 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_1.docx
+2025-03-31 17:33:28,967 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_1.docx
+2025-03-31 17:33:29,205 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t g\u1ed9p
+2025-03-31 17:51:36,382 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 17:55:45,402 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 17:56:46,217 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 17:57:39,753 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 18:07:40,112 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250331_180740.json
+2025-03-31 18:21:02,133 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 18:23:53,756 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 18:24:50,154 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 18:26:36,817 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 18:28:15,253 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 18:31:31,030 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 18:33:31,944 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 18:33:42,743 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 18:35:57,379 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 18:38:39,635 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 18:38:44,055 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 18:39:10,404 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 18:39:19,039 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 18:39:44,738 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-03-31 18:49:19,444 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250331_184919.json
+2025-03-31 18:49:46,743 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 18:50:00,544 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 18:50:41,689 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 18:55:57,975 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 18:59:09,176 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 19:00:22,144 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 19:01:48,935 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 19:02:18,655 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 19:03:23,032 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 19:04:44,510 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 19:06:30,167 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 19:12:40,325 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 19:17:50,991 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 19:18:57,549 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 19:19:49,033 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 19:20:46,175 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 19:22:41,131 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 19:23:52,646 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 19:24:25,098 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 19:26:45,701 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 19:27:30,755 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 19:28:00,428 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 19:28:17,038 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-03-31 19:30:07,891 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 19:31:49,769 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 19:37:11,369 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 19:39:59,912 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 19:40:48,002 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 19:42:35,459 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 19:43:23,317 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 19:44:59,295 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 19:46:16,263 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 19:46:45,233 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-03-31 19:56:16,671 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250331_195616.json
+2025-03-31 20:02:40,837 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 20:02:52,467 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 20:04:52,782 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 20:07:58,500 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 20:09:09,389 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 20:18:54,546 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 20:21:01,607 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 20:24:07,713 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 20:26:53,475 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 20:27:43,078 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 20:42:12,267 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 20:46:04,658 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 20:46:04,660 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-03-31 20:48:24,832 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 20:48:24,834 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-03-31 20:49:01,707 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-03-31 20:49:01,713 - ERROR - L\u1ed7i khi khôi ph\u1ee5c: Invalid slave specification 
+2025-03-31 20:58:25,649 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 20:58:25,651 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-03-31 20:58:39,506 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-03-31 20:58:39,512 - ERROR - L\u1ed7i khi khôi ph\u1ee5c: Invalid slave specification 
+2025-03-31 20:58:54,730 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 20:58:54,732 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-03-31 20:58:58,798 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-03-31 20:58:58,803 - ERROR - L\u1ed7i khi khôi ph\u1ee5c: Invalid slave specification 
+2025-03-31 21:02:11,322 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 21:02:11,324 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-03-31 21:02:18,642 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-03-31 21:02:18,679 - INFO - Thêm c\u1ea5u hình 'dwdsad'
+2025-03-31 21:04:36,845 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 21:04:36,847 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-03-31 21:08:20,755 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 21:08:28,913 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-03-31 21:08:29,995 - INFO - Khôi ph\u1ee5c t\u1eeb sao l\u01b0u: backup_20250331_195616.json
+2025-03-31 21:08:33,880 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-03-31 21:08:34,988 - INFO - Khôi ph\u1ee5c t\u1eeb sao l\u01b0u: backup_20250328_213426.json
+2025-03-31 21:09:02,139 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 21:09:19,747 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-03-31 21:09:20,972 - INFO - Xóa d\u1eef li\u1ec7u 'data'
+2025-03-31 21:09:26,565 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-03-31 21:09:27,633 - INFO - Xóa d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-03-31 21:09:49,892 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-03-31 21:09:51,346 - INFO - Khôi ph\u1ee5c t\u1eeb sao l\u01b0u: backup_20250331_184919.json
+2025-03-31 21:10:44,250 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 21:34:43,881 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 21:34:50,841 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 20, Members: 1
+2025-03-31 21:34:50,841 - INFO - Doc paths: ['templates\\ca nhan_uy quyen.docx', 'templates\\doanh nghiep_uy quyen.docx']
+2025-03-31 21:34:50,937 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-03-31 21:34:51,025 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-03-31 21:34:51,127 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_1.docx
+2025-03-31 21:34:51,211 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_1.docx
+2025-03-31 21:34:51,242 - ERROR - L\u1ed7i khi g\u1ed9p tài li\u1ec7u: 'ExportManager' object has no attribute 'add_section_break'
+2025-03-31 21:38:13,695 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 21:38:41,371 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 20, Members: 1
+2025-03-31 21:38:41,372 - INFO - Doc paths: ['templates\\ca nhan_uy quyen.docx']
+2025-03-31 21:38:41,484 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-03-31 21:38:41,570 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-03-31 21:38:41,594 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-03-31 21:38:46,626 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 20, Members: 1
+2025-03-31 21:38:46,627 - INFO - Doc paths: ['templates\\ca nhan_uy quyen.docx', 'templates\\doanh nghiep_uy quyen.docx']
+2025-03-31 21:38:46,730 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-03-31 21:38:46,814 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-03-31 21:38:46,903 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_1.docx
+2025-03-31 21:38:46,993 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_1.docx
+2025-03-31 21:38:47,066 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t g\u1ed9p
+2025-03-31 21:38:56,795 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 20, Members: 1
+2025-03-31 21:38:56,795 - INFO - Doc paths: ['templates\\ca nhan_uy quyen.docx']
+2025-03-31 21:38:56,941 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-03-31 21:38:57,034 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-03-31 21:38:57,058 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-03-31 21:39:03,663 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/output_20250331_213853
+2025-03-31 21:39:10,904 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 20, Members: 1
+2025-03-31 21:39:10,904 - INFO - Doc paths: ['templates\\doanh nghiep_uy quyen.docx', 'templates\\MTV_dieu le.docx']
+2025-03-31 21:39:11,030 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-03-31 21:39:11,128 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-03-31 21:39:11,286 - ERROR - L\u1ed7i khi g\u1ed9p tài li\u1ec7u: ExportManager.create_industry_table() takes 2 positional arguments but 3 were given
+2025-03-31 21:42:31,582 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 21:42:41,139 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 20, Members: 1
+2025-03-31 21:42:41,140 - INFO - Doc paths: ['templates\\MTV_dieu le.docx']
+2025-03-31 21:42:41,882 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-03-31 21:42:42,265 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-03-31 21:42:42,299 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-03-31 21:42:48,070 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/output_20250331_214239
+2025-03-31 21:44:13,720 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 21:44:29,202 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 4
+2025-03-31 21:44:29,202 - INFO - Doc paths: ['templates\\2TV_BBH.docx', 'templates\\2TV_quyet dinh.docx', 'templates\\thong bao cap nhat cccd.docx', 'templates\\thong bao giai the_B1.docx']
+2025-03-31 21:44:29,386 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-03-31 21:44:29,559 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-03-31 21:44:29,634 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_1.docx
+2025-03-31 21:44:29,778 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_1.docx
+2025-03-31 21:44:29,865 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_2.docx
+2025-03-31 21:44:30,020 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_2.docx
+2025-03-31 21:44:30,064 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_3.docx
+2025-03-31 21:44:30,147 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_3.docx
+2025-03-31 21:44:30,303 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t g\u1ed9p
+2025-03-31 21:44:32,375 - INFO - Xu\u1ea5t Word g\u1ed9p: C:/Users/noname/Downloads/output_20250331_214427.docx
+2025-03-31 21:45:46,343 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 4
+2025-03-31 21:45:46,343 - INFO - Doc paths: ['templates\\2TV_BBH.docx']
+2025-03-31 21:45:46,508 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-03-31 21:45:46,689 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-03-31 21:45:46,711 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-03-31 21:45:56,869 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/output_20250331_214544
+2025-03-31 21:46:14,468 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 20, Members: 1
+2025-03-31 21:46:14,468 - INFO - Doc paths: ['templates\\ca nhan_uy quyen.docx', 'templates\\MTV_dieu le.docx', 'templates\\MTV_giay de nghi.docx']
+2025-03-31 21:46:14,584 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-03-31 21:46:14,694 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-03-31 21:46:15,457 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_1.docx
+2025-03-31 21:46:15,835 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_1.docx
+2025-03-31 21:46:16,419 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_2.docx
+2025-03-31 21:46:17,498 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_2.docx
+2025-03-31 21:46:17,900 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t g\u1ed9p
+2025-03-31 21:47:00,114 - INFO - Xu\u1ea5t Word g\u1ed9p: C:/Users/noname/Downloads/output_20250331_214613.docx
+2025-03-31 21:47:41,284 - INFO - Xu\u1ea5t JSON: C:/Users/noname/Downloads/data_20250331_214732.json
+2025-03-31 22:12:22,784 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 22:18:49,271 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 22:20:05,272 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 22:20:13,896 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 20, Members: 1
+2025-03-31 22:20:13,897 - INFO - Doc paths: ['templates\\MTV_dieu le.docx']
+2025-03-31 22:20:14,598 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-03-31 22:20:14,962 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-03-31 22:20:15,004 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-03-31 22:25:17,615 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 22:25:24,305 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 20, Members: 1
+2025-03-31 22:25:24,305 - INFO - Doc paths: ['templates\\ca nhan_uy quyen.docx']
+2025-03-31 22:25:24,445 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-03-31 22:25:24,534 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-03-31 22:25:24,558 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-03-31 22:28:51,185 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 22:28:56,056 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 20, Members: 1
+2025-03-31 22:28:56,057 - INFO - Doc paths: ['templates\\ca nhan_uy quyen.docx']
+2025-03-31 22:28:56,197 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-03-31 22:28:56,296 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-03-31 22:28:56,329 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-03-31 22:30:59,140 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 22:31:03,171 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 20, Members: 1
+2025-03-31 22:31:03,172 - INFO - Doc paths: ['templates\\ca nhan_uy quyen.docx']
+2025-03-31 22:31:03,307 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-03-31 22:31:03,391 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-03-31 22:31:03,413 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-03-31 22:33:57,304 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 22:34:06,369 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 20, Members: 1
+2025-03-31 22:34:06,370 - INFO - Doc paths: ['templates\\ca nhan_uy quyen.docx']
+2025-03-31 22:34:06,503 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-03-31 22:34:06,590 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-03-31 22:34:06,612 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-03-31 22:38:11,286 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 22:38:43,977 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-03-31 22:48:19,173 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 22:51:17,629 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-03-31 22:51:19,417 - INFO - Khôi ph\u1ee5c t\u1eeb sao l\u01b0u: backup_20250331_195616.json
+2025-03-31 22:52:26,811 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-03-31 22:52:28,411 - INFO - L\u01b0u d\u1eef li\u1ec7u 'b\u1ea3o phát'
+2025-03-31 22:53:03,467 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 0
+2025-03-31 22:53:03,467 - INFO - Doc paths: ['templates\\phieu thu.docx']
+2025-03-31 22:53:03,521 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-03-31 22:53:03,615 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-03-31 22:53:03,635 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-03-31 22:56:15,466 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/fileshare/P.Kinh doanh/\u0110\u0103ng ký doanh nghi\u1ec7p/2025/- CÔNG TY TNHH TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 LOGISTIC B\u1ea2O  PHÁT/phieu thu - lan 2
+2025-03-31 23:25:39,815 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 23:26:32,608 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-03-31 23:36:32,986 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250331_233632.json
+2025-03-31 23:50:29,987 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 08:35:59,024 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 08:36:10,923 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 08:36:11,791 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 08:36:13,289 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 08:36:13,913 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 08:36:14,843 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 08:36:27,363 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 08:36:33,757 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 08:38:44,537 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 08:48:44,910 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250401_084844.json
+2025-04-01 08:58:44,922 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250401_085844.json
+2025-04-01 09:07:19,243 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 09:07:27,995 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 09:07:29,177 - INFO - Thêm d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 09:08:35,127 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 09:08:36,226 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 09:08:55,183 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 09:08:56,058 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 09:16:59,485 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 09:17:00,385 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 09:17:19,608 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250401_091719.json
+2025-04-01 09:19:33,262 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 09:19:34,620 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 09:26:10,145 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 09:27:40,319 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 09:33:03,080 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 09:34:24,412 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 09:35:59,059 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 09:39:19,726 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 09:40:32,743 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 09:40:56,499 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 20, Members: 1
+2025-04-01 09:40:56,499 - INFO - Doc paths: ['templates\\MTV_dieu le.docx']
+2025-04-01 09:40:57,287 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-01 09:40:57,664 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-01 09:40:57,702 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-01 09:41:04,222 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/CÔNG TY TNHH TM DV LOGISTICS B\u1ea2O  PHÁT_output_20250401_094039
+2025-04-01 09:41:08,936 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 20, Members: 1
+2025-04-01 09:41:08,936 - INFO - Doc paths: ['templates\\MTV_giay de nghi.docx']
+2025-04-01 09:41:09,559 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-01 09:41:10,789 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-01 09:41:10,829 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-01 09:41:20,986 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/CÔNG TY TNHH TM DV LOGISTICS B\u1ea2O  PHÁT_output_20250401_094104
+2025-04-01 09:47:10,581 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 09:54:50,195 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 09:58:00,656 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 09:59:29,385 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 10:01:54,406 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 10:03:44,947 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 10:05:54,773 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 10:08:32,478 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 10:10:15,450 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 10:11:54,035 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 10:13:01,846 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 10:14:56,451 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 10:15:09,030 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 20, Members: 1
+2025-04-01 10:15:09,031 - INFO - Doc paths: ['templates\\MTV_dieu le.docx']
+2025-04-01 10:15:09,815 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-01 10:15:10,193 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-01 10:15:10,220 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-01 10:15:12,303 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/CÔNG TY TNHH TM DV LOGISTICS B\u1ea2O  PHÁT_MTV_dieu le.docx_MTV_giay de nghi.docx_01042025
+2025-04-01 10:15:14,264 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 20, Members: 1
+2025-04-01 10:15:14,264 - INFO - Doc paths: ['templates\\MTV_giay de nghi.docx']
+2025-04-01 10:15:15,094 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-01 10:15:16,728 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-01 10:15:16,777 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-01 10:15:16,783 - ERROR - L\u1ed7i khi l\u01b0u ho\u1eb7c m\u1edf file C:/Users/noname/Downloads/CÔNG TY TNHH TM DV LOGISTICS B\u1ea2O  PHÁT_MTV_dieu le.docx_MTV_giay de nghi.docx_01042025_1.docx: [Errno 13] Permission denied: 'C:/Users/noname/Downloads/CÔNG TY TNHH TM DV LOGISTICS B\u1ea2O  PHÁT_MTV_dieu le.docx_MTV_giay de nghi.docx_01042025_1.docx'
+2025-04-01 10:15:25,547 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/CÔNG TY TNHH TM DV LOGISTICS B\u1ea2O  PHÁT_MTV_dieu le.docx_MTV_giay de nghi.docx_01042025
+2025-04-01 10:19:23,926 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 10:20:28,763 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 10:20:37,233 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 20, Members: 1
+2025-04-01 10:20:37,233 - INFO - Doc paths: ['templates\\ca nhan_uy quyen.docx']
+2025-04-01 10:20:37,362 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-01 10:20:37,453 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-01 10:20:37,478 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-01 10:20:42,834 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/CÔNG TY TNHH TM DV LOGISTICS B\u1ea2O  PHÁT_ca nhan_uy quyen.docx_doanh nghiep_uy quyen.docx_01042025_102033
+2025-04-01 10:20:45,217 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 20, Members: 1
+2025-04-01 10:20:45,217 - INFO - Doc paths: ['templates\\doanh nghiep_uy quyen.docx']
+2025-04-01 10:20:45,322 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-01 10:20:45,404 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-01 10:20:45,426 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-01 10:21:10,261 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/CÔNG TY TNHH TM DV LOGISTICS B\u1ea2O  PHÁT_ca nhan_uy quyen.docx_doanh nghiep_uy quyen.docx_01042025_102042
+2025-04-01 10:30:29,147 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250401_103029.json
+2025-04-01 10:31:16,280 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 10:31:16,646 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 10:31:19,472 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 10:31:26,769 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 10:31:27,998 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 10:31:29,632 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 10:31:31,106 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 10:32:10,470 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 10:32:10,825 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 10:32:12,696 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 10:32:16,228 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 10:32:18,696 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 10:33:16,895 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 10:33:33,607 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 10:33:35,317 - INFO - Khôi ph\u1ee5c t\u1eeb sao l\u01b0u: backup_20250401_103029.json
+2025-04-01 10:33:46,630 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 10:34:46,440 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 10:34:46,857 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 10:35:48,648 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 10:35:55,090 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 10:35:55,191 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 10:35:56,334 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 10:35:57,139 - INFO - Khôi ph\u1ee5c t\u1eeb sao l\u01b0u: backup_20250401_103029.json
+2025-04-01 10:37:35,921 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 10:37:40,509 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 10:37:42,549 - INFO - Khôi ph\u1ee5c t\u1eeb sao l\u01b0u: backup_20250401_103029.json
+2025-04-01 10:38:11,335 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 10:41:32,192 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 10:42:41,802 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 10:46:18,538 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 10:46:18,898 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 10:46:31,949 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 10:46:38,590 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 10:46:40,661 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 10:46:42,958 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 10:46:44,094 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 10:46:49,275 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 10:46:53,415 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 10:47:45,238 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 10:47:45,632 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 10:48:00,782 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 10:51:35,636 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 10:51:36,014 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 10:51:38,679 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 10:51:41,658 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 10:51:42,630 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 10:51:44,682 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 10:51:48,986 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 10:57:46,976 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 10:58:24,999 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 10:58:36,024 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 10:58:37,490 - INFO - Khôi ph\u1ee5c t\u1eeb sao l\u01b0u: backup_20250401_103029.json
+2025-04-01 11:09:26,910 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 11:09:27,281 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 11:10:11,570 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 11:12:10,450 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 11:12:10,801 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 11:12:13,503 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 11:12:16,710 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 11:12:17,794 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 11:12:19,092 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 11:12:20,617 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 11:14:42,583 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 11:14:54,577 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 11:14:56,022 - INFO - Khôi ph\u1ee5c t\u1eeb sao l\u01b0u: backup_20250401_103029.json
+2025-04-01 11:32:49,418 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 11:34:59,941 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 11:38:08,448 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 11:40:39,456 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 11:53:45,364 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 11:56:43,567 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 11:56:46,957 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 11:56:46,958 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 11:56:47,044 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 11:56:47,045 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 11:56:47,124 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 11:56:47,124 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 11:56:47,900 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 11:56:47,900 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 11:56:48,033 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 11:56:48,033 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 11:56:48,043 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 11:56:48,043 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 11:56:48,094 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 11:56:48,094 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 11:56:48,100 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 11:56:48,100 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 11:56:48,470 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 11:56:48,470 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 11:56:48,572 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 11:56:48,572 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 11:56:48,587 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 11:56:48,587 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 11:56:48,716 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 11:56:48,716 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 11:56:48,775 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 11:56:48,775 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 11:56:48,811 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 11:56:48,811 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 11:56:48,835 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 11:56:48,835 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 11:56:49,172 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 11:56:49,173 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 11:56:49,254 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 11:56:49,254 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 11:56:49,315 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 11:56:49,315 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 11:56:52,209 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 11:56:52,209 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 11:57:03,573 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 11:57:15,087 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 11:57:15,088 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 11:57:29,610 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 11:57:29,610 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 11:57:30,540 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 11:57:30,541 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 11:57:30,949 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 11:57:30,949 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 11:57:30,951 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 11:57:30,952 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 11:57:31,067 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 11:57:31,068 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 11:57:31,108 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 11:57:31,108 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 11:57:31,280 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 11:57:31,280 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 11:57:31,492 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 11:57:31,492 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 11:57:31,635 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 11:57:31,635 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 11:57:31,675 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 11:57:31,675 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 11:57:31,852 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 11:57:31,852 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 11:57:32,014 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 11:57:32,014 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 11:57:32,021 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 11:57:32,021 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 11:57:32,041 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 11:57:32,041 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 11:57:32,180 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 11:57:32,180 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 11:57:32,300 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 11:57:32,300 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 11:57:32,326 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 11:57:32,326 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 11:57:32,448 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 11:57:32,448 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 11:57:32,460 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 11:57:32,460 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 11:57:32,579 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 11:57:32,579 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 11:57:32,603 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 11:57:32,603 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 11:57:32,763 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 11:57:32,763 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 11:57:32,860 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 11:57:32,860 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 11:57:32,883 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 11:57:32,883 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 11:57:33,571 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 11:57:33,571 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 12:01:46,407 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 12:03:10,406 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 12:03:14,180 - INFO - \u0110ã xóa thông tin trong tab 'Thông tin công ty'
+2025-04-01 12:03:21,665 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:03:21,665 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 12:06:53,062 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:06:53,063 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 12:06:54,536 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:06:54,537 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 12:06:58,500 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:06:58,501 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 12:07:01,873 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:07:01,873 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 12:09:50,645 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 12:09:57,885 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:09:57,886 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 12:09:59,245 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:09:59,245 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 12:10:00,396 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:10:00,397 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 12:10:00,476 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:10:00,477 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 12:10:00,652 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:10:00,652 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 12:10:00,661 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:10:00,661 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 12:10:00,789 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:10:00,789 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 12:10:00,814 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:10:00,814 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 12:10:01,041 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:10:01,042 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 12:10:01,076 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:10:01,076 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 12:10:01,236 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:10:01,236 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 12:10:01,261 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:10:01,261 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 12:10:01,452 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:10:01,452 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 12:10:01,620 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:10:01,620 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 12:10:01,642 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:10:01,642 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 12:10:01,645 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:10:01,645 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 12:10:02,404 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:10:02,404 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 12:10:02,509 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:10:02,509 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 12:10:03,743 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:10:03,743 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 12:10:39,209 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 12:10:39,212 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:11:02,674 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:11:03,756 - INFO - Thêm d\u1eef li\u1ec7u 'c'
+2025-04-01 12:14:09,600 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 12:14:09,602 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:15:08,239 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 12:15:08,241 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:16:06,587 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 12:16:06,589 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:16:45,845 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 12:16:59,299 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:16:59,299 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 12:17:04,291 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:17:04,292 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 12:17:50,027 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:17:50,027 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 12:18:18,576 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:18:18,577 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 12:18:20,020 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:18:20,020 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 12:18:20,720 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:18:20,723 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 12:19:14,962 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:19:14,963 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 12:19:16,446 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:19:16,447 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 12:22:51,595 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 12:24:09,828 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 12:25:49,857 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 12:26:39,287 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 12:28:21,840 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 12:28:38,609 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:28:38,609 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 12:29:10,742 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:29:10,743 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 12:29:12,064 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:29:12,064 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 12:29:16,357 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:29:16,358 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 12:29:27,725 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:29:27,726 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 12:29:28,390 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:29:28,391 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 12:29:28,821 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:29:28,821 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 12:29:30,343 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:29:30,343 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 12:29:52,783 - INFO - Xu\u1ea5t Excel: C:/Users/noname/Downloads/data_20250401_122947.xlsx
+2025-04-01 12:30:42,265 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:30:44,000 - INFO - Nh\u1eadp d\u1eef li\u1ec7u t\u1eeb Excel: C:/Users/noname/Downloads/data_20250401_122947.xlsx
+2025-04-01 12:30:45,847 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:30:45,847 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 12:30:47,288 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:30:47,288 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 12:30:48,038 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:30:48,039 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 12:30:49,134 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:30:49,134 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 12:30:49,174 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:30:49,175 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 12:30:54,096 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:30:54,096 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 12:32:01,822 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:32:01,822 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 12:32:02,782 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:32:02,783 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 12:38:22,231 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250401_123822.json
+2025-04-01 12:41:01,820 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 12:41:17,721 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:41:17,722 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 12:41:18,643 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:41:18,644 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 12:41:19,223 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:41:19,223 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 12:41:19,730 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:41:19,730 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 12:41:20,060 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:41:20,060 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 12:41:21,907 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:41:21,908 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 12:41:22,675 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:41:22,676 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 12:41:23,286 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:41:23,286 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 12:41:24,143 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:41:24,144 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 12:41:24,150 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:41:24,151 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 12:41:25,119 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:41:25,120 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 12:41:25,646 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:41:25,647 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 12:41:38,813 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:41:41,599 - INFO - Nh\u1eadp d\u1eef li\u1ec7u t\u1eeb Excel: C:/Users/noname/Downloads/data_20250401_122947.xlsx
+2025-04-01 12:42:04,123 - INFO - Xu\u1ea5t Excel: C:/Users/noname/Downloads/data.xlsx
+2025-04-01 12:42:11,047 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:42:11,817 - INFO - Thêm d\u1eef li\u1ec7u 'data2'
+2025-04-01 12:42:19,963 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:42:21,380 - INFO - Nh\u1eadp d\u1eef li\u1ec7u t\u1eeb Excel: C:/Users/noname/Downloads/data.xlsx
+2025-04-01 12:43:24,966 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 12:43:42,491 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:43:43,516 - INFO - Nh\u1eadp d\u1eef li\u1ec7u t\u1eeb Excel: C:/Users/noname/Downloads/data.xlsx
+2025-04-01 12:43:49,071 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:43:55,043 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:43:55,044 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data2'
+2025-04-01 12:44:14,768 - INFO - \u0110ã xóa thông tin trong tab 'Ngành ngh\u1ec1 kinh doanh'
+2025-04-01 12:44:17,816 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:44:17,817 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data2'
+2025-04-01 12:44:18,995 - INFO - \u0110ã xóa thông tin trong tab 'Thông tin công ty'
+2025-04-01 12:45:01,321 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:45:02,275 - INFO - Nh\u1eadp d\u1eef li\u1ec7u t\u1eeb Excel: C:/Users/noname/Downloads/data.xlsx
+2025-04-01 12:45:32,872 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 12:45:33,645 - INFO - Nh\u1eadp d\u1eef li\u1ec7u t\u1eeb Excel: C:/Users/noname/Downloads/data.xlsx
+2025-04-01 12:53:25,362 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250401_125325.json
+2025-04-01 13:03:25,375 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250401_130325.json
+2025-04-01 13:13:25,390 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250401_131325.json
+2025-04-01 13:23:25,409 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250401_132325.json
+2025-04-01 13:33:25,417 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250401_133325.json
+2025-04-01 13:43:25,420 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250401_134325.json
+2025-04-01 13:53:25,433 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250401_135325.json
+2025-04-01 14:03:25,444 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250401_140325.json
+2025-04-01 14:13:25,448 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250401_141325.json
+2025-04-01 14:23:25,458 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250401_142325.json
+2025-04-01 14:33:25,463 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250401_143325.json
+2025-04-01 14:43:25,470 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250401_144325.json
+2025-04-01 14:53:25,477 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250401_145325.json
+2025-04-01 15:03:25,492 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250401_150325.json
+2025-04-01 15:13:25,515 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250401_151325.json
+2025-04-01 15:23:25,521 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250401_152325.json
+2025-04-01 15:33:25,538 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250401_153325.json
+2025-04-01 15:43:25,548 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250401_154325.json
+2025-04-01 15:53:25,554 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250401_155325.json
+2025-04-01 16:24:53,123 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 16:25:43,328 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:25:43,329 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:25:56,440 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:25:56,440 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:25:58,003 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:25:58,004 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:25:58,123 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:25:58,124 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:25:58,286 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:25:58,286 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:25:59,236 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:25:59,236 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:25:59,995 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:25:59,995 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:26:00,111 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:26:00,111 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:26:01,931 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:26:01,932 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:26:02,049 - INFO - \u0110ã xóa thông tin trong tab 'Thông tin u\u1ef7 quy\u1ec1n'
+2025-04-01 16:26:06,532 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:26:06,532 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:26:06,557 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:26:06,557 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:26:06,849 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:26:06,849 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:26:07,184 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:26:07,184 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:26:09,411 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:26:09,411 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:26:09,475 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:26:09,476 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:26:09,597 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:26:09,597 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:26:09,691 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:26:09,691 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:26:09,780 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:26:09,780 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:26:09,904 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:26:09,904 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:26:10,499 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:26:10,499 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:26:10,716 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:26:10,716 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:26:14,772 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:26:14,772 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:26:16,043 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:26:16,043 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:26:16,202 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:26:16,203 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:26:16,243 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:26:16,243 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:26:16,811 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:26:16,811 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:26:17,199 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:26:17,199 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:26:18,788 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:26:18,788 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:26:18,851 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:26:18,851 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:26:19,424 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:26:19,424 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:26:19,717 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:26:19,718 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:26:23,340 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:26:23,340 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:26:23,379 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:26:23,379 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:26:23,683 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:26:23,683 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:26:24,235 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:26:24,236 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:26:28,899 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:26:28,899 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:26:28,980 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:26:28,980 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:26:29,086 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:26:29,086 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:26:29,555 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:26:29,555 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:26:29,809 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:26:29,810 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:26:30,173 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:26:30,173 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:26:38,700 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:26:38,700 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:26:38,771 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:26:38,771 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:26:39,196 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:26:39,196 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:26:39,259 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:26:39,259 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:26:39,474 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:26:39,474 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:26:39,933 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:26:39,934 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:26:47,010 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:26:47,010 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:26:49,692 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:26:49,692 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 16:26:50,340 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:26:50,340 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 16:26:50,476 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:26:50,476 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 16:26:51,122 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:26:51,122 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 16:26:53,884 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:26:53,884 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:26:54,114 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:26:54,114 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:26:54,147 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:26:54,147 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:26:54,902 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:26:54,902 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:26:58,771 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:26:58,771 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:26:59,250 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:26:59,251 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:26:59,443 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:26:59,443 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:26:59,812 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:26:59,812 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:27:00,755 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:27:00,755 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:27:01,067 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:27:01,067 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:27:01,291 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:27:01,291 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:27:01,803 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:27:01,804 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:27:01,971 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:27:01,972 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:27:02,123 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:27:02,123 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:27:02,380 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:27:02,380 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:27:02,483 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:27:02,483 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:27:03,979 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:27:03,979 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:27:04,179 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:27:04,179 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:27:04,404 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:27:04,404 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:27:04,931 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:27:04,931 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:27:05,539 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:27:05,539 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:27:05,580 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:27:05,580 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:27:05,883 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:27:05,884 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:27:06,019 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:27:06,019 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:27:06,227 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:27:06,227 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:27:06,243 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:27:06,243 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:27:06,323 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:27:06,323 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:27:06,443 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:27:06,443 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:27:06,563 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:27:06,563 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:27:06,604 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:27:06,605 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:27:06,787 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:27:06,787 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:27:06,851 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:27:06,851 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:27:07,019 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:27:07,020 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:27:07,954 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:27:07,955 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:27:08,122 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:27:08,123 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:27:08,203 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:27:08,203 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:27:08,283 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:27:08,283 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:27:11,268 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:27:11,268 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:27:12,812 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:27:12,812 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 16:27:40,624 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 0
+2025-04-01 16:27:40,624 - INFO - Doc paths: ['templates\\doanh nghiep_uy quyen.docx', 'templates\\MTV-tang von dieu le.docx']
+2025-04-01 16:27:40,801 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-01 16:27:40,925 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-01 16:27:41,092 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_1.docx
+2025-04-01 16:27:41,481 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_1.docx
+2025-04-01 16:27:41,723 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t g\u1ed9p
+2025-04-01 16:27:41,724 - ERROR - L\u1ed7i khi xu\u1ea5t Word: [Errno 2] No such file or directory: '//?/C:/Users/noname/fileshare/P.Kinh doanh/\u0110\u0103ng ký doanh nghi\u1ec7p/2025/0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH/CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH_doanh nghiep_uy quyen.docx_MTV-tang von dieu le.docx_01042025.docx'
+2025-04-01 16:28:26,279 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 0
+2025-04-01 16:28:26,279 - INFO - Doc paths: ['templates\\MTV-tang von dieu le.docx']
+2025-04-01 16:28:26,516 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-01 16:28:26,960 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-01 16:28:26,996 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-01 16:28:32,652 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/fileshare/P.Kinh doanh/\u0110\u0103ng ký doanh nghi\u1ec7p/2025/0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH/CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH_MTV-tang von dieu le_01042025_162812
+2025-04-01 16:28:47,561 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 0
+2025-04-01 16:28:47,561 - INFO - Doc paths: ['templates\\doanh nghiep_uy quyen.docx', 'templates\\MTV-tang von dieu le.docx']
+2025-04-01 16:28:47,734 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-01 16:28:47,833 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-01 16:28:47,989 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_1.docx
+2025-04-01 16:28:48,329 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_1.docx
+2025-04-01 16:28:48,495 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t g\u1ed9p
+2025-04-01 16:29:14,934 - INFO - Xu\u1ea5t Word g\u1ed9p: C:/Users/noname/fileshare/P.Kinh doanh/\u0110\u0103ng ký doanh nghi\u1ec7p/2025/0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH/CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH_MTV-tang von dieu le_01042025_162812_1.docx
+2025-04-01 16:29:16,784 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:29:29,532 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 0
+2025-04-01 16:29:29,532 - INFO - Doc paths: ['templates\\MTV-tang von dieu le.docx', 'templates\\doanh nghiep_uy quyen.docx']
+2025-04-01 16:29:29,715 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-01 16:29:30,182 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-01 16:29:30,354 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_1.docx
+2025-04-01 16:29:30,448 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_1.docx
+2025-04-01 16:29:30,526 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t g\u1ed9p
+2025-04-01 16:29:44,985 - INFO - Xu\u1ea5t Word g\u1ed9p: C:/Users/noname/fileshare/P.Kinh doanh/\u0110\u0103ng ký doanh nghi\u1ec7p/2025/0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH/CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH_MTV-tang von dieu le_01042025_162812_1.docx
+2025-04-01 16:34:53,568 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250401_163453.json
+2025-04-01 16:39:00,760 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 16:39:03,265 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:39:03,265 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 16:39:03,827 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 16:39:03,828 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 16:49:01,207 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250401_164901.json
+2025-04-01 16:59:01,233 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250401_165901.json
+2025-04-01 17:09:01,256 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250401_170901.json
+2025-04-01 17:17:48,578 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 17:18:16,733 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 0
+2025-04-01 17:18:16,733 - INFO - Doc paths: ['templates\\thong bao cap nhat cccd.docx']
+2025-04-01 17:18:16,866 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-01 17:18:17,017 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-01 17:18:17,039 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-01 17:18:46,313 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/fileshare/P.Kinh doanh/\u0110\u0103ng ký doanh nghi\u1ec7p/2025/0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH/CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH_thong bao cap nhat cccd_01042025_171804
+2025-04-01 17:19:43,468 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 17:19:43,468 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 17:20:22,831 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 17:28:33,501 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 17:30:03,382 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 17:37:13,381 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 17:37:31,697 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 0
+2025-04-01 17:37:31,698 - INFO - Doc paths: ['templates\\MTV-tang von dieu le.docx', 'templates\\doanh nghiep_uy quyen.docx', 'templates\\thong bao cap nhat cccd.docx']
+2025-04-01 17:37:31,930 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-01 17:37:32,383 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-01 17:37:32,517 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_1.docx
+2025-04-01 17:37:32,645 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_1.docx
+2025-04-01 17:37:32,755 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_2.docx
+2025-04-01 17:37:32,919 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_2.docx
+2025-04-01 17:37:33,060 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t g\u1ed9p
+2025-04-01 17:37:33,062 - ERROR - L\u1ed7i khi xu\u1ea5t Word: [Errno 2] No such file or directory: '//?/C:/Users/noname/fileshare/P.Kinh doanh/\u0110\u0103ng ký doanh nghi\u1ec7p/2025/0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH/CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH_MTV-tang von dieu le_doanh nghiep_uy quyen_thong bao cap nhat cccd_01042025.docx'
+2025-04-01 17:38:12,061 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 0
+2025-04-01 17:38:12,061 - INFO - Doc paths: ['templates\\MTV-tang von dieu le.docx', 'templates\\doanh nghiep_uy quyen.docx', 'templates\\thong bao cap nhat cccd.docx']
+2025-04-01 17:38:12,280 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-01 17:38:12,691 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-01 17:38:12,813 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_1.docx
+2025-04-01 17:38:12,923 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_1.docx
+2025-04-01 17:38:13,050 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_2.docx
+2025-04-01 17:38:13,211 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_2.docx
+2025-04-01 17:38:13,343 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t g\u1ed9p
+2025-04-01 17:38:16,282 - INFO - Xu\u1ea5t Word g\u1ed9p: C:/Users/noname/fileshare/P.Kinh doanh/\u0110\u0103ng ký doanh nghi\u1ec7p/2025/0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH/CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH.docx
+2025-04-01 17:39:29,765 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 0
+2025-04-01 17:39:29,765 - INFO - Doc paths: ['templates\\MTV-tang von dieu le.docx', 'templates\\ca nhan_uy quyen.docx', 'templates\\doanh nghiep_uy quyen.docx']
+2025-04-01 17:39:29,946 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-01 17:39:30,396 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-01 17:39:30,562 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_1.docx
+2025-04-01 17:39:30,679 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_1.docx
+2025-04-01 17:39:30,777 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_2.docx
+2025-04-01 17:39:30,876 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_2.docx
+2025-04-01 17:39:31,064 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t g\u1ed9p
+2025-04-01 17:39:31,066 - ERROR - L\u1ed7i khi xu\u1ea5t Word: [Errno 2] No such file or directory: '//?/C:/Users/noname/fileshare/P.Kinh doanh/\u0110\u0103ng ký doanh nghi\u1ec7p/2025/0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH/CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH_MTV-tang von dieu le_ca nhan_uy quyen_doanh nghiep_uy quyen_01042025.docx'
+2025-04-01 17:40:28,920 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 0
+2025-04-01 17:40:28,920 - INFO - Doc paths: ['templates\\MTV-tang von dieu le.docx', 'templates\\doanh nghiep_uy quyen.docx', 'templates\\thong bao cap nhat cccd.docx']
+2025-04-01 17:40:29,135 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-01 17:40:29,548 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-01 17:40:29,668 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_1.docx
+2025-04-01 17:40:29,799 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_1.docx
+2025-04-01 17:40:29,927 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_2.docx
+2025-04-01 17:40:30,067 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_2.docx
+2025-04-01 17:40:30,205 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t g\u1ed9p
+2025-04-01 17:40:30,206 - ERROR - L\u1ed7i khi xu\u1ea5t Word: [Errno 2] No such file or directory: '//?/C:/Users/noname/fileshare/P.Kinh doanh/\u0110\u0103ng ký doanh nghi\u1ec7p/2025/0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH/CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH_MTV-tang von dieu le_doanh nghiep_uy quyen_thong bao cap nhat cccd_01042025.docx'
+2025-04-01 17:44:01,595 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 17:44:01,595 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 17:44:03,042 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 17:44:03,042 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 17:44:03,712 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 17:44:03,712 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 17:44:04,040 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 17:44:04,040 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 17:45:04,608 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 17:45:44,546 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 0
+2025-04-01 17:45:44,546 - INFO - Doc paths: ['templates\\MTV-tang von dieu le.docx', 'templates\\doanh nghiep_uy quyen.docx', 'templates\\thong bao cap nhat cccd.docx']
+2025-04-01 17:45:44,748 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-01 17:45:45,214 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-01 17:45:45,350 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_1.docx
+2025-04-01 17:45:45,451 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_1.docx
+2025-04-01 17:45:45,552 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_2.docx
+2025-04-01 17:45:45,712 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_2.docx
+2025-04-01 17:45:45,844 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t g\u1ed9p
+2025-04-01 17:45:47,963 - INFO - Xu\u1ea5t Word g\u1ed9p: C:/Users/noname/fileshare/P.Kinh doanh/\u0110\u0103ng ký doanh nghi\u1ec7p/2025/0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH/0314034320_MTV-tang von dieu le_doanh nghiep_uy quyen_thong bao cap nhat cccd_01042025.docx
+2025-04-01 17:55:05,049 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250401_175505.json
+2025-04-01 17:59:47,785 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 18:00:52,217 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 0
+2025-04-01 18:00:52,217 - INFO - Doc paths: ['templates\\thong bao cap nhat cccd.docx']
+2025-04-01 18:00:52,346 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-01 18:00:52,477 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-01 18:00:52,499 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-01 18:00:54,790 - INFO - Xu\u1ea5t Word g\u1ed9p: C:/Users/noname/Downloads/0314034320_thong bao cap nhat cccd_01042025.docx
+2025-04-01 18:09:48,287 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250401_180948.json
+2025-04-01 18:09:57,760 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 18:10:24,769 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 18:11:24,693 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 18:13:40,234 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 18:15:53,830 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 18:17:04,556 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 18:17:50,680 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 18:21:53,333 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 18:23:42,848 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 18:24:41,253 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 18:42:25,784 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 18:42:31,829 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:42:31,829 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:42:38,188 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:42:38,188 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:43:04,061 - INFO - Xu\u1ea5t Excel: C:/Users/noname/Downloads/data_20250401_184239.xlsx
+2025-04-01 18:44:29,389 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 18:44:34,691 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:44:34,691 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:44:42,768 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:44:43,780 - INFO - Nh\u1eadp d\u1eef li\u1ec7u t\u1eeb Excel: C:/Users/noname/Downloads/data_20250401_184239.xlsx
+2025-04-01 18:44:47,196 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:44:47,196 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:47:49,304 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 18:47:52,341 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:47:52,342 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 18:48:15,344 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:48:18,679 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:49:30,627 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:49:32,931 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:49:32,931 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:49:33,851 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:49:33,852 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:49:33,876 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:49:33,877 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:49:37,788 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:49:37,788 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:49:42,019 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:49:42,019 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:49:42,123 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:49:42,124 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:49:42,450 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:49:42,451 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:49:47,091 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:49:47,091 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:49:47,278 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:49:47,278 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:49:47,422 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:49:47,422 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:49:47,947 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:49:47,948 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:49:48,715 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:49:48,716 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:49:48,736 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:49:48,736 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:49:49,434 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:49:49,435 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:49:49,595 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:49:49,595 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:49:50,696 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:49:50,696 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:49:53,355 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:49:53,355 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:49:53,459 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:49:53,459 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:49:54,532 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:49:54,533 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:49:56,020 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:49:56,020 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:49:56,123 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:49:56,123 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:49:57,067 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:49:57,067 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:49:57,227 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:49:57,227 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:49:58,177 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:49:58,178 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:49:59,082 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:49:59,083 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:49:59,490 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:49:59,490 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:00,259 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:00,259 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:00,323 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:00,323 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:00,628 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:00,629 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:03,395 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:03,395 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:04,163 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:04,163 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:04,187 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:04,187 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:04,987 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:04,987 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:05,219 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:05,219 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:06,152 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:06,152 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:08,163 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:08,163 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:08,188 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:08,188 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:08,589 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:08,589 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:11,682 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:11,683 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:11,707 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:11,707 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:12,411 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:12,412 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:12,571 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:12,572 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:12,730 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:12,731 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:12,813 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:12,813 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:13,051 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:13,051 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:13,187 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:13,187 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:13,491 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:13,491 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:13,531 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:13,531 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:13,562 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:13,562 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:13,677 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:13,678 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:14,179 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:14,179 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:14,339 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:14,340 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:14,498 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:14,499 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:14,690 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:14,691 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:15,595 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:15,596 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:15,771 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:15,771 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:16,460 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:16,460 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:16,675 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:16,675 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:16,764 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:16,765 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:16,769 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:16,770 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:16,784 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:16,784 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:16,787 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:16,788 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:16,803 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:16,803 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:16,808 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:16,808 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:16,839 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:16,839 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:16,844 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:16,844 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:16,865 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:16,865 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:16,869 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:16,869 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:16,890 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:16,890 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:16,895 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:16,895 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:16,899 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:16,899 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:16,901 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:16,902 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:16,933 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:16,933 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:17,043 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:17,043 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:17,531 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:17,531 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:17,615 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:17,615 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:17,827 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:17,827 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:18,051 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:18,051 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:18,522 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:18,523 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:19,187 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:19,187 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:19,372 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:19,372 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:19,395 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:19,395 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:20,172 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:20,172 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:22,127 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:50:22,127 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:50:31,451 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:51:30,108 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 1
+2025-04-01 18:51:30,108 - INFO - Doc paths: ['templates\\MTV-tang von dieu le.docx', 'templates\\thong bao cap nhat cccd.docx']
+2025-04-01 18:51:30,370 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-01 18:51:30,757 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-01 18:51:30,900 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_1.docx
+2025-04-01 18:51:31,061 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_1.docx
+2025-04-01 18:51:31,199 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t g\u1ed9p
+2025-04-01 18:52:45,526 - INFO - Xu\u1ea5t Word g\u1ed9p: C:/Users/noname/Downloads/0314034320_MTV-tang von dieu le_thong bao cap nhat cccd_01042025.docx
+2025-04-01 18:55:46,186 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:55:49,887 - INFO - \u0110\u1ed5i tên tab t\u1eeb 'Thông tin thành viên' thành 'Thông tin ch\u1ee7 s\u1edf h\u1eefu'
+2025-04-01 18:55:52,896 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:55:52,896 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 18:56:14,223 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:56:15,844 - INFO - \u0110\u1ed5i tên tab t\u1eeb 'Thông tin ch\u1ee7 s\u1edf h\u1eefu' thành 'Thông tin thành viên'
+2025-04-01 18:56:24,390 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:56:24,390 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 18:56:26,281 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:56:26,281 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 18:57:46,951 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 18:58:53,425 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:58:53,426 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 18:58:57,124 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:58:57,124 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 18:58:57,561 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:58:57,561 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 18:58:57,940 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:58:57,941 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 18:58:57,963 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:58:57,964 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 18:58:58,571 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:58:58,572 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 18:58:59,015 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:58:59,015 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 18:59:00,030 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:59:00,030 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 18:59:00,291 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:59:00,291 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 18:59:00,387 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:59:00,387 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 18:59:00,508 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:59:00,508 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 18:59:00,605 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:59:00,605 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 18:59:00,627 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:59:00,627 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 18:59:00,634 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:59:00,635 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 18:59:01,960 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:59:01,961 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 18:59:08,407 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:59:08,407 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 18:59:28,636 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:59:28,636 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 18:59:28,663 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:59:28,663 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 18:59:29,250 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:59:29,250 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 18:59:32,187 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:59:32,188 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 18:59:32,228 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:59:32,228 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 18:59:33,067 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:59:33,067 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 18:59:33,174 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:59:33,174 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 18:59:34,337 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:59:34,338 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 18:59:35,509 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:59:35,509 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 18:59:35,684 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:59:35,684 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 18:59:36,154 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:59:36,154 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 18:59:37,308 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:59:37,308 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 18:59:37,333 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:59:37,333 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 18:59:37,797 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:59:37,798 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 18:59:38,908 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:59:38,908 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 18:59:38,948 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:59:38,948 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 18:59:42,807 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:59:42,807 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 18:59:43,468 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:59:43,468 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 18:59:44,196 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:59:44,196 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 18:59:44,217 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:59:44,217 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 18:59:44,276 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:59:44,276 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 18:59:44,380 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:59:44,380 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 18:59:44,949 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:59:44,949 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 18:59:44,986 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:59:44,986 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 18:59:46,050 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:59:46,051 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 18:59:47,272 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 18:59:47,272 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 19:00:08,367 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:00:09,788 - INFO - Khôi ph\u1ee5c t\u1eeb sao l\u01b0u: backup_20250401_180948.json
+2025-04-01 19:00:14,062 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:00:14,062 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:00:16,230 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:00:16,230 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:00:21,058 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:00:21,058 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:00:22,906 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:00:22,906 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:00:25,858 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:00:25,858 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:00:28,699 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:00:28,699 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:00:29,018 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:00:29,018 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:00:39,714 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:00:39,714 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:00:40,836 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:00:40,836 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:00:40,852 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:00:40,852 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:00:41,567 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:00:41,567 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:00:43,604 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:00:43,604 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:00:44,508 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:00:44,508 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:00:44,531 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:00:44,531 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:00:45,187 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:00:45,187 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:00:45,316 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:00:45,316 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:00:46,345 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:00:46,345 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:00:49,094 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:00:49,094 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:00:49,119 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:00:49,119 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:00:49,370 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:00:49,370 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:00:50,955 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:00:50,956 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:00:50,978 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:00:50,978 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:00:51,244 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:00:51,244 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:00:51,403 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:00:51,403 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:00:52,468 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:00:52,468 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:00:54,331 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:00:54,331 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:00:54,412 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:00:54,412 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:00:55,069 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:00:55,069 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:00:58,084 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:00:58,084 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:00:58,932 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:00:58,932 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:00:58,971 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:00:58,971 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:00:59,171 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:00:59,172 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:00:59,411 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:00:59,411 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:01:00,646 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:01:00,646 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:01:02,404 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:01:02,404 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:01:02,419 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:01:02,420 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:01:02,785 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:01:02,785 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:01:04,731 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:01:04,732 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:01:04,835 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:01:04,835 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:01:05,139 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:01:05,140 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:01:05,323 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:01:05,323 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:01:05,564 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:01:05,564 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:01:05,603 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:01:05,604 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:01:05,788 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:01:05,788 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:01:05,924 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:01:05,924 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:01:05,990 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:01:05,990 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:01:05,995 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:01:05,995 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:01:06,002 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:01:06,002 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:01:06,017 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:01:06,017 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:01:06,028 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:01:06,028 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:01:06,032 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:01:06,032 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:01:06,045 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:01:06,045 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:01:06,050 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:01:06,050 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:01:06,057 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:01:06,057 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:01:06,061 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:01:06,061 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:01:06,071 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:01:06,072 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:01:06,075 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:01:06,075 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:01:06,084 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:01:06,084 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:01:06,124 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:01:06,124 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:01:06,163 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:01:06,164 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:01:06,267 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:01:06,268 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:01:06,876 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:01:06,876 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:01:06,932 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:01:06,932 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:01:07,091 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:01:07,092 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:01:07,388 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:01:07,388 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:01:07,956 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:01:07,956 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:01:08,700 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:01:08,700 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:01:08,876 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:01:08,876 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:01:08,939 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:01:08,940 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:01:09,077 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:01:09,077 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:01:13,723 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:01:13,724 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:01:15,451 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:01:15,451 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:01:25,770 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:01:30,900 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:01:30,900 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:01:30,925 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:01:30,925 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:01:31,433 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:01:31,433 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:02:04,732 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:02:12,116 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:02:12,116 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:02:12,179 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:02:12,179 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:02:12,613 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:02:12,613 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:02:17,146 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:02:21,404 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:02:21,404 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:02:21,428 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:02:21,428 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:02:22,179 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:02:22,180 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:02:29,102 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:02:36,412 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:02:36,412 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:02:36,621 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:02:36,621 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:02:36,660 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:02:36,660 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:02:38,795 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:02:38,795 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:02:48,528 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:02:51,980 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:02:51,980 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:02:53,028 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:02:53,028 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:02:53,120 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:02:53,120 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:02:53,642 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:02:53,642 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 19:03:01,654 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:04:14,920 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 1
+2025-04-01 19:04:14,920 - INFO - Doc paths: ['templates\\MTV-tang von dieu le.docx']
+2025-04-01 19:04:15,148 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-01 19:04:15,499 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-01 19:04:15,535 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-01 19:04:17,673 - INFO - Xu\u1ea5t Word g\u1ed9p: C:/Users/noname/Downloads/0314034320_MTV-tang von dieu le_01042025.docx
+2025-04-01 19:05:03,094 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:05:03,095 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 19:05:03,623 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:05:03,623 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 19:05:04,459 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:05:04,459 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 19:52:29,579 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 19:52:33,128 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:52:33,128 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 19:54:56,525 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 19:55:25,764 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:55:25,764 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 19:55:27,072 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 19:55:27,073 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 20:04:56,874 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250401_200456.json
+2025-04-01 20:06:27,568 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 20:07:28,275 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 20:07:45,961 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 20:07:45,961 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 20:07:46,661 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 20:07:46,661 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 20:08:38,019 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 20:09:50,521 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 20:09:59,278 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 20:09:59,278 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 20:10:10,312 - INFO - Xu\u1ea5t Excel: C:/Users/noname/Downloads/data_20250401_201005.xlsx
+2025-04-01 20:10:24,411 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 20:10:24,411 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 20:10:26,739 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 20:10:26,740 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 20:10:27,361 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 20:10:27,361 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 20:10:27,819 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 20:10:27,820 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 20:10:28,227 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 20:10:28,228 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 20:10:28,576 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 20:10:28,577 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 20:10:30,574 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 20:10:30,575 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 20:10:31,726 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 20:10:31,726 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 20:10:32,334 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 20:10:32,334 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 20:10:33,344 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 20:10:33,344 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 20:10:33,980 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 20:10:33,981 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 20:10:40,635 - INFO - \u0110ã xóa thông tin trong tab 'Thông tin u\u1ef7 quy\u1ec1n'
+2025-04-01 20:10:58,321 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 20:10:59,654 - INFO - Nh\u1eadp d\u1eef li\u1ec7u t\u1eeb Excel: C:/Users/noname/Downloads/data_20250401_201005.xlsx
+2025-04-01 20:11:09,423 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 20:11:17,466 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 20:11:18,991 - INFO - Nh\u1eadp d\u1eef li\u1ec7u t\u1eeb Excel: C:/Users/noname/Downloads/data_20250401_201005.xlsx
+2025-04-01 20:12:10,411 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 20:12:21,177 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 20:12:21,178 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 20:12:29,335 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 20:12:30,608 - INFO - Nh\u1eadp d\u1eef li\u1ec7u t\u1eeb Excel: C:/Users/noname/Downloads/data_20250401_201005.xlsx
+2025-04-01 20:22:10,796 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250401_202210.json
+2025-04-01 20:32:10,805 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250401_203210.json
+2025-04-01 20:32:28,531 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 20:33:30,210 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 20:35:26,567 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 20:36:09,303 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 20:37:56,989 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 20:48:59,550 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 20:50:17,375 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 20:50:19,838 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 20:50:19,839 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 20:50:20,483 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 20:50:20,483 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 20:55:01,435 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 20:59:03,717 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 21:00:43,397 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 21:01:11,497 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 21:02:29,578 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 21:05:01,976 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 21:05:23,201 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 21:05:23,202 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 21:05:23,227 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 21:05:23,227 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 21:05:23,660 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 21:05:23,660 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 21:05:41,150 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 21:05:41,150 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 21:05:45,640 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 21:05:45,640 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 21:05:46,366 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 21:05:46,366 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 21:06:40,463 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 21:11:17,110 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 21:11:32,906 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 21:11:32,907 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 21:13:15,331 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 21:13:15,331 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 21:13:15,435 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 21:13:15,435 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 21:13:15,474 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 21:13:15,474 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 21:13:16,282 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 21:13:16,283 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 21:13:16,362 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 21:13:16,362 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 21:13:16,946 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 21:13:16,947 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 21:13:17,050 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 21:13:17,050 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 21:13:17,106 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 21:13:17,107 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 21:13:17,250 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 21:13:17,250 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 21:13:17,862 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 21:13:17,863 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 21:13:18,018 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 21:13:18,019 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 21:13:18,675 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 21:13:18,676 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 21:13:20,165 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 21:13:20,165 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-01 21:19:19,546 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 21:29:19,950 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250401_212919.json
+2025-04-01 21:32:55,329 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 21:32:55,329 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 21:33:26,349 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 21:33:26,350 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 21:37:52,528 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 21:39:17,886 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 21:39:17,887 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 21:43:15,889 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 21:46:43,490 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 21:48:25,145 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 21:50:33,020 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 21:51:23,222 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 21:53:06,409 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 21:54:08,172 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 21:55:21,512 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 21:56:23,701 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 22:01:06,855 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 22:04:33,974 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 22:04:33,974 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 22:04:34,657 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 22:04:34,658 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 22:11:07,302 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250401_221107.json
+2025-04-01 22:21:07,328 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250401_222107.json
+2025-04-01 22:31:07,335 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250401_223107.json
+2025-04-01 22:43:40,986 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 22:44:10,288 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 22:44:10,289 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data2'
+2025-04-01 22:44:11,385 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 22:44:11,386 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data2'
+2025-04-01 22:44:11,469 - INFO - \u0110ã xóa thông tin trong tab 'Thông tin công ty'
+2025-04-01 22:44:18,174 - INFO - \u0110ã xóa thông tin trong tab 'Thông tin công ty'
+2025-04-01 22:44:18,963 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 22:44:18,964 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data2'
+2025-04-01 22:44:19,236 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 22:44:19,237 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data2'
+2025-04-01 22:44:19,788 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 22:44:19,789 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data2'
+2025-04-01 22:44:20,178 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 22:44:20,178 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data2'
+2025-04-01 22:44:21,103 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 22:44:21,103 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data2'
+2025-04-01 22:44:56,124 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 22:46:43,586 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 22:47:24,509 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 22:47:39,935 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 22:47:39,936 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 22:51:43,276 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 22:51:50,690 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 22:51:50,690 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-01 22:52:10,303 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 22:52:32,113 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 22:52:32,114 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data2'
+2025-04-01 22:52:56,082 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 22:53:03,793 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 22:53:03,793 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data2'
+2025-04-01 22:53:04,546 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 22:53:04,546 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data2'
+2025-04-01 22:53:04,983 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 22:53:04,983 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data2'
+2025-04-01 22:53:16,841 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 22:53:16,841 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data2'
+2025-04-01 22:53:16,904 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 22:53:16,904 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data2'
+2025-04-01 22:53:17,040 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 22:53:17,041 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data2'
+2025-04-01 22:53:17,105 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 22:53:17,105 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data2'
+2025-04-01 22:53:17,200 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 22:53:17,200 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data2'
+2025-04-01 22:53:17,224 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 22:53:17,224 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data2'
+2025-04-01 22:53:17,762 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 22:53:17,762 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data2'
+2025-04-01 22:54:06,430 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 22:54:36,468 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 22:54:36,468 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data2'
+2025-04-01 22:55:56,269 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 22:56:40,089 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 22:58:12,557 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 23:05:10,233 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 23:05:47,908 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 23:09:47,589 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 23:10:58,949 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 23:15:08,089 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-01 23:15:08,090 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-01 23:18:21,587 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 23:19:43,961 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 23:21:04,674 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 23:24:01,491 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 23:24:47,979 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 23:27:29,100 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 23:28:44,306 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 23:33:21,510 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 23:38:27,322 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 23:39:55,976 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 23:41:08,093 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 23:41:45,732 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 23:42:49,374 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 23:44:23,400 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 23:46:01,814 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 23:47:31,322 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 23:49:03,202 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 23:53:11,734 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-01 23:58:32,650 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-02 00:04:03,482 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-02 00:08:40,995 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-02 00:09:26,277 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-02 00:11:23,356 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-02 00:11:37,967 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:11:37,967 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data2'
+2025-04-02 00:11:39,029 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:11:39,029 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data2'
+2025-04-02 00:11:39,645 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:11:39,645 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data2'
+2025-04-02 00:11:39,765 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:11:39,765 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data2'
+2025-04-02 00:11:39,844 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:11:39,844 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data2'
+2025-04-02 00:11:42,413 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:11:42,414 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data2'
+2025-04-02 00:11:42,985 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:11:42,986 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data2'
+2025-04-02 00:11:43,028 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:11:43,028 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data2'
+2025-04-02 00:11:43,109 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:11:43,110 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data2'
+2025-04-02 00:11:43,148 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:11:43,149 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data2'
+2025-04-02 00:11:43,468 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:11:43,469 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data2'
+2025-04-02 00:11:43,604 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:11:43,605 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data2'
+2025-04-02 00:11:43,973 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:11:43,973 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data2'
+2025-04-02 00:11:44,105 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:11:44,105 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data2'
+2025-04-02 00:11:44,132 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:11:44,132 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data2'
+2025-04-02 00:11:44,453 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:11:44,453 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data2'
+2025-04-02 00:11:44,530 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:11:44,530 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data2'
+2025-04-02 00:11:44,616 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:11:44,616 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data2'
+2025-04-02 00:11:44,749 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:11:44,749 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data2'
+2025-04-02 00:11:44,772 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:11:44,773 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data2'
+2025-04-02 00:11:45,017 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:11:45,017 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data2'
+2025-04-02 00:11:45,365 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:11:45,365 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data2'
+2025-04-02 00:11:45,445 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:11:45,445 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data2'
+2025-04-02 00:11:45,492 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:11:45,492 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data2'
+2025-04-02 00:11:45,785 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:11:45,786 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data2'
+2025-04-02 00:11:46,062 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:11:46,062 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data2'
+2025-04-02 00:11:46,694 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:11:46,695 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data2'
+2025-04-02 00:11:50,362 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:11:50,362 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data2'
+2025-04-02 00:11:56,308 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:11:56,309 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data2'
+2025-04-02 00:11:56,857 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:11:56,857 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data2'
+2025-04-02 00:11:58,243 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:11:58,243 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data2'
+2025-04-02 00:12:09,324 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:09,325 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-02 00:12:24,842 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:26,214 - INFO - Thêm d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:30,359 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:31,412 - INFO - Nh\u1eadp d\u1eef li\u1ec7u t\u1eeb Excel: C:/Users/noname/Downloads/data_20250401_201005.xlsx
+2025-04-02 00:12:36,429 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:36,429 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:36,957 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:36,957 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:37,020 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:37,020 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:37,365 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:37,365 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:37,404 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:37,404 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:38,117 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:38,117 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:38,285 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:38,285 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:38,348 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:38,348 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:38,437 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:38,438 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:38,442 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:38,442 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:38,447 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:38,447 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:38,451 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:38,451 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:38,457 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:38,457 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:38,460 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:38,460 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:38,499 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:38,499 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:38,503 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:38,503 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:38,508 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:38,508 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:38,512 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:38,512 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:38,519 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:38,520 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:38,523 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:38,523 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:38,533 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:38,533 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:38,614 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:38,615 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:39,118 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:39,118 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:39,261 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:39,261 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:39,453 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:39,453 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:39,573 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:39,573 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:39,644 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:39,645 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:39,805 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:39,805 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:40,519 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:40,519 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:41,229 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:41,229 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:41,373 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:41,373 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:41,589 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:41,589 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:42,069 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:42,069 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:42,324 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:42,324 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:42,405 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:42,405 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:42,411 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:42,411 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:42,414 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:42,414 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:42,430 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:42,430 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:42,434 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:42,434 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:42,438 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:42,438 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:42,548 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:42,548 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:42,572 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:42,572 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:42,726 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:42,726 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:42,731 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:42,731 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:42,735 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:42,735 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:42,900 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:42,900 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:43,181 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:43,181 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:43,894 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:43,894 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:43,899 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:43,899 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:43,903 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:43,904 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:43,956 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:43,956 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:44,076 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:44,076 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:44,293 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:44,293 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:44,493 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:44,493 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:44,765 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:44,765 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:44,844 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:44,844 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:44,990 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:44,990 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:44,995 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:44,995 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:45,000 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:45,000 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:45,004 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:45,004 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:45,009 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:45,009 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:45,012 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:45,013 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:45,016 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:45,016 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:45,172 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:45,172 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:45,228 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:45,228 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:45,332 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:45,332 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:45,412 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:45,412 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:45,492 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:45,492 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:45,589 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:45,589 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:45,670 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:45,670 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:45,674 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:45,674 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:45,687 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:45,688 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:45,693 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:45,693 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:45,696 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:45,696 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:45,703 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:45,704 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:45,719 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:45,719 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:45,724 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:45,724 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:45,728 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:45,728 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:45,733 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:45,733 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:45,779 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:45,779 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:46,597 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:46,597 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:12:47,283 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:12:47,283 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:18:56,802 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-02 00:20:35,716 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-02 00:22:39,733 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:22:39,733 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-02 00:22:42,281 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:22:42,281 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-02 00:22:44,983 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:22:44,983 - INFO - L\u01b0u d\u1eef li\u1ec7u '0314034320 - CÔNG TY TNHH S\u1ea2N XU\u1ea4T TH\u01af\u01a0NG M\u1ea0I D\u1ecaCH V\u1ee4 C\u01a0 KHÍ TR\u01af\u1edcNG TH\u1ecaNH'
+2025-04-02 00:24:15,307 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-02 00:26:32,352 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-02 00:29:03,480 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-02 00:30:34,651 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-02 00:32:12,822 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:32:12,822 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-02 00:32:13,547 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:32:13,547 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-02 00:32:13,868 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:32:13,868 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-02 00:32:14,481 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:32:14,482 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-02 00:32:15,294 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:32:15,295 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-02 00:32:16,017 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:32:16,018 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-02 00:32:16,535 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:32:16,535 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-02 00:32:17,256 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:32:17,256 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-02 00:32:17,801 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:32:17,801 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-02 00:33:51,304 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-02 00:38:00,866 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-02 00:38:08,496 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:38:08,496 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-02 00:38:09,470 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:38:09,470 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-02 00:38:09,752 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:38:09,752 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-02 00:38:11,535 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:38:11,536 - INFO - L\u01b0u d\u1eef li\u1ec7u 'data'
+2025-04-02 00:38:23,531 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:38:23,532 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:38:23,969 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:38:23,970 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:38:25,131 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:38:25,131 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:38:25,746 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:38:25,747 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:43:40,824 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-02 00:43:54,641 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:43:54,641 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:46:13,667 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-02 00:46:21,873 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:46:21,873 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:46:22,304 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:46:22,304 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:46:22,612 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:46:22,613 - INFO - L\u01b0u d\u1eef li\u1ec7u 'm\u1edbi'
+2025-04-02 00:47:23,191 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-02 00:50:25,343 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-02 00:51:37,467 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-02 00:53:09,347 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 00:53:09,348 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-02 00:53:23,694 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-02 00:54:26,011 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-02 00:55:10,984 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-02 01:09:58,166 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
