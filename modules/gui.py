@@ -2309,9 +2309,9 @@ class TemplateManager:
         if self.app.config_manager.current_config_name and self.app.config_manager.current_config_name in self.app.config_manager.configs:
             templates = self.app.config_manager.configs[self.app.config_manager.current_config_name].get("templates", {})
             for template in templates.keys():
-                # Loại bỏ đuôi .docx khỏi tên hiển thị
+                # Loại bỏ đuôi .docx khỏi tên hiển thị nhưng lưu tên đầy đủ trong values
                 display_name = os.path.splitext(template)[0]
-                self.app.template_tree.insert("", "end", text=display_name)
+                self.app.template_tree.insert("", "end", text=display_name, values=(template,))
 
     def drop_template_files(self, event):
         """Thêm template bằng kéo thả, sao chép file vào thư mục templates và tránh ghi đè."""
@@ -2403,8 +2403,10 @@ class TemplateManager:
         if messagebox.askyesno("Xác nhận", "Bạn có chắc muốn xóa các template đã chọn không?"):
             templates = self.app.config_manager.configs[self.app.config_manager.current_config_name].get("templates", {})
             for item in selected_items:
-                template_name = self.app.template_tree.item(item)["text"]
-                del templates[template_name]
+                # Lấy tên đầy đủ từ values thay vì text
+                full_template_name = self.app.template_tree.item(item)["values"][0]
+                if full_template_name in templates:
+                    del templates[full_template_name]
             self.app.config_manager.configs[self.app.config_manager.current_config_name]["templates"] = templates
             self.app.config_manager.save_configs()
             self.update_template_tree()
@@ -2432,10 +2434,11 @@ class TemplateManager:
             target = self.app.template_tree.identify_row(event.y)
             if target and target != self.app.drag_item:
                 templates = list(self.app.config_manager.configs[self.app.config_manager.current_config_name].get("templates", {}).keys())
-                dragged_name = self.app.template_tree.item(self.app.drag_item)["text"]
-                target_name = self.app.template_tree.item(target)["text"]
-                dragged_idx = templates.index(dragged_name)
-                target_idx = templates.index(target_name)
+                # Lấy tên đầy đủ từ values thay vì text
+                dragged_full_name = self.app.template_tree.item(self.app.drag_item)["values"][0]
+                target_full_name = self.app.template_tree.item(target)["values"][0]
+                dragged_idx = templates.index(dragged_full_name)
+                target_idx = templates.index(target_full_name)
                 templates.insert(target_idx, templates.pop(dragged_idx))
                 new_templates = {templates[i]: templates[i] for i in range(len(templates))}
                 self.app.config_manager.configs[self.app.config_manager.current_config_name]["templates"] = new_templates
