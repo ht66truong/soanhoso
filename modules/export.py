@@ -377,16 +377,25 @@ class ExportManager:
             data = {field: self.app.entries[field].get() for field in self.app.entries}
             selected_name = self.app.load_data_var.get()
             industries = []
+            additional_industries = []
+            removed_industries = []
+            adjusted_industries = []
             members = []
             for entry in self.app.saved_entries:
                 if entry["name"] == selected_name:
                     industries = entry["data"].get("nganh_nghe", [])
+                    additional_industries = entry["data"].get("nganh_bo_sung", [])
+                    removed_industries = entry["data"].get("nganh_giam", [])
+                    adjusted_industries = entry["data"].get("nganh_dieu_chinh", [])
                     members = entry["data"].get("thanh_vien", [])
                     break
             
             # Chuẩn hóa dữ liệu
             data_lower = {normalize_vietnamese(key): value for key, value in data.items()}
             data_lower["nganh_nghe"] = industries
+            data_lower["nganh_bo_sung"] = additional_industries
+            data_lower["nganh_giam"] = removed_industries
+            data_lower["nganh_dieu_chinh"] = adjusted_industries
             data_lower["thanh_vien"] = members
 
             # Định dạng ngày tháng năm
@@ -405,6 +414,9 @@ class ExportManager:
             # Tính toán và thêm von_dieu_le_bang_chu nếu von_đieu_le tồn tại
             if "von_dieu_le" in data_lower and data_lower["von_dieu_le"]:
                 data_lower["von_dieu_le_bang_chu"] = number_to_words(data_lower["von_dieu_le"])
+
+            if "so_tien" in data_lower and data_lower["so_tien"]:
+                data_lower["so_tien_bang_chu"] = number_to_words(data_lower["so_tien"])
             
             doc_paths = [os.path.join(self.app.templates_dir, t) for t in selected_templates]
             if not all(os.path.exists(dp) for dp in doc_paths):
@@ -441,6 +453,9 @@ class ExportManager:
         try:
             # Log dữ liệu đầu vào để kiểm tra
             industries = data_lower.get("nganh_nghe", [])
+            additional_industries = data_lower.get("nganh_bo_sung", [])  # Lấy danh sách ngành bổ sung
+            removed_industries = data_lower.get("nganh_giam", [])        # Lấy danh sách ngành giảm
+            adjusted_industries = data_lower.get("nganh_dieu_chinh", []) # Lấy danh sách ngành điều chỉnh
             members = data_lower.get("thanh_vien", [])
             logging.info(f"Dữ liệu đầu vào - Industries: {len(industries)}, Members: {len(members)}")
             logging.info(f"Doc paths: {doc_paths}")
@@ -476,12 +491,54 @@ class ExportManager:
                         else:
                             p.getparent().insert(p.getparent().index(p) + 1, doc.add_paragraph("Không có thông tin ngành nghề để hiển thị.")._element)
 
+                    # Xử lý {{bang_nganh_bo_sung}}
+                    if "{{bang_nganh_bo_sung}}" in paragraph.text:
+                        logging.info("Đang xử lý placeholder {{bang_nganh_bo_sung}}")
+                        paragraph.text = paragraph.text.replace("{{bang_nganh_bo_sung}}", "")
+                        p = paragraph._element
+                        if additional_industries:
+                            table = self.create_additional_industry_table(doc, additional_industries)
+                            p.getparent().insert(p.getparent().index(p) + 1, table._element)
+                        else:
+                            p.getparent().insert(p.getparent().index(p) + 1, doc.add_paragraph("Không có thông tin ngành bổ sung để hiển thị.")._element)
+
+                    # Xử lý {{bang_nganh_giam}}
+                    if "{{bang_nganh_giam}}" in paragraph.text:
+                        paragraph.text = paragraph.text.replace("{{bang_nganh_giam}}", "")
+                        p = paragraph._element
+                        if removed_industries:
+                            table = self.create_removed_industry_table(doc, removed_industries)
+                            p.getparent().insert(p.getparent().index(p) + 1, table._element)
+                        else:
+                            p.getparent().insert(p.getparent().index(p) + 1, doc.add_paragraph("Không có thông tin ngành giảm để hiển thị.")._element)
+
+                    # Xử lý {{bang_nganh_dieu_chinh}}
+                    if "{{bang_nganh_dieu_chinh}}" in paragraph.text:
+                        paragraph.text = paragraph.text.replace("{{bang_nganh_dieu_chinh}}", "")
+                        p = paragraph._element
+                        if adjusted_industries:
+                            table = self.create_adjusted_industry_table(doc, adjusted_industries)
+                            p.getparent().insert(p.getparent().index(p) + 1, table._element)
+                        else:
+                            p.getparent().insert(p.getparent().index(p) + 1, doc.add_paragraph("Không có thông tin ngành điều chỉnh để hiển thị.")._element)
+                            
                     # Xử lý {{bang_hop_thanh_vien}}
                     if "{{bang_hop_thanh_vien}}" in paragraph.text or "{{ bang_hop_thanh_vien }}" in paragraph.text:
                         paragraph.text = paragraph.text.replace("{{bang_hop_thanh_vien}}", "").replace("{{ bang_hop_thanh_vien }}", "")
                         p = paragraph._element
                         if members:
                             table = self.create_member_table(doc, members)
+                            if table:
+                                p.getparent().insert(p.getparent().index(p) + 1, table._element)
+                        else:
+                            p.getparent().insert(p.getparent().index(p) + 1, doc.add_paragraph("Không có thông tin thành viên để hiển thị.")._element)
+
+                    # Xử lý {{bang_thay_doi_thong_tin_thanh_vien}}
+                    if "{{bang_thay_doi_thong_tin_thanh_vien}}" in paragraph.text or "{{ bang_thay_doi_thong_tin_thanh_vien }}" in paragraph.text:
+                        paragraph.text = paragraph.text.replace("{{bang_thay_doi_thong_tin_thanh_vien}}", "").replace("{{ bang_thay_doi_thong_tin_thanh_vien }}", "")
+                        p = paragraph._element
+                        if members:
+                            table = self.create_change_member_infor_table(doc, members)
                             if table:
                                 p.getparent().insert(p.getparent().index(p) + 1, table._element)
                         else:
@@ -537,6 +594,7 @@ class ExportManager:
                 # Thêm giá trị giả để tránh cảnh báo
                 render_data["bang_nganh_nghe"] = ""
                 render_data["bang_hop_thanh_vien"] = ""
+                render_data["bang_thay_doi_thong_tin_thanh_vien"] = ""
                 render_data["bang_thanh_vien"] = ""
                 render_data["bang_gop_von"] = ""
                 render_data["danh_sach_thanh_vien"] = ""
@@ -750,6 +808,225 @@ class ExportManager:
 
         return table
 
+    def create_additional_industry_table(self, doc, industries):
+        """Tạo bảng ngành bổ sung."""
+        if not industries:
+            p = doc.add_paragraph()
+            p.text = "Không có thông tin ngành bổ sung để hiển thị."
+            p.style = doc.styles["Normal"]
+            p.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
+            return None
+        logging.info(f"Tạo bảng ngành bổ sung với {len(industries)} ngành.")
+        # Tạo bảng với số hàng = 1 (tiêu đề) + số ngành bổ sung
+        table = doc.add_table(rows=1 + len(industries), cols=4)
+        table.autofit = False
+
+        # Đặt chiều rộng cột
+        for cell in table.columns[0].cells:
+            cell.width = Cm(1.5)  # Cột 1: STT
+        for cell in table.columns[1].cells:
+            cell.width = Cm(9.5)  # Cột 2: Tên ngành
+        for cell in table.columns[2].cells:
+            cell.width = Cm(2.75)  # Cột 3: Mã ngành
+        for cell in table.columns[3].cells:
+            cell.width = Cm(3.0)  # Cột 4: Ngành chính
+
+        # Thêm viền cho bảng
+        table_style = table._tblPr.xpath('./w:tblBorders')[0] if table._tblPr.xpath('./w:tblBorders') else OxmlElement('w:tblBorders')
+        for border_type in ['top', 'left', 'bottom', 'right', 'insideH', 'insideV']:
+            border = OxmlElement(f'w:{border_type}')
+            border.set(qn('w:val'), 'single')
+            border.set(qn('w:sz'), '8')
+            border.set(qn('w:space'), '0')
+            border.set(qn('w:color'), '000000')
+            table_style.append(border)
+        if not table._tblPr.xpath('./w:tblBorders'):
+            table._tblPr.append(table_style)
+
+        # Đặt tiêu đề cho các cột
+        hdr_cells = table.rows[0].cells
+        hdr_cells[0].text = "STT"
+        hdr_cells[1].text = "Tên ngành"
+        hdr_cells[2].text = "Mã ngành"
+        hdr_cells[3].text = "Ngành chính"
+
+        # Định dạng chữ cho tiêu đề
+        for cell in hdr_cells:
+            paragraph = cell.paragraphs[0]
+            paragraph.alignment = WD_TABLE_ALIGNMENT.CENTER
+            run = paragraph.runs[0] if paragraph.runs else paragraph.add_run()
+            run.font.size = Pt(14)
+            run.font.bold = True
+
+        # Điền dữ liệu ngành bổ sung
+        for idx, industry in enumerate(industries, start=1):
+            row_cells = table.rows[idx].cells
+            row_cells[0].text = str(idx)
+            row_cells[1].text = industry.get("ten_nganh", "")
+            row_cells[2].text = industry.get("ma_nganh", "")
+            row_cells[3].text = "X" if industry.get("la_nganh_chinh", False) else ""
+
+            # Định dạng chữ cho dữ liệu
+            for i, cell in enumerate(row_cells):
+                paragraph = cell.paragraphs[0]
+                if i in [0, 2, 3]:
+                    paragraph.alignment = WD_TABLE_ALIGNMENT.CENTER
+                else:
+                    paragraph.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
+                run = paragraph.runs[0] if paragraph.runs else paragraph.add_run()
+                run.text = cell.text
+                font = run.font
+                font.size = Pt(14)
+
+        table.alignment = WD_TABLE_ALIGNMENT.CENTER
+        return table
+
+    def create_removed_industry_table(self, doc, industries):
+        """Tạo bảng ngành giảm."""
+        if not industries:
+            p = doc.add_paragraph()
+            p.text = "Không có thông tin ngành giảm để hiển thị."
+            p.style = doc.styles["Normal"]
+            p.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
+            return None
+
+        # Tạo bảng với số hàng = 1 (tiêu đề) + số ngành giảm
+        table = doc.add_table(rows=1 + len(industries), cols=4)
+        table.autofit = False
+
+        # Đặt chiều rộng cột
+        for cell in table.columns[0].cells:
+            cell.width = Cm(1.5)  # Cột 1: STT
+        for cell in table.columns[1].cells:
+            cell.width = Cm(9.5)  # Cột 2: Tên ngành
+        for cell in table.columns[2].cells:
+            cell.width = Cm(2.75)  # Cột 3: Mã ngành
+        for cell in table.columns[3].cells:
+            cell.width = Cm(3.0)  # Cột 4: Ngành chính
+
+        # Thêm viền cho bảng
+        table_style = table._tblPr.xpath('./w:tblBorders')[0] if table._tblPr.xpath('./w:tblBorders') else OxmlElement('w:tblBorders')
+        for border_type in ['top', 'left', 'bottom', 'right', 'insideH', 'insideV']:
+            border = OxmlElement(f'w:{border_type}')
+            border.set(qn('w:val'), 'single')
+            border.set(qn('w:sz'), '8')
+            border.set(qn('w:space'), '0')
+            border.set(qn('w:color'), '000000')
+            table_style.append(border)
+        if not table._tblPr.xpath('./w:tblBorders'):
+            table._tblPr.append(table_style)
+
+        # Đặt tiêu đề cho các cột
+        hdr_cells = table.rows[0].cells
+        hdr_cells[0].text = "STT"
+        hdr_cells[1].text = "Tên ngành"
+        hdr_cells[2].text = "Mã ngành"
+        hdr_cells[3].text = "Ngành chính"
+
+        # Định dạng chữ cho tiêu đề
+        for cell in hdr_cells:
+            paragraph = cell.paragraphs[0]
+            paragraph.alignment = WD_TABLE_ALIGNMENT.CENTER
+            run = paragraph.runs[0] if paragraph.runs else paragraph.add_run()
+            run.font.size = Pt(14)
+            run.font.bold = True
+
+        # Điền dữ liệu ngành giảm
+        for idx, industry in enumerate(industries, start=1):
+            row_cells = table.rows[idx].cells
+            row_cells[0].text = str(idx)
+            row_cells[1].text = industry.get("ten_nganh", "")
+            row_cells[2].text = industry.get("ma_nganh", "")
+            row_cells[3].text = "X" if industry.get("la_nganh_chinh", False) else ""
+
+            # Định dạng chữ cho dữ liệu
+            for i, cell in enumerate(row_cells):
+                paragraph = cell.paragraphs[0]
+                if i in [0, 2, 3]:
+                    paragraph.alignment = WD_TABLE_ALIGNMENT.CENTER
+                else:
+                    paragraph.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
+                run = paragraph.runs[0] if paragraph.runs else paragraph.add_run()
+                run.text = cell.text
+                font = run.font
+                font.size = Pt(14)
+
+        table.alignment = WD_TABLE_ALIGNMENT.CENTER
+        return table
+
+    def create_adjusted_industry_table(self, doc, industries):
+        """Tạo bảng ngành điều chỉnh."""
+        if not industries:
+            p = doc.add_paragraph()
+            p.text = "Không có thông tin ngành điều chỉnh để hiển thị."
+            p.style = doc.styles["Normal"]
+            p.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
+            return None
+
+        # Tạo bảng với số hàng = 1 (tiêu đề) + số ngành điều chỉnh
+        table = doc.add_table(rows=1 + len(industries), cols=4)
+        table.autofit = False
+
+        # Đặt chiều rộng cột
+        for cell in table.columns[0].cells:
+            cell.width = Cm(1.5)  # Cột 1: STT
+        for cell in table.columns[1].cells:
+            cell.width = Cm(9.5)  # Cột 2: Tên ngành
+        for cell in table.columns[2].cells:
+            cell.width = Cm(2.75)  # Cột 3: Mã ngành
+        for cell in table.columns[3].cells:
+            cell.width = Cm(3.0)  # Cột 4: Ngành chính
+
+        # Thêm viền cho bảng
+        table_style = table._tblPr.xpath('./w:tblBorders')[0] if table._tblPr.xpath('./w:tblBorders') else OxmlElement('w:tblBorders')
+        for border_type in ['top', 'left', 'bottom', 'right', 'insideH', 'insideV']:
+            border = OxmlElement(f'w:{border_type}')
+            border.set(qn('w:val'), 'single')
+            border.set(qn('w:sz'), '8')
+            border.set(qn('w:space'), '0')
+            border.set(qn('w:color'), '000000')
+            table_style.append(border)
+        if not table._tblPr.xpath('./w:tblBorders'):
+            table._tblPr.append(table_style)
+
+        # Đặt tiêu đề cho các cột
+        hdr_cells = table.rows[0].cells
+        hdr_cells[0].text = "STT"
+        hdr_cells[1].text = "Tên ngành"
+        hdr_cells[2].text = "Mã ngành"
+        hdr_cells[3].text = "Ngành chính"
+
+        # Định dạng chữ cho tiêu đề
+        for cell in hdr_cells:
+            paragraph = cell.paragraphs[0]
+            paragraph.alignment = WD_TABLE_ALIGNMENT.CENTER
+            run = paragraph.runs[0] if paragraph.runs else paragraph.add_run()
+            run.font.size = Pt(14)
+            run.font.bold = True
+
+        # Điền dữ liệu ngành điều chỉnh
+        for idx, industry in enumerate(industries, start=1):
+            row_cells = table.rows[idx].cells
+            row_cells[0].text = str(idx)
+            row_cells[1].text = industry.get("ten_nganh", "")
+            row_cells[2].text = industry.get("ma_nganh", "")
+            row_cells[3].text = "X" if industry.get("la_nganh_chinh", False) else ""
+
+            # Định dạng chữ cho dữ liệu
+            for i, cell in enumerate(row_cells):
+                paragraph = cell.paragraphs[0]
+                if i in [0, 2, 3]:
+                    paragraph.alignment = WD_TABLE_ALIGNMENT.CENTER
+                else:
+                    paragraph.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
+                run = paragraph.runs[0] if paragraph.runs else paragraph.add_run()
+                run.text = cell.text
+                font = run.font
+                font.size = Pt(14)
+
+        table.alignment = WD_TABLE_ALIGNMENT.CENTER
+        return table
+
     def create_member_table(self, doc, members):
         """Tạo bảng họp thành viên (bang_hop_thanh_vien)."""
         if not members:
@@ -807,6 +1084,50 @@ class ExportManager:
 
         return table
 
+    def create_change_member_infor_table(self, doc, members):
+        """Tạo bảng thay đổi thông tin thành viên (bang_thay_doi_thong_tin_thanh_vien)."""
+        if not members:
+            p = doc.add_paragraph()
+            p.text = "Không có thông tin thành viên để hiển thị."
+            p.style = doc.styles["Normal"]
+            p.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
+            return None
+
+        # Tạo bảng với 1 cột
+        table = doc.add_table(rows=len(members), cols=1)
+        table.autofit = True  # Bật chế độ tự động điều chỉnh độ rộng
+
+        # Đặt chiều rộng cột
+        for cell in table.columns[0].cells:
+            cell.width = Cm(16.0)  # Chiều rộng cột đầu tiên 
+
+            # điền dữ liệu vào bảng
+        for i, member in enumerate(members, start=1):
+            cell_1 = table.cell(i-1, 0)  # Sửa từ cột 1 thành cột 0
+            p1 = cell_1.paragraphs[0]
+            p1.text = (
+                f"Họ và tên: {member.get('ho_ten', '')}\n"
+                f"Giới tính: {member.get('gioi_tinh', '')}\n"
+                f"Ngày sinh: {member.get('ngay_sinh', '')}\n"
+                f"Dân tộc: {member.get('dan_toc', '')}\n"
+                f"Quốc tịch: {member.get('quoc_tich', '')}\n"
+                f"Loại giấy tờ pháp lý cá nhân: {member.get('loai_giay_to', '')}\n"
+                f"Số giấy tờ pháp lý cá nhân: {member.get('so_cccd', '')}\n"
+                f"Ngày cấp: {member.get('ngay_cap', '')}\n"
+                f"Nơi cấp: {member.get('noi_cap', '')}\n"
+                f"Ngày hết hạn: {member.get('ngay_het_han', '')}\n"
+                f"Đia chỉ thường trú: {member.get('dia_chi_thuong_tru', '')}\n"
+                f"Địa chỉ liên lạc: {member.get('dia_chi_lien_lac', '')}\n"
+            )
+            p1.style = doc.styles["Normal"]
+            p1.alignment = WD_ALIGN_PARAGRAPH.LEFT
+            run1 = p1.runs[0]
+            run1.font.name = "Times New Roman"
+            run1._element.rPr.rFonts.set(qn("w:eastAsia"), "Times New Roman")
+            run1.font.size = Pt(14)
+
+        return table
+    
     def create_member_info_table(self, doc, members):
         """Tạo bảng thông tin thành viên (bang_thanh_vien) với 7 cột."""
         if not members:

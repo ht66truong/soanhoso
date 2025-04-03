@@ -464,13 +464,68 @@
                             "la_nganh_chinh": true
                         },
                         {
+                            "ten_nganh": "Vận tải hàng hóa đường sắt",
+                            "ma_nganh": 4912,
+                            "la_nganh_chinh": false
+                        },
+                        {
+                            "ten_nganh": "Vận tải hành khách bằng xe buýt trong nội thành",
+                            "ma_nganh": 4921,
+                            "la_nganh_chinh": false
+                        },
+                        {
+                            "ten_nganh": "Vận tải hành khách bằng xe buýt giữa nội thành và ngoại thành, liên tỉnh",
+                            "ma_nganh": 4922,
+                            "la_nganh_chinh": false
+                        },
+                        {
+                            "ten_nganh": "Vận tải hành khách bằng xe buýt loại khác",
+                            "ma_nganh": 4929,
+                            "la_nganh_chinh": false
+                        },
+                        {
                             "ten_nganh": "Vận tải hành khách đường bộ trong nội thành, ngoại thành (trừ vận tải bằng xe buýt)",
                             "ma_nganh": 4931,
                             "la_nganh_chinh": false
                         },
                         {
+                            "ten_nganh": "Vận tải hành khách đường bộ khác",
+                            "ma_nganh": 4932,
+                            "la_nganh_chinh": false
+                        },
+                        {
                             "ten_nganh": "Vận tải hàng hóa bằng đường bộ - (trừ hóa lỏng khí để vận chuyển)",
                             "ma_nganh": 4933,
+                            "la_nganh_chinh": false
+                        },
+                        {
+                            "ten_nganh": "Vận tải đường ống",
+                            "ma_nganh": 4940,
+                            "la_nganh_chinh": false
+                        },
+                        {
+                            "ten_nganh": "Vận tải hành khách ven biển và viễn dương",
+                            "ma_nganh": 5011,
+                            "la_nganh_chinh": false
+                        },
+                        {
+                            "ten_nganh": "Vận tải hàng hóa ven biển và viễn dương",
+                            "ma_nganh": 5012,
+                            "la_nganh_chinh": false
+                        },
+                        {
+                            "ten_nganh": "Vận tải hành khách đường thủy nội địa",
+                            "ma_nganh": 5021,
+                            "la_nganh_chinh": false
+                        },
+                        {
+                            "ten_nganh": "Vận tải hàng hóa đường thủy nội địa",
+                            "ma_nganh": 5022,
+                            "la_nganh_chinh": false
+                        },
+                        {
+                            "ten_nganh": "Kho bãi và lưu giữ hàng hóa - Chi tiết: Hoạt động lưu giữ hàng hóa (trừ kinh doanh kho bãi)",
+                            "ma_nganh": 5210,
                             "la_nganh_chinh": false
                         },
                         {
@@ -625,10 +680,7 @@
                 "sdt_uq",
                 "email_uq"
             ],
-            "Ngành nghề kinh doanh": [],
-            "Ngành bổ sung": [],
-            "Ngành giảm": [],
-            "Ngành điều chỉnh": []
+            "Ngành nghề kinh doanh": []
         },
         "templates": {
             "2TV_BBH.docx": "2TV_BBH.docx",
@@ -745,71 +797,6 @@
                             "ty_le_gop": "40,000",
                             "ngay_gop_von": "06/02/2020",
                             "la_chu_tich": false
-                        }
-                    ],
-                    "nganh_bo_sung": [
-                        {
-                            "ma_nganh": "0114",
-                            "ten_nganh": "Trồng cây mía",
-                            "la_nganh_chinh": false
-                        }
-                    ]
-                }
-            },
-            {
-                "name": "new",
-                "data": {
-                    "tên_doanh_nghiệp": "",
-                    "tên_doanh_nghiệp_bằng_tiếng_anh": "",
-                    "tên_viết_tắt": "",
-                    "mã_số_doanh_nghiệp": "",
-                    "ngày_cấp_mst": "",
-                    "số_nhà_tên_đường": "",
-                    "xã_phường": "",
-                    "quận_huyện": "",
-                    "tỉnh_thành_phố": "",
-                    "số_điện_thoại": "",
-                    "vốn_điều_lệ": "",
-                    "họ_tên": "",
-                    "giới_tính": "",
-                    "ngày_sinh": "",
-                    "dân_tộc": "",
-                    "quốc_tịch": "",
-                    "số_cccd": "",
-                    "ngày_cấp": "",
-                    "nơi_cấp": "",
-                    "ngày_hết_hạn": "",
-                    "địa_chỉ_thường_trú": "",
-                    "địa_chỉ_liên_lạc": "",
-                    "họ_tên_uq": "",
-                    "giới_tính_uq": "",
-                    "ngày_sinh_uq": "",
-                    "số_cccd_uq": "",
-                    "ngày_cấp_uq": "",
-                    "nơi_cấp_uq": "",
-                    "địa_chỉ_liên_lạc_uq": "",
-                    "sdt_uq": "",
-                    "email_uq": "",
-                    "nganh_nghe": [
-                        {
-                            "ma_nganh": "0113",
-                            "ten_nganh": "Trồng cây lấy củ có chất bột",
-                            "la_nganh_chinh": true
-                        }
-                    ],
-                    "nganh_bo_sung": [
-                        {
-                            "ma_nganh": "0113",
-                            "ten_nganh": "Trồng cây lấy củ có chất bột",
-                            "la_nganh_chinh": true
-                        }
-                    ],
-                    "nganh_giam": [],
-                    "nganh_dieu_chinh": [
-                        {
-                            "ma_nganh": "0113",
-                            "ten_nganh": "Trồng cây lấy củ có chất bột",
-                            "la_nganh_chinh": true
                         }
                     ]
                 }

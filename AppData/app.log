@@ -4114,3 +4114,1124 @@
 2025-04-02 00:54:26,011 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
 2025-04-02 00:55:10,984 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
 2025-04-02 01:09:58,166 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-02 13:23:52,704 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-02 13:31:27,753 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-02 13:32:12,132 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-02 13:32:39,797 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-02 13:39:30,443 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-02 13:39:39,040 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 13:39:40,188 - INFO - Thêm d\u1eef li\u1ec7u 'test'
+2025-04-02 13:39:44,107 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 13:39:44,108 - INFO - L\u01b0u d\u1eef li\u1ec7u 'test'
+2025-04-02 13:39:44,210 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 13:39:44,211 - INFO - L\u01b0u d\u1eef li\u1ec7u 'test'
+2025-04-02 13:39:44,371 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 13:39:44,371 - INFO - L\u01b0u d\u1eef li\u1ec7u 'test'
+2025-04-02 13:39:44,392 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 13:39:44,393 - INFO - L\u01b0u d\u1eef li\u1ec7u 'test'
+2025-04-02 13:40:03,354 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 13:40:04,377 - INFO - Xóa d\u1eef li\u1ec7u 'test'
+2025-04-02 13:40:40,100 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-02 13:41:36,748 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 13:41:36,749 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-02 13:41:37,620 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 13:41:37,620 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-02 13:41:38,323 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 13:41:38,324 - INFO - L\u01b0u d\u1eef li\u1ec7u 'B\u1ea3o Phát'
+2025-04-02 13:50:40,447 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250402_135040.json
+2025-04-02 13:57:01,065 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 13:57:02,142 - INFO - \u0110\u1ed5i tên c\u1ea5u hình t\u1eeb 'MTV' thành 'Thành l\u1eadp m\u1edbi'
+2025-04-02 13:57:35,214 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 13:57:36,388 - INFO - \u0110\u1ed5i tên c\u1ea5u hình t\u1eeb '2 TV' thành 'Thay \u0111\u1ed5i'
+2025-04-02 13:57:43,640 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 13:57:43,676 - INFO - Thêm c\u1ea5u hình 'Gi\u1ea3i th\u1ec3'
+2025-04-02 14:02:59,553 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-02 14:03:08,399 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 14:03:08,457 - INFO - Thêm c\u1ea5u hình 'test'
+2025-04-02 14:04:12,211 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-02 14:04:23,943 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 14:04:23,973 - INFO - Xóa c\u1ea5u hình 'Phi\u1ebfu thu'
+2025-04-02 14:04:36,822 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 14:04:36,852 - INFO - Xóa c\u1ea5u hình 'Phi\u1ebfu thu'
+2025-04-02 14:05:00,378 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 14:05:01,809 - INFO - \u0110\u1ed5i tên c\u1ea5u hình t\u1eeb 'Thành l\u1eadp m\u1edbi' thành '1.Thành l\u1eadp m\u1edbi'
+2025-04-02 14:05:12,872 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 14:05:14,086 - INFO - \u0110\u1ed5i tên c\u1ea5u hình t\u1eeb 'Thay \u0111\u1ed5i' thành '2.Thay \u0111\u1ed5i'
+2025-04-02 14:05:21,648 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 14:05:21,755 - INFO - Thêm c\u1ea5u hình '3.Gi\u1ea3i th\u1ec3'
+2025-04-02 14:05:41,252 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 14:05:42,407 - INFO - \u0110\u1ed5i tên c\u1ea5u hình t\u1eeb 'Phi\u1ebfu thu' thành '4.Phi\u1ebfu thu'
+2025-04-02 14:06:36,386 - INFO - Xu\u1ea5t Excel: C:/Users/noname/Downloads/data_20250402_140618.xlsx
+2025-04-02 14:07:34,909 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 14:07:34,931 - INFO - Xóa tr\u01b0\u1eddng 'ngày_tháng_n\u0103m' kh\u1ecfi tab 'Thông tin'
+2025-04-02 14:09:46,353 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-02 14:10:09,264 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 0
+2025-04-02 14:10:09,264 - INFO - Doc paths: ['templates\\phieu thu.docx']
+2025-04-02 14:10:09,319 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-02 14:10:09,405 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-02 14:10:09,422 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-02 14:10:43,210 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/output_phieu thu_02042025_141006
+2025-04-02 14:12:32,445 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 14:12:32,446 - INFO - L\u01b0u d\u1eef li\u1ec7u 'b\u1ea3o phát'
+2025-04-02 14:12:47,860 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 14:12:47,860 - INFO - L\u01b0u d\u1eef li\u1ec7u 'b\u1ea3o phát'
+2025-04-02 14:18:59,381 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 14:18:59,381 - INFO - L\u01b0u d\u1eef li\u1ec7u 'b\u1ea3o phát'
+2025-04-02 14:19:46,697 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250402_141946.json
+2025-04-02 14:23:03,536 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-02 14:23:17,516 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 14:23:17,537 - INFO - Xóa tr\u01b0\u1eddng 'b\u1eb1ng_ch\u1eef' kh\u1ecfi tab 'Thông tin'
+2025-04-02 14:23:33,155 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 0
+2025-04-02 14:23:33,155 - INFO - Doc paths: ['templates\\phieu thu.docx']
+2025-04-02 14:23:33,217 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-02 14:23:33,291 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-02 14:23:33,310 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-02 14:23:51,862 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/output_phieu thu_02042025_142327
+2025-04-02 14:24:00,014 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 0
+2025-04-02 14:24:00,015 - INFO - Doc paths: ['templates\\phieu thu.docx']
+2025-04-02 14:24:00,209 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-02 14:24:00,236 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-02 14:24:11,760 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/output_phieu thu_02042025_142357
+2025-04-02 14:33:03,884 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250402_143303.json
+2025-04-02 14:43:03,895 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250402_144303.json
+2025-04-02 14:53:03,903 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250402_145303.json
+2025-04-02 15:03:03,922 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250402_150303.json
+2025-04-02 15:13:03,931 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250402_151303.json
+2025-04-02 15:23:03,936 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250402_152303.json
+2025-04-02 15:33:03,948 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250402_153303.json
+2025-04-02 15:43:03,959 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250402_154303.json
+2025-04-02 15:53:03,976 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250402_155303.json
+2025-04-02 16:03:03,981 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250402_160303.json
+2025-04-02 16:13:03,991 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250402_161303.json
+2025-04-02 16:23:03,996 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250402_162303.json
+2025-04-02 17:21:27,451 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-02 17:25:07,106 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-02 17:35:07,481 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250402_173507.json
+2025-04-02 17:45:07,488 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250402_174507.json
+2025-04-02 17:55:07,503 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250402_175507.json
+2025-04-02 18:05:07,507 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250402_180507.json
+2025-04-02 18:15:07,518 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250402_181507.json
+2025-04-02 18:25:07,524 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250402_182507.json
+2025-04-02 18:35:07,533 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250402_183507.json
+2025-04-02 18:45:07,540 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250402_184507.json
+2025-04-02 18:55:07,548 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250402_185507.json
+2025-04-02 19:05:07,553 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250402_190507.json
+2025-04-02 19:15:07,563 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250402_191507.json
+2025-04-02 19:25:07,569 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250402_192507.json
+2025-04-02 19:35:07,580 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250402_193507.json
+2025-04-02 22:20:20,846 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-02 22:20:37,364 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 22:20:38,750 - INFO - Thêm 1 template vào c\u1ea5u hình '2.Thay \u0111\u1ed5i'
+2025-04-02 22:20:50,373 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 4
+2025-04-02 22:20:50,373 - INFO - Doc paths: ['templates\\template_1.docx']
+2025-04-02 22:20:50,495 - INFO - \u0110ã chèn bang_thanh_vien
+2025-04-02 22:20:50,502 - INFO - S\u1ed1 l\u01b0\u1ee3ng thành viên trong create_capital_contribution_table: 4
+2025-04-02 22:20:50,502 - INFO - D\u1eef li\u1ec7u thành viên: [{'ho_ten': '\u0110ÀO B\u1ea0CH HOÀNG KH\u1ea2I', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '1.800.000.000', 'ty_le_gop': '9,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': True}, {'ho_ten': 'PH\u1ea0M TH\u1eca THÙY DUNG', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '2.200.000.000', 'ty_le_gop': '11,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}, {'ho_ten': 'TH\u1ea0CH TÂN QUANG MINH', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '8.000.000.000', 'ty_le_gop': '40,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}, {'ho_ten': 'TRANG H\u1ed2NG QUÂN', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '8.000.000.000', 'ty_le_gop': '40,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}]
+2025-04-02 22:20:50,578 - INFO - \u0110ã chèn bang_gop_von
+2025-04-02 22:20:50,578 - INFO - \u0110ã chèn bang_gop_von
+2025-04-02 22:20:50,585 - INFO - S\u1ed1 l\u01b0\u1ee3ng thành viên trong create_member_list_table: 4
+2025-04-02 22:20:50,585 - INFO - D\u1eef li\u1ec7u thành viên: [{'ho_ten': '\u0110ÀO B\u1ea0CH HOÀNG KH\u1ea2I', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '1.800.000.000', 'ty_le_gop': '9,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': True}, {'ho_ten': 'PH\u1ea0M TH\u1eca THÙY DUNG', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '2.200.000.000', 'ty_le_gop': '11,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}, {'ho_ten': 'TH\u1ea0CH TÂN QUANG MINH', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '8.000.000.000', 'ty_le_gop': '40,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}, {'ho_ten': 'TRANG H\u1ed2NG QUÂN', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '8.000.000.000', 'ty_le_gop': '40,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}]
+2025-04-02 22:20:50,794 - INFO - \u0110ã chèn danh_sach_thanh_vien
+2025-04-02 22:20:50,794 - INFO - \u0110ã chèn danh_sach_thanh_vien
+2025-04-02 22:20:50,814 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-02 22:20:50,972 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-02 22:20:51,056 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-02 22:21:25,758 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/0313290434_template_1_02042025_222044
+2025-04-02 22:21:33,826 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 4
+2025-04-02 22:21:33,826 - INFO - Doc paths: ['templates\\template_1.docx']
+2025-04-02 22:21:33,956 - INFO - \u0110ã chèn bang_thanh_vien
+2025-04-02 22:21:33,962 - INFO - S\u1ed1 l\u01b0\u1ee3ng thành viên trong create_capital_contribution_table: 4
+2025-04-02 22:21:33,962 - INFO - D\u1eef li\u1ec7u thành viên: [{'ho_ten': '\u0110ÀO B\u1ea0CH HOÀNG KH\u1ea2I', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '1.800.000.000', 'ty_le_gop': '9,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': True}, {'ho_ten': 'PH\u1ea0M TH\u1eca THÙY DUNG', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '2.200.000.000', 'ty_le_gop': '11,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}, {'ho_ten': 'TH\u1ea0CH TÂN QUANG MINH', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '8.000.000.000', 'ty_le_gop': '40,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}, {'ho_ten': 'TRANG H\u1ed2NG QUÂN', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '8.000.000.000', 'ty_le_gop': '40,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}]
+2025-04-02 22:21:34,054 - INFO - \u0110ã chèn bang_gop_von
+2025-04-02 22:21:34,054 - INFO - \u0110ã chèn bang_gop_von
+2025-04-02 22:21:34,061 - INFO - S\u1ed1 l\u01b0\u1ee3ng thành viên trong create_member_list_table: 4
+2025-04-02 22:21:34,061 - INFO - D\u1eef li\u1ec7u thành viên: [{'ho_ten': '\u0110ÀO B\u1ea0CH HOÀNG KH\u1ea2I', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '1.800.000.000', 'ty_le_gop': '9,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': True}, {'ho_ten': 'PH\u1ea0M TH\u1eca THÙY DUNG', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '2.200.000.000', 'ty_le_gop': '11,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}, {'ho_ten': 'TH\u1ea0CH TÂN QUANG MINH', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '8.000.000.000', 'ty_le_gop': '40,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}, {'ho_ten': 'TRANG H\u1ed2NG QUÂN', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '8.000.000.000', 'ty_le_gop': '40,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}]
+2025-04-02 22:21:34,295 - INFO - \u0110ã chèn danh_sach_thanh_vien
+2025-04-02 22:21:34,296 - INFO - \u0110ã chèn danh_sach_thanh_vien
+2025-04-02 22:21:34,314 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-02 22:21:34,495 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-02 22:21:34,530 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-02 22:21:57,222 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/0313290434_template_1_02042025_222131
+2025-04-02 22:25:13,343 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-02 22:25:24,920 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 4
+2025-04-02 22:25:24,921 - INFO - Doc paths: ['templates\\template_1.docx']
+2025-04-02 22:25:24,948 - ERROR - L\u1ed7i khi g\u1ed9p tài li\u1ec7u: list index out of range
+2025-04-02 22:25:27,610 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/0313290434_template_1_02042025_222522
+2025-04-02 22:35:13,785 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250402_223513.json
+2025-04-02 22:44:10,227 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-02 22:44:27,373 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 4
+2025-04-02 22:44:27,373 - INFO - Doc paths: ['templates\\template_1.docx']
+2025-04-02 22:44:27,510 - INFO - \u0110ã chèn bang_thanh_vien
+2025-04-02 22:44:27,521 - INFO - S\u1ed1 l\u01b0\u1ee3ng thành viên trong create_capital_contribution_table: 4
+2025-04-02 22:44:27,521 - INFO - D\u1eef li\u1ec7u thành viên: [{'ho_ten': '\u0110ÀO B\u1ea0CH HOÀNG KH\u1ea2I', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '1.800.000.000', 'ty_le_gop': '9,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': True}, {'ho_ten': 'PH\u1ea0M TH\u1eca THÙY DUNG', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '2.200.000.000', 'ty_le_gop': '11,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}, {'ho_ten': 'TH\u1ea0CH TÂN QUANG MINH', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '8.000.000.000', 'ty_le_gop': '40,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}, {'ho_ten': 'TRANG H\u1ed2NG QUÂN', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '8.000.000.000', 'ty_le_gop': '40,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}]
+2025-04-02 22:44:27,615 - INFO - \u0110ã chèn bang_gop_von
+2025-04-02 22:44:27,616 - INFO - \u0110ã chèn bang_gop_von
+2025-04-02 22:44:27,624 - INFO - S\u1ed1 l\u01b0\u1ee3ng thành viên trong create_member_list_table: 4
+2025-04-02 22:44:27,624 - INFO - D\u1eef li\u1ec7u thành viên: [{'ho_ten': '\u0110ÀO B\u1ea0CH HOÀNG KH\u1ea2I', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '1.800.000.000', 'ty_le_gop': '9,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': True}, {'ho_ten': 'PH\u1ea0M TH\u1eca THÙY DUNG', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '2.200.000.000', 'ty_le_gop': '11,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}, {'ho_ten': 'TH\u1ea0CH TÂN QUANG MINH', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '8.000.000.000', 'ty_le_gop': '40,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}, {'ho_ten': 'TRANG H\u1ed2NG QUÂN', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '8.000.000.000', 'ty_le_gop': '40,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}]
+2025-04-02 22:44:27,855 - INFO - \u0110ã chèn danh_sach_thanh_vien
+2025-04-02 22:44:27,855 - INFO - \u0110ã chèn danh_sach_thanh_vien
+2025-04-02 22:44:27,874 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-02 22:44:28,022 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-02 22:44:28,070 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-02 22:45:07,064 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/0313290434_template_1_02042025_224425
+2025-04-02 22:50:11,837 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-02 22:50:29,983 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 4
+2025-04-02 22:50:29,983 - INFO - Doc paths: ['templates\\template_1.docx']
+2025-04-02 22:50:30,124 - INFO - \u0110ã chèn bang_thanh_vien
+2025-04-02 22:50:30,130 - INFO - S\u1ed1 l\u01b0\u1ee3ng thành viên trong create_capital_contribution_table: 4
+2025-04-02 22:50:30,131 - INFO - D\u1eef li\u1ec7u thành viên: [{'ho_ten': '\u0110ÀO B\u1ea0CH HOÀNG KH\u1ea2I', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '1.800.000.000', 'ty_le_gop': '9,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': True}, {'ho_ten': 'PH\u1ea0M TH\u1eca THÙY DUNG', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '2.200.000.000', 'ty_le_gop': '11,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}, {'ho_ten': 'TH\u1ea0CH TÂN QUANG MINH', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '8.000.000.000', 'ty_le_gop': '40,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}, {'ho_ten': 'TRANG H\u1ed2NG QUÂN', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '8.000.000.000', 'ty_le_gop': '40,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}]
+2025-04-02 22:50:30,228 - INFO - \u0110ã chèn bang_gop_von
+2025-04-02 22:50:30,228 - INFO - \u0110ã chèn bang_gop_von
+2025-04-02 22:50:30,235 - INFO - S\u1ed1 l\u01b0\u1ee3ng thành viên trong create_member_list_table: 4
+2025-04-02 22:50:30,235 - INFO - D\u1eef li\u1ec7u thành viên: [{'ho_ten': '\u0110ÀO B\u1ea0CH HOÀNG KH\u1ea2I', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '1.800.000.000', 'ty_le_gop': '9,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': True}, {'ho_ten': 'PH\u1ea0M TH\u1eca THÙY DUNG', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '2.200.000.000', 'ty_le_gop': '11,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}, {'ho_ten': 'TH\u1ea0CH TÂN QUANG MINH', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '8.000.000.000', 'ty_le_gop': '40,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}, {'ho_ten': 'TRANG H\u1ed2NG QUÂN', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '8.000.000.000', 'ty_le_gop': '40,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}]
+2025-04-02 22:50:30,470 - INFO - \u0110ã chèn danh_sach_thanh_vien
+2025-04-02 22:50:30,470 - INFO - \u0110ã chèn danh_sach_thanh_vien
+2025-04-02 22:50:30,487 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-02 22:50:30,649 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-02 22:50:30,682 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-02 22:50:50,500 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/0313290434_template_1_02042025_225028
+2025-04-02 22:52:05,184 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-02 22:52:17,389 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 20, Members: 1
+2025-04-02 22:52:17,389 - INFO - Doc paths: ['templates\\thong bao cap nhat cccd.docx']
+2025-04-02 22:52:17,478 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-02 22:52:17,594 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-02 22:52:17,614 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-02 22:53:21,331 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/_thong bao cap nhat cccd_02042025_225215
+2025-04-02 22:56:32,498 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 0
+2025-04-02 22:56:32,498 - INFO - Doc paths: ['templates\\2TV_quyet dinh.docx', 'templates\\thong bao cap nhat cccd.docx']
+2025-04-02 22:56:32,660 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-02 22:56:32,811 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-02 22:56:32,862 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_1.docx
+2025-04-02 22:56:32,945 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_1.docx
+2025-04-02 22:56:33,046 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t g\u1ed9p
+2025-04-02 22:56:50,154 - INFO - Xu\u1ea5t Word g\u1ed9p: C:/Users/noname/Downloads/_2TV_quyet dinh_thong bao cap nhat cccd_02042025.docx
+2025-04-02 22:57:02,904 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 4
+2025-04-02 22:57:02,904 - INFO - Doc paths: ['templates\\2TV_quyet dinh.docx', 'templates\\thong bao cap nhat cccd.docx']
+2025-04-02 22:57:03,033 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-02 22:57:03,178 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-02 22:57:03,232 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_1.docx
+2025-04-02 22:57:03,335 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_1.docx
+2025-04-02 22:57:03,387 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t g\u1ed9p
+2025-04-02 22:57:14,444 - INFO - Xu\u1ea5t Word g\u1ed9p: C:/Users/noname/Downloads/0313290434_2TV_quyet dinh_thong bao cap nhat cccd_02042025.docx
+2025-04-02 23:02:05,537 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250402_230205.json
+2025-04-02 23:12:05,548 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250402_231205.json
+2025-04-02 23:22:05,565 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250402_232205.json
+2025-04-02 23:32:05,578 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250402_233205.json
+2025-04-02 23:42:05,597 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250402_234205.json
+2025-04-02 23:43:50,237 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-02 23:44:03,419 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 23:44:04,850 - INFO - Thêm tab 'Ngành b\u1ed5 sung'
+2025-04-02 23:44:37,326 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 23:44:38,393 - INFO - Thêm tab 'Ngành gi\u1ea3m'
+2025-04-02 23:45:30,039 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 23:45:30,956 - INFO - Thêm d\u1eef li\u1ec7u 'test'
+2025-04-02 23:45:35,263 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 23:53:50,658 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250402_235350.json
+2025-04-02 23:55:53,061 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-02 23:56:01,593 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-02 23:56:19,457 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-02 23:56:21,167 - INFO - Thêm tab 'Ngành \u0111i\u1ec1u ch\u1ec9nh'
+2025-04-03 00:06:02,564 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250403_000602.json
+2025-04-03 00:16:02,577 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250403_001602.json
+2025-04-03 00:26:02,582 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250403_002602.json
+2025-04-03 08:15:47,853 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 08:15:47,857 - ERROR - L\u1ed7i khi t\u1ea3i configs: Expecting ',' delimiter: line 51 column 6 (char 1697)
+2025-04-03 08:15:50,641 - ERROR - L\u1ed7i khi t\u1ea3i configs: Expecting ',' delimiter: line 51 column 6 (char 1697)
+2025-04-03 08:15:51,445 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 08:16:06,338 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 08:16:35,133 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 08:16:39,115 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 08:16:40,190 - INFO - Khôi ph\u1ee5c t\u1eeb sao l\u01b0u: backup_20250403_002602.json
+2025-04-03 08:16:46,258 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 08:17:25,165 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 08:17:57,203 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 08:22:27,975 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 08:22:41,222 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 08:22:50,217 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 08:22:59,713 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 08:23:10,027 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 08:23:27,848 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 08:27:38,972 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 08:27:52,749 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 08:27:59,356 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 08:30:33,405 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 2, Members: 0
+2025-04-03 08:30:33,405 - INFO - Doc paths: ['templates\\template_1.docx']
+2025-04-03 08:30:33,560 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-03 08:30:33,674 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-03 08:30:33,712 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-03 08:31:31,066 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/_template_1_03042025_083029
+2025-04-03 08:32:51,483 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 2, Members: 0
+2025-04-03 08:32:51,483 - INFO - Doc paths: ['templates\\template_1.docx']
+2025-04-03 08:32:51,658 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-03 08:32:51,741 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-03 08:32:51,764 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-03 08:33:09,254 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/_template_1_03042025_083249
+2025-04-03 08:36:04,483 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 2, Members: 0
+2025-04-03 08:36:04,483 - INFO - Doc paths: ['templates\\template_1.docx']
+2025-04-03 08:36:04,634 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-03 08:36:04,727 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-03 08:36:04,749 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-03 08:36:07,854 - INFO - Xu\u1ea5t Word g\u1ed9p: C:/Users/noname/Downloads/_template_1_03042025.docx
+2025-04-03 08:36:42,979 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 08:37:08,857 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 2, Members: 0
+2025-04-03 08:37:08,857 - INFO - Doc paths: ['templates\\template_1.docx']
+2025-04-03 08:37:09,020 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-03 08:37:09,117 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-03 08:37:09,146 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-03 08:37:11,729 - INFO - Xu\u1ea5t Word g\u1ed9p: C:/Users/noname/Downloads/_template_1_03042025.docx
+2025-04-03 08:42:46,852 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 08:43:00,639 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 2, Members: 0
+2025-04-03 08:43:00,639 - INFO - Doc paths: ['templates\\template_1.docx']
+2025-04-03 08:43:00,801 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-03 08:43:00,891 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-03 08:43:00,925 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-03 08:43:14,758 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/_template_1_03042025_084258
+2025-04-03 08:44:18,917 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 08:44:36,942 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 08:44:43,292 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 08:45:00,592 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 2, Members: 0
+2025-04-03 08:45:00,592 - INFO - Doc paths: ['templates\\template_1.docx']
+2025-04-03 08:45:00,617 - ERROR - L\u1ed7i khi g\u1ed9p tài li\u1ec7u: name 'additional_industries' is not defined
+2025-04-03 08:45:02,710 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/_template_1_03042025_084457
+2025-04-03 08:45:17,670 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 2, Members: 0
+2025-04-03 08:45:17,670 - INFO - Doc paths: ['templates\\template_1.docx']
+2025-04-03 08:45:17,711 - ERROR - L\u1ed7i khi g\u1ed9p tài li\u1ec7u: name 'additional_industries' is not defined
+2025-04-03 08:45:27,875 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/_template_1_03042025_084511
+2025-04-03 08:47:47,491 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 08:48:02,435 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 2, Members: 0
+2025-04-03 08:48:02,435 - INFO - Doc paths: ['templates\\template_1.docx']
+2025-04-03 08:48:02,584 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-03 08:48:02,689 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-03 08:48:02,714 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-03 08:48:11,547 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/_template_1_03042025_084800
+2025-04-03 08:48:19,808 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 08:48:28,091 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 08:48:35,702 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 2, Members: 0
+2025-04-03 08:48:35,702 - INFO - Doc paths: ['templates\\template_1.docx']
+2025-04-03 08:48:35,831 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-03 08:48:35,917 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-03 08:48:35,942 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-03 08:48:44,432 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/_template_1_03042025_084831
+2025-04-03 09:59:25,775 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 10:00:19,217 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 2, Members: 0
+2025-04-03 10:00:19,217 - INFO - Doc paths: ['templates\\template_1.docx']
+2025-04-03 10:00:19,356 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-03 10:00:19,452 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-03 10:00:19,477 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-03 10:00:30,195 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/_template_1_03042025_100017
+2025-04-03 10:00:38,160 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 10:00:47,342 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 2, Members: 0
+2025-04-03 10:00:47,342 - INFO - Doc paths: ['templates\\template_1.docx']
+2025-04-03 10:00:47,468 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-03 10:00:47,590 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-03 10:00:47,621 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-03 10:00:54,541 - INFO - Xu\u1ea5t Word g\u1ed9p: C:/Users/noname/Downloads/_template_1_03042025.docx
+2025-04-03 10:03:32,500 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 10:03:48,905 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 2, Members: 0
+2025-04-03 10:03:48,905 - INFO - Doc paths: ['templates\\template_1.docx']
+2025-04-03 10:03:49,037 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-03 10:03:49,119 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-03 10:03:49,163 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-03 10:04:01,371 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/_template_1_03042025_100347
+2025-04-03 10:04:06,970 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 10:04:13,946 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 10:04:19,164 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 10:04:26,139 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 2, Members: 0
+2025-04-03 10:04:26,139 - INFO - Doc paths: ['templates\\template_1.docx']
+2025-04-03 10:04:26,267 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-03 10:04:26,351 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-03 10:04:26,375 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-03 10:04:32,559 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/_template_1_03042025_100423
+2025-04-03 10:08:26,986 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 10:08:42,061 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 2, Members: 0
+2025-04-03 10:08:42,061 - INFO - Doc paths: ['templates\\template_1.docx']
+2025-04-03 10:08:42,211 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-03 10:08:42,293 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-03 10:08:42,317 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-03 10:10:08,082 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/_template_1_03042025_100839
+2025-04-03 10:10:24,461 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 10:10:32,957 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 2, Members: 0
+2025-04-03 10:10:32,957 - INFO - Doc paths: ['templates\\template_1.docx']
+2025-04-03 10:10:33,114 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-03 10:10:33,233 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-03 10:10:33,258 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-03 10:10:35,703 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/_template_1_03042025_101031
+2025-04-03 10:13:42,998 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 10:14:54,130 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 10:15:06,045 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 2, Members: 0
+2025-04-03 10:15:06,045 - INFO - Doc paths: ['templates\\template_1.docx']
+2025-04-03 10:15:06,060 - INFO - \u0110ang x\u1eed lý placeholder {{bang_nganh_bo_sung}}
+2025-04-03 10:15:06,065 - INFO - T\u1ea1o b\u1ea3ng ngành b\u1ed5 sung v\u1edbi 7 ngành.
+2025-04-03 10:15:06,253 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-03 10:15:06,376 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-03 10:15:06,407 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-03 10:15:24,884 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/_template_1_03042025_101504
+2025-04-03 10:18:53,240 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 10:19:10,405 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 2, Members: 0
+2025-04-03 10:19:10,405 - INFO - Doc paths: ['templates\\template_1.docx']
+2025-04-03 10:19:10,422 - INFO - \u0110ang x\u1eed lý placeholder {{bang_nganh_bo_sung}}
+2025-04-03 10:19:10,424 - INFO - T\u1ea1o b\u1ea3ng ngành b\u1ed5 sung v\u1edbi 7 ngành.
+2025-04-03 10:19:10,616 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-03 10:19:10,739 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-03 10:19:10,765 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-03 10:19:33,488 - INFO - Xu\u1ea5t Word g\u1ed9p: C:/Users/noname/Downloads/_template_1_03042025.docx
+2025-04-03 10:23:57,346 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 10:27:41,206 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 10:28:55,762 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 10:31:27,911 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 10:32:42,629 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 10:36:08,789 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 10:44:48,398 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 10:46:39,521 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 10:48:36,413 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 10:50:54,285 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 10:51:07,661 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 10:51:53,989 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 10:51:57,648 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 10:52:18,438 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 10:52:20,169 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 10:52:21,714 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 10:52:25,013 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 10:52:27,194 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 10:52:29,099 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 10:52:31,448 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 10:52:35,368 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 10:57:53,014 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 10:58:44,591 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 10:59:12,744 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 11:01:25,541 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 11:02:51,404 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 11:03:00,282 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 11:03:18,573 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 11:03:22,448 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 11:03:37,560 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 11:14:34,935 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 11:14:52,723 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 11:15:10,176 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 11:15:22,407 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 11:15:25,370 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 11:15:32,865 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 11:16:32,304 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 11:17:34,188 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 11:18:45,518 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 11:31:40,272 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 11:32:30,896 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 11:38:03,581 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 11:38:43,947 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 11:38:54,598 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 11:38:57,899 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 11:39:11,871 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 11:45:47,955 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 11:46:22,347 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 11:46:34,351 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 11:46:39,246 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 11:54:21,421 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 11:54:54,151 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 11:55:07,997 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 11:58:12,183 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 12:02:17,675 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 12:02:36,555 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:02:36,559 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:02:36,563 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:02:36,568 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:02:36,571 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:02:36,575 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:02:36,579 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:02:46,847 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:02:46,850 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:02:46,854 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:02:46,859 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:02:46,862 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:02:46,866 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:02:46,869 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:02:52,543 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:02:52,547 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:02:52,550 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:02:52,553 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:02:52,557 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:02:52,561 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:02:52,564 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:03:03,000 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:03:03,005 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:04:28,068 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:04:28,071 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:04:28,075 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:04:43,327 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 2, Members: 0
+2025-04-03 12:04:43,327 - INFO - Doc paths: ['templates\\template_1.docx']
+2025-04-03 12:04:43,352 - INFO - \u0110ang x\u1eed lý placeholder {{bang_nganh_bo_sung}}
+2025-04-03 12:04:43,353 - INFO - T\u1ea1o b\u1ea3ng ngành b\u1ed5 sung v\u1edbi 1 ngành.
+2025-04-03 12:04:43,470 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-03 12:04:43,555 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-03 12:04:43,579 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-03 12:05:05,199 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/_template_1_03042025_120441
+2025-04-03 12:07:06,475 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 12:08:00,557 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 12:09:58,413 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 12:10:21,810 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:10:21,814 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:12:14,532 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:12:14,536 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:12:23,351 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:17:06,842 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 12:17:16,727 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:17:16,730 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:17:16,734 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:17:22,834 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:17:22,837 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:17:22,841 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:17:27,211 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:17:27,215 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:17:27,219 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:25:09,039 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 12:29:30,548 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 12:29:48,811 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:30:00,614 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:30:00,618 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:32:22,982 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:32:54,535 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 12:33:37,365 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:33:51,436 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:33:51,439 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:33:51,443 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:33:51,446 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:34:05,580 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:34:05,585 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:34:28,545 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:34:28,549 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:34:28,553 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:34:28,557 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:34:28,560 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:34:32,647 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:34:32,651 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:34:32,654 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:34:32,657 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:34:32,661 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:34:51,613 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:34:51,617 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:35:09,459 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:35:09,462 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:35:09,468 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:35:09,471 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:35:21,708 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:35:21,714 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:35:26,068 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:35:26,072 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:35:35,751 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:35:43,579 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:42:54,937 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250403_124254.json
+2025-04-03 12:51:14,115 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 12:51:32,021 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:51:47,244 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:51:54,534 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:51:54,538 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:52:10,907 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:52:21,750 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:52:31,214 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:52:48,457 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 12:53:39,361 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:54:03,312 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:54:05,944 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:54:05,948 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:54:05,951 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:54:11,132 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:54:11,135 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:54:11,139 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 12:54:29,783 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:00:10,261 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 13:00:29,027 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:02:12,176 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 13:02:25,004 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:02:25,008 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:02:25,011 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:02:36,342 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:02:36,345 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:02:36,349 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:02:44,949 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:02:52,868 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:02:52,872 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:03:06,782 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:03:15,939 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:03:15,943 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:03:18,488 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:03:56,785 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 13:04:05,559 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:04:11,087 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:04:19,907 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:04:31,004 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:04:31,008 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:04:34,046 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:04:44,358 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:04:44,361 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:04:50,812 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:04:50,815 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:04:50,819 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:05:02,856 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:05:02,860 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:05:02,863 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:05:22,335 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:05:29,247 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:05:29,253 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:05:29,257 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:05:32,121 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:05:32,126 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:07:14,212 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 13:08:09,041 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 13:08:45,575 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:09:55,738 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 13:10:05,566 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:10:05,570 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:10:13,955 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:10:57,029 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:10:57,033 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:11:04,401 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:11:04,405 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:11:04,408 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:11:04,412 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:11:42,008 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:11:42,012 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:11:42,015 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:11:42,019 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:11:50,777 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:11:50,781 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:11:50,784 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:11:50,791 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:12:01,834 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:12:01,837 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:12:13,533 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:12:31,762 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 13:13:19,717 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:13:19,723 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:13:31,262 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:13:37,264 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:14:50,507 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 13:15:18,629 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:15:26,334 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:15:26,338 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:18:31,702 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 13:18:43,245 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:25:58,450 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 13:26:08,971 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:26:08,977 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:26:14,118 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:26:28,427 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:26:28,430 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:26:50,404 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:26:50,407 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:26:58,504 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:35:50,943 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 13:36:00,401 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:36:00,404 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:36:00,408 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:36:03,085 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:36:07,804 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:36:19,314 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:36:19,319 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:36:19,323 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:36:22,579 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:36:31,210 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:36:48,464 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:36:55,869 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:36:55,874 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:37:02,904 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:37:07,704 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:37:19,499 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:37:22,608 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:37:22,611 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:37:22,617 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:37:22,621 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:37:26,131 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:37:28,842 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:37:34,289 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:37:38,149 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:37:41,208 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:37:55,705 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:37:56,643 - INFO - Xóa d\u1eef li\u1ec7u 'test'
+2025-04-03 13:38:04,508 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:38:05,821 - INFO - Thêm d\u1eef li\u1ec7u 'nganh nghe'
+2025-04-03 13:38:10,730 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:38:14,374 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:38:16,736 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:39:01,444 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:39:03,744 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:42:36,202 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:42:36,206 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:42:36,209 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:42:36,215 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:42:39,339 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:42:51,734 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 13:43:57,637 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:44:07,784 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:44:10,367 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:44:48,493 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:44:54,283 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:44:58,711 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:44:58,715 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:45:03,378 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:46:07,435 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 13:46:15,689 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:46:18,784 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:46:22,696 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:46:24,980 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:46:28,230 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:46:31,035 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:51:05,417 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 13:51:16,362 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:51:16,368 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:51:16,371 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:51:16,375 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:51:16,383 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:51:16,387 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:51:22,803 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:51:27,763 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:51:31,689 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:59:26,055 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 13:59:35,428 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 13:59:42,270 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 13:59:49,502 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:00:00,729 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:00:05,069 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:00:05,073 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:00:05,078 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:00:05,082 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:03:34,308 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 14:03:44,102 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:03:51,355 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:03:55,614 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:04:03,295 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:04:03,301 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:04:03,305 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:04:06,233 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:08:47,807 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 14:13:24,404 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:13:48,892 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:13:48,895 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:13:48,899 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:13:56,352 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:13:56,356 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:13:56,360 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:13:59,603 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:14:03,186 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:15:42,157 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:15:42,161 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:15:42,168 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:15:45,022 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:15:49,137 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:15:51,901 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:15:54,475 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:18:32,661 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 14:18:44,042 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:18:44,047 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:18:44,051 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:18:48,137 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:19:01,103 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:19:01,107 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:19:01,110 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:19:07,270 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:19:07,274 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:19:09,996 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:19:14,089 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:19:16,330 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:19:20,504 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:19:20,508 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:19:20,511 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:19:23,638 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:21:55,043 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 14:22:05,929 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:22:10,351 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:22:12,065 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:22:19,887 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:25:51,207 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 14:25:58,809 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:26:01,555 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:26:06,076 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:26:07,870 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:26:10,817 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:26:16,819 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:26:16,823 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:26:16,826 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:26:16,829 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:26:16,837 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:26:20,588 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:27:04,598 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 14:27:14,277 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:27:19,724 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:27:19,730 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:31:24,462 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 14:31:35,529 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:31:42,248 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:31:50,197 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:31:50,201 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:31:50,204 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:31:50,208 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:31:59,893 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:31:59,897 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:31:59,901 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:33:26,259 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:36:43,821 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 14:36:54,575 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:36:54,578 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:36:54,582 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:37:14,595 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:37:19,615 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:39:26,945 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 14:39:38,478 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:39:38,482 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:39:42,900 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:39:45,684 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:39:53,298 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:39:53,302 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:40:02,878 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:40:02,881 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:40:02,885 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:41:18,485 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:41:20,910 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:42:06,932 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:48:18,139 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 14:48:54,434 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:48:54,438 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:48:54,442 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:49:26,602 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:49:26,606 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:49:26,610 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:49:26,613 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:49:26,617 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:49:33,247 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:49:33,251 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:49:33,255 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:49:33,258 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:49:37,398 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:49:43,334 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:49:43,338 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:49:59,062 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:49:59,065 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:49:59,069 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:50:04,815 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:50:10,479 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:50:10,483 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:50:18,316 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:50:18,319 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:50:18,323 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:50:26,736 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:50:30,224 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:50:30,227 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:50:30,231 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:50:32,343 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:50:32,346 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:50:38,644 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:50:38,648 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:50:38,651 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:50:44,154 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 14:58:18,546 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250403_145818.json
+2025-04-03 15:08:18,560 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250403_150818.json
+2025-04-03 15:11:47,407 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 15:11:48,978 - INFO - Thêm tab 'Thông tin m\u1edbi'
+2025-04-03 15:12:04,186 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 15:12:06,134 - INFO - \u0110\u1ed5i tên tab t\u1eeb 'Thông tin m\u1edbi' thành 'Thông tin cong ty m\u1edbi'
+2025-04-03 15:12:14,229 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 15:12:15,528 - INFO - \u0110\u1ed5i tên tab t\u1eeb 'Thông tin cong ty m\u1edbi' thành 'Thông tin công ty m\u1edbi'
+2025-04-03 15:16:51,888 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 15:21:54,159 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 15:28:53,359 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 15:28:53,492 - INFO - S\u1eeda tên tr\u01b0\u1eddng t\u1eeb 'h\u1ecd_tên_uq' thành 'h\u1ecd_tên' trong tab 'Thông tin u\u1ef7 quy\u1ec1n'
+2025-04-03 15:29:17,135 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 15:29:17,270 - INFO - S\u1eeda tên tr\u01b0\u1eddng t\u1eeb 'h\u1ecd_tên' thành 'h\u1ecd_tên_uq' trong tab 'Thông tin u\u1ef7 quy\u1ec1n'
+2025-04-03 15:33:11,856 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 15:35:17,075 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 15:37:40,606 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 15:37:53,271 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 15:39:11,739 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 15:40:38,880 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 15:42:05,277 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 15:43:01,473 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 15:43:19,240 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 15:43:20,508 - INFO - Xóa tab 'Thông tin u\u1ef7 quy\u1ec1n'
+2025-04-03 15:43:27,491 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 15:43:28,965 - INFO - Thêm tab 'Thông tin u\u1ef7 quy\u1ec1n'
+2025-04-03 15:49:03,774 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 15:50:18,142 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 15:57:32,503 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 16:05:03,734 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 16:07:11,913 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 16:07:25,667 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 16:07:27,057 - INFO - Xóa tab 'Thông tin u\u1ef7 quy\u1ec1n'
+2025-04-03 16:07:37,303 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 16:07:38,677 - INFO - Thêm tab 'Thông tin u\u1ef7 quy\u1ec1n'
+2025-04-03 16:08:03,386 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 16:16:58,547 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 16:24:17,498 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 16:25:02,769 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 16:25:44,871 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 16:35:45,244 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250403_163545.json
+2025-04-03 16:41:04,779 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 16:41:54,480 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 16:51:54,846 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250403_165154.json
+2025-04-03 16:53:46,010 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 16:54:37,979 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 17:04:38,324 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250403_170438.json
+2025-04-03 17:14:38,335 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250403_171438.json
+2025-04-03 17:24:38,346 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250403_172438.json
+2025-04-03 17:32:46,332 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 17:34:31,759 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 17:35:37,866 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 17:36:08,862 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 17:37:09,124 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 0
+2025-04-03 17:37:09,124 - INFO - Doc paths: ['templates\\ca nhan_uy quyen.docx', 'templates\\doanh nghiep_uy quyen.docx']
+2025-04-03 17:37:09,286 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-03 17:37:09,398 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-03 17:37:09,543 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_1.docx
+2025-04-03 17:37:09,633 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_1.docx
+2025-04-03 17:37:09,735 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t g\u1ed9p
+2025-04-03 17:37:27,094 - INFO - Xu\u1ea5t Word g\u1ed9p: C:/Users/noname/Downloads/_ca nhan_uy quyen_doanh nghiep_uy quyen_03042025.docx
+2025-04-03 17:37:44,311 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 20, Members: 1
+2025-04-03 17:37:44,311 - INFO - Doc paths: ['templates\\doanh nghiep_uy quyen.docx']
+2025-04-03 17:37:44,478 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-03 17:37:44,564 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-03 17:37:44,595 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-03 17:37:54,235 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/_doanh nghiep_uy quyen_03042025_173742
+2025-04-03 17:41:25,936 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 20, Members: 1
+2025-04-03 17:41:25,936 - INFO - Doc paths: ['templates\\ca nhan_uy quyen.docx']
+2025-04-03 17:41:26,191 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-03 17:41:26,300 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-03 17:41:26,323 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-03 17:46:09,255 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250403_174609.json
+2025-04-03 17:46:29,786 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 17:47:24,506 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 17:49:04,190 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 17:49:28,015 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 20, Members: 1
+2025-04-03 17:49:28,015 - INFO - Doc paths: ['templates\\ca nhan_uy quyen.docx']
+2025-04-03 17:49:28,211 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-03 17:49:28,300 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-03 17:49:28,330 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-03 17:49:40,147 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/_ca nhan_uy quyen_doanh nghiep_uy quyen_03042025_174926
+2025-04-03 17:59:04,650 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250403_175904.json
+2025-04-03 17:59:23,311 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 20, Members: 1
+2025-04-03 17:59:23,311 - INFO - Doc paths: ['templates\\doanh nghiep_uy quyen.docx']
+2025-04-03 17:59:23,475 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-03 17:59:23,581 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-03 17:59:23,603 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-03 17:59:32,222 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/_doanh nghiep_uy quyen_03042025_175921
+2025-04-03 18:08:18,753 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 18:08:41,061 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 20, Members: 1
+2025-04-03 18:08:41,061 - INFO - Doc paths: ['templates\\doanh nghiep_uy quyen.docx']
+2025-04-03 18:08:41,268 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-03 18:08:41,355 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-03 18:08:41,381 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-03 18:08:50,036 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/_doanh nghiep_uy quyen_03042025_180839
+2025-04-03 18:14:13,853 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 18:14:40,608 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 1
+2025-04-03 18:14:40,609 - INFO - Doc paths: ['templates\\doanh nghiep_uy quyen.docx']
+2025-04-03 18:14:40,773 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-03 18:14:40,888 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-03 18:14:40,935 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-03 18:14:51,701 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/0314034320_doanh nghiep_uy quyen_03042025_181438
+2025-04-03 18:15:45,096 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 18:22:10,497 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 18:22:28,827 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 20, Members: 1
+2025-04-03 18:22:28,827 - INFO - Doc paths: ['templates\\ca nhan_uy quyen.docx']
+2025-04-03 18:22:28,997 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-03 18:22:29,085 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-03 18:22:29,108 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-03 18:22:39,007 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/_ca nhan_uy quyen_03042025_182227
+2025-04-03 18:22:39,616 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:23:07,708 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 18:23:16,873 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:23:24,701 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 20, Members: 1
+2025-04-03 18:23:24,701 - INFO - Doc paths: ['templates\\doanh nghiep_uy quyen.docx']
+2025-04-03 18:23:24,857 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-03 18:23:24,948 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-03 18:23:24,980 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-03 18:23:31,806 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/_doanh nghiep_uy quyen_03042025_182323
+2025-04-03 18:23:32,459 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:23:54,863 - INFO - \u0110ã l\u01b0u danh sách nhân viên \u1ee7y quy\u1ec1n thành công
+2025-04-03 18:23:54,866 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:23:58,472 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:24:13,092 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 20, Members: 1
+2025-04-03 18:24:13,092 - INFO - Doc paths: ['templates\\ca nhan_uy quyen.docx']
+2025-04-03 18:24:13,267 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-03 18:24:13,373 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-03 18:24:13,401 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-03 18:24:22,984 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/_ca nhan_uy quyen_03042025_182411
+2025-04-03 18:27:14,099 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 18:32:14,530 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 18:34:13,861 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 20, Members: 1
+2025-04-03 18:34:13,862 - INFO - Doc paths: ['templates\\doanh nghiep_uy quyen.docx']
+2025-04-03 18:34:14,056 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-03 18:34:14,158 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-03 18:34:14,191 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-03 18:34:29,559 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/_doanh nghiep_uy quyen_03042025_183412
+2025-04-03 18:34:31,888 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:35:32,456 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 18:35:45,233 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 0
+2025-04-03 18:35:45,233 - INFO - Doc paths: ['templates\\doanh nghiep_uy quyen.docx']
+2025-04-03 18:35:45,428 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-03 18:35:45,520 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-03 18:35:45,541 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-03 18:35:57,520 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/_doanh nghiep_uy quyen_03042025_183543
+2025-04-03 18:36:38,524 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 18:37:07,539 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:37:09,068 - INFO - Xóa tab 'Thông tin u\u1ef7 quy\u1ec1n'
+2025-04-03 18:37:15,900 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:37:17,278 - INFO - Thêm tab 'Thông tin u\u1ef7 quy\u1ec1n'
+2025-04-03 18:38:33,434 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:38:34,562 - INFO - Khôi ph\u1ee5c t\u1eeb sao l\u01b0u: backup_20250403_124254.json
+2025-04-03 18:38:59,635 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:38:59,638 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:39:03,415 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:39:14,470 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:39:16,372 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:41:26,819 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 18:41:49,153 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:45:13,633 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 18:45:24,360 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:45:24,366 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:45:24,369 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:47:53,932 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 18:48:07,558 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:50:52,725 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 18:51:03,458 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:51:03,462 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:51:07,449 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:51:14,214 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:51:14,218 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:51:19,855 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:51:29,321 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:53:02,849 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 18:53:08,967 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:53:11,886 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:53:20,094 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:53:20,098 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:54:23,595 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 18:54:34,151 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:54:34,154 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:54:34,158 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:54:34,163 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:54:40,302 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:54:40,307 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:54:40,310 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:54:48,031 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:54:49,094 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:54:51,759 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:54:52,453 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:54:59,183 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:55:08,295 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:55:11,430 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:55:27,849 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:55:27,853 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:55:33,561 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:55:35,929 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:55:37,063 - INFO - Xóa d\u1eef li\u1ec7u 'test'
+2025-04-03 18:55:42,121 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:55:43,026 - INFO - Thêm d\u1eef li\u1ec7u 'new'
+2025-04-03 18:55:47,634 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:56:41,507 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 18:56:49,436 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:56:49,439 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:56:53,389 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:58:11,670 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 18:58:21,183 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:58:21,187 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:58:28,805 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:58:33,585 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:58:37,504 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 18:58:39,706 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 19:01:26,815 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 19:08:41,387 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 19:08:41,392 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 19:08:41,397 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 19:08:44,485 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 19:10:19,817 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 19:10:32,070 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 19:13:42,397 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 19:13:55,484 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 19:13:55,489 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 19:13:59,349 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 19:13:59,352 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 19:14:02,652 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 19:14:05,622 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 19:14:05,626 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 19:14:06,806 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 19:14:10,276 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 19:14:10,280 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 19:14:18,234 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 19:14:27,066 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 19:14:27,069 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 19:14:36,382 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 19:14:36,385 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 19:14:44,855 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 19:14:44,859 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 19:14:51,863 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 19:14:51,867 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 19:14:51,869 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 19:15:03,635 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 19:15:03,639 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 19:15:03,645 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 19:15:03,648 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 19:15:03,652 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 19:15:09,237 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 19:15:13,881 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 19:15:13,888 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 19:15:13,892 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 19:15:13,895 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 19:15:18,008 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 19:15:18,012 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 19:15:18,016 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 19:15:23,283 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 19:15:23,286 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 19:15:26,773 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 19:23:42,871 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250403_192342.json
+2025-04-03 19:33:42,875 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250403_193342.json
+2025-04-03 19:43:42,884 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250403_194342.json
+2025-04-03 19:53:42,889 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250403_195342.json
+2025-04-03 19:55:21,282 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 19:55:29,139 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 19:57:14,324 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 19:57:41,151 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 19:57:41,155 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 19:57:48,947 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 19:57:48,951 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 19:57:50,844 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 19:57:50,848 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 19:58:07,079 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 19:58:07,083 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 19:58:07,086 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 19:59:37,125 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 20:00:43,393 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 20:01:33,681 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 20:01:47,034 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 20:01:47,038 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 20:01:47,042 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 20:02:30,320 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 20:04:04,435 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 20:05:58,892 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 20:08:30,724 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 20:08:43,595 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 20:08:43,599 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 20:08:43,602 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 20:08:51,229 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 20:08:51,233 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 20:08:55,843 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 20:08:55,847 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 20:08:55,850 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 20:09:00,734 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 20:09:12,873 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 20:09:12,877 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 20:09:30,816 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 20:09:30,819 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 20:12:45,107 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 20:13:18,602 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 20:19:32,250 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 20:24:19,081 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-03 20:24:52,042 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 20:24:52,046 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-04-03 20:34:19,475 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250403_203419.json
+2025-04-03 20:44:19,492 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250403_204419.json
+2025-04-03 20:54:19,500 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250403_205419.json
+2025-04-03 21:04:19,519 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250403_210419.json
+2025-04-03 21:14:19,532 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250403_211419.json
+2025-04-03 21:24:19,546 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250403_212419.json
+2025-04-03 21:34:19,555 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250403_213419.json
+2025-04-03 21:44:19,566 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250403_214419.json
+2025-04-03 21:54:19,578 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250403_215419.json
+2025-04-03 22:04:19,585 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250403_220419.json
+2025-04-03 22:14:19,595 - INFO - Sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250403_221419.json
+2025-04-03 22:14:59,361 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng

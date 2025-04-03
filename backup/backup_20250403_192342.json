@@ -790,28 +790,10 @@
                     "địa_chỉ_liên_lạc_uq": "",
                     "sdt_uq": "",
                     "email_uq": "",
-                    "nganh_nghe": [
-                        {
-                            "ma_nganh": "0113",
-                            "ten_nganh": "Trồng cây lấy củ có chất bột",
-                            "la_nganh_chinh": true
-                        }
-                    ],
-                    "nganh_bo_sung": [
-                        {
-                            "ma_nganh": "0113",
-                            "ten_nganh": "Trồng cây lấy củ có chất bột",
-                            "la_nganh_chinh": true
-                        }
-                    ],
+                    "nganh_nghe": [],
+                    "nganh_bo_sung": [],
                     "nganh_giam": [],
-                    "nganh_dieu_chinh": [
-                        {
-                            "ma_nganh": "0113",
-                            "ten_nganh": "Trồng cây lấy củ có chất bột",
-                            "la_nganh_chinh": true
-                        }
-                    ]
+                    "nganh_dieu_chinh": []
                 }
             }
         ]

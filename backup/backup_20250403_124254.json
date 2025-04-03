@@ -746,18 +746,11 @@
                             "ngay_gop_von": "06/02/2020",
                             "la_chu_tich": false
                         }
-                    ],
-                    "nganh_bo_sung": [
-                        {
-                            "ma_nganh": "0114",
-                            "ten_nganh": "Trồng cây mía",
-                            "la_nganh_chinh": false
-                        }
                     ]
                 }
             },
             {
-                "name": "new",
+                "name": "test",
                 "data": {
                     "tên_doanh_nghiệp": "",
                     "tên_doanh_nghiệp_bằng_tiếng_anh": "",
@@ -792,26 +785,20 @@
                     "email_uq": "",
                     "nganh_nghe": [
                         {
-                            "ma_nganh": "0113",
-                            "ten_nganh": "Trồng cây lấy củ có chất bột",
-                            "la_nganh_chinh": true
+                            "ma_nganh": "0112",
+                            "ten_nganh": "Trồng ngô và cây lương thực có hạt khác",
+                            "la_nganh_chinh": false
                         }
                     ],
                     "nganh_bo_sung": [
                         {
-                            "ma_nganh": "0113",
-                            "ten_nganh": "Trồng cây lấy củ có chất bột",
-                            "la_nganh_chinh": true
+                            "ma_nganh": "0115",
+                            "ten_nganh": "Trồng cây thuốc lá, thuốc lào",
+                            "la_nganh_chinh": false
                         }
                     ],
                     "nganh_giam": [],
-                    "nganh_dieu_chinh": [
-                        {
-                            "ma_nganh": "0113",
-                            "ten_nganh": "Trồng cây lấy củ có chất bột",
-                            "la_nganh_chinh": true
-                        }
-                    ]
+                    "nganh_dieu_chinh": []
                 }
             }
         ]
