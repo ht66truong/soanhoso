@@ -405,11 +405,19 @@ class ExportManager:
             placeholders = set()
             for doc_path in doc_paths:
                 doc = DocxTemplate(doc_path)
-                for item in doc.get_undeclared_template_variables():
-                    # Bỏ qua các placeholder liên quan đến thành viên (dạng ho_ten_1, von_gop_1, v.v.)
-                    if any(field in item for field in self.app.member_columns) and any(item.endswith(f"_{i}") for i in range(1, 100)):
-                        continue
-                    placeholders.add(item)
+                try:
+                    # Thêm xử lý ngoại lệ khi lấy placeholder chưa được khai báo
+                    undeclared_vars = doc.get_undeclared_template_variables()
+                    for item in undeclared_vars:
+                        # Bỏ qua các placeholder liên quan đến thành viên (dạng ho_ten_1, von_gop_1, v.v.)
+                        if any(field in item for field in self.app.member_columns) and any(item.endswith(f"_{i}") for i in range(1, 100)):
+                            continue
+                        placeholders.add(item)
+                except Exception as e:
+                    logging.error(f"Lỗi khi phân tích placeholder trong file {doc_path}: {str(e)}")
+                    messagebox.showwarning("Cảnh báo", f"Có lỗi cú pháp placeholder trong file {os.path.basename(doc_path)}.\nVui lòng kiểm tra các cặp dấu ngoặc {{ }} trong template.")
+                    continue
+                    
             missing_fields = [p for p in placeholders if p not in data_lower]
             return missing_fields
         except Exception as e:
@@ -1452,7 +1460,7 @@ class ExportManager:
         table.autofit = False
 
         # Đặt chiều rộng cột
-        widths = [1.2, 3.05, 1.62, 1.38, 1.5, 1.5, 3.4, 3.35, 2.75, 1.25, 1.5, 2, 2.5, 1.09]  # Thêm cột Ghi chú
+        widths = [1.2, 3.05, 1.62, 1.38, 1.5, 1.5, 3.4, 3.35, 2.24, 1.25, 2.25, 1.76, 2.5, 1.09]  # Thêm cột Ghi chú
         for i, width in enumerate(widths):
             for cell in table.columns[i].cells:
                 cell.width = Cm(width)
@@ -1521,7 +1529,7 @@ class ExportManager:
                 run.text = sub_headers[i - 8]
                 font = run.font
                 font.name = "Times New Roman"
-                font.size = Pt(12)
+                font.size = Pt(13)
                 run._element.rPr.rFonts.set(qn("w:eastAsia"), "Times New Roman")
 
         # Hàng 3: Số thứ tự cột (1, 2, 3, ..., 14)
@@ -1534,7 +1542,8 @@ class ExportManager:
             run.text = str(i + 1)
             font = run.font
             font.name = "Times New Roman"
-            font.size = Pt(12)
+            font.size = Pt(13)
+            font.bold = True
             run._element.rPr.rFonts.set(qn("w:eastAsia"), "Times New Roman")
 
         # Điền dữ liệu
@@ -1562,7 +1571,7 @@ class ExportManager:
                 run.text = cell.text
                 font = run.font
                 font.name = "Times New Roman"
-                font.size = Pt(12)
+                font.size = Pt(13)
                 run._element.rPr.rFonts.set(qn("w:eastAsia"), "Times New Roman")
 
         table.alignment = WD_TABLE_ALIGNMENT.CENTER

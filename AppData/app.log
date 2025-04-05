@@ -1587,3 +1587,602 @@
 2025-04-05 13:34:44,785 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
 2025-04-05 13:34:45,136 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: \u0110\u0103ng ký thay \u0111\u1ed5i
 2025-04-05 13:35:39,514 - INFO - \u0110ã t\u1ea3i d\u1eef li\u1ec7u: test
+2025-04-05 13:39:11,139 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-05 13:39:11,142 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
+2025-04-05 13:39:11,143 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
+2025-04-05 13:39:11,523 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: \u0110\u0103ng ký thay \u0111\u1ed5i
+2025-04-05 13:40:51,171 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp m\u1edbi
+2025-04-05 13:47:33,115 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-05 13:47:33,118 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
+2025-04-05 13:47:33,119 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
+2025-04-05 13:47:33,475 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: \u0110\u0103ng ký thay \u0111\u1ed5i
+2025-04-05 13:49:14,705 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-05 13:49:14,708 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
+2025-04-05 13:49:14,709 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
+2025-04-05 13:49:15,131 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: \u0110\u0103ng ký thay \u0111\u1ed5i
+2025-04-05 13:52:47,925 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-05 13:52:47,928 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
+2025-04-05 13:52:47,929 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
+2025-04-05 13:52:48,344 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: \u0110\u0103ng ký thay \u0111\u1ed5i
+2025-04-05 13:54:28,741 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-05 13:54:28,744 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
+2025-04-05 13:54:28,744 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
+2025-04-05 13:54:29,124 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: \u0110\u0103ng ký thay \u0111\u1ed5i
+2025-04-05 13:55:02,414 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-05 13:55:02,417 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
+2025-04-05 13:55:02,418 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
+2025-04-05 13:55:02,808 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: \u0110\u0103ng ký thay \u0111\u1ed5i
+2025-04-05 13:55:46,610 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-05 13:55:46,613 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
+2025-04-05 13:55:46,614 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
+2025-04-05 13:55:47,253 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: \u0110\u0103ng ký thay \u0111\u1ed5i
+2025-04-05 14:01:15,157 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-05 14:01:15,160 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
+2025-04-05 14:01:15,161 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
+2025-04-05 14:01:15,594 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: \u0110\u0103ng ký thay \u0111\u1ed5i
+2025-04-05 14:01:50,985 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thông báo thay \u0111\u1ed5i
+2025-04-05 14:02:28,357 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: \u0110\u0103ng ký thay \u0111\u1ed5i
+2025-04-05 14:02:29,318 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Gi\u1ea3i th\u1ec3 - T\u1ea1m ng\u01b0ng
+2025-04-05 14:02:30,136 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Phi\u1ebfu thu
+2025-04-05 14:02:31,854 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp m\u1edbi
+2025-04-05 14:02:33,312 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thông báo thay \u0111\u1ed5i
+2025-04-05 14:03:33,212 - INFO - Xu\u1ea5t JSON: C:/Users/noname/Downloads/data_20250405_140314.json
+2025-04-05 14:39:23,011 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-05 14:39:23,031 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
+2025-04-05 14:39:23,031 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
+2025-04-05 14:39:23,520 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: \u0110\u0103ng ký thay \u0111\u1ed5i
+2025-04-05 14:40:26,350 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp m\u1edbi
+2025-04-05 14:46:36,484 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-05 14:46:36,487 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
+2025-04-05 14:46:36,488 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
+2025-04-05 14:46:36,868 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: \u0110\u0103ng ký thay \u0111\u1ed5i
+2025-04-05 14:46:44,577 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Phi\u1ebfu thu
+2025-04-05 14:48:10,338 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-05 14:48:10,341 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
+2025-04-05 14:48:10,341 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
+2025-04-05 14:48:11,412 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: \u0110\u0103ng ký thay \u0111\u1ed5i
+2025-04-05 14:48:16,488 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Phi\u1ebfu thu
+2025-04-05 14:48:56,640 - INFO - Xu\u1ea5t 1 file PDF riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/output_phieu thu_05042025_144830
+2025-04-05 14:49:07,827 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 0
+2025-04-05 14:49:07,827 - INFO - Doc paths: ['templates\\phieu thu.docx']
+2025-04-05 14:49:07,906 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-05 14:49:08,019 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-05 14:49:08,038 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-05 14:49:22,662 - INFO - Xu\u1ea5t PDF g\u1ed9p: C:/Users/noname/Downloads/output_phieu thu_05042025_144904.pdf
+2025-04-05 14:50:32,224 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: \u0110\u0103ng ký thay \u0111\u1ed5i
+2025-04-05 14:50:34,637 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp m\u1edbi
+2025-04-05 14:58:11,439 - INFO - \u0110ã t\u1ea1o b\u1ea3n sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250405_145811.db
+2025-04-05 14:58:11,443 - INFO - \u0110ã xóa b\u1ea3n sao l\u01b0u c\u0169: backup\backup_20250405_051730.db
+2025-04-05 15:08:11,457 - INFO - \u0110ã t\u1ea1o b\u1ea3n sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250405_150811.db
+2025-04-05 15:08:11,459 - INFO - \u0110ã xóa b\u1ea3n sao l\u01b0u c\u0169: backup\backup_20250405_052730.db
+2025-04-05 15:18:11,477 - INFO - \u0110ã t\u1ea1o b\u1ea3n sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250405_151811.db
+2025-04-05 15:18:11,483 - INFO - \u0110ã xóa b\u1ea3n sao l\u01b0u c\u0169: backup\backup_20250405_053730.db
+2025-04-05 15:28:11,509 - INFO - \u0110ã t\u1ea1o b\u1ea3n sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250405_152811.db
+2025-04-05 15:28:11,511 - INFO - \u0110ã xóa b\u1ea3n sao l\u01b0u c\u0169: backup\backup_20250405_054730.db
+2025-04-05 15:38:11,538 - INFO - \u0110ã t\u1ea1o b\u1ea3n sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250405_153811.db
+2025-04-05 15:38:11,540 - INFO - \u0110ã xóa b\u1ea3n sao l\u01b0u c\u0169: backup\backup_20250405_055730.db
+2025-04-05 15:48:11,564 - INFO - \u0110ã t\u1ea1o b\u1ea3n sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250405_154811.db
+2025-04-05 15:48:11,567 - INFO - \u0110ã xóa b\u1ea3n sao l\u01b0u c\u0169: backup\backup_20250405_060730.db
+2025-04-05 15:58:11,581 - INFO - \u0110ã t\u1ea1o b\u1ea3n sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250405_155811.db
+2025-04-05 15:58:11,583 - INFO - \u0110ã xóa b\u1ea3n sao l\u01b0u c\u0169: backup\backup_20250405_080150.db
+2025-04-05 16:08:11,634 - INFO - \u0110ã t\u1ea1o b\u1ea3n sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250405_160811.db
+2025-04-05 16:08:11,636 - INFO - \u0110ã xóa b\u1ea3n sao l\u01b0u c\u0169: backup\backup_20250405_084838.db
+2025-04-05 16:10:16,481 - INFO - Thêm d\u1eef li\u1ec7u 'test'
+2025-04-05 16:10:22,777 - INFO - Nh\u1eadp d\u1eef li\u1ec7u t\u1eeb Excel: C:/Users/noname/Downloads/kaiser.xlsx
+2025-04-05 16:10:41,912 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 4
+2025-04-05 16:10:41,912 - INFO - Doc paths: ['templates\\2TV-danh sach thanh vien.docx']
+2025-04-05 16:10:42,001 - INFO - \u0110ã chèn bang_thanh_vien
+2025-04-05 16:10:42,025 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-05 16:10:42,111 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-05 16:10:42,137 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-05 16:11:01,365 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/0313290434_2TV-danh sach thanh vien_05042025_161038
+2025-04-05 16:12:52,389 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 4
+2025-04-05 16:12:52,389 - INFO - Doc paths: ['templates\\2TV-danh sach thanh vien.docx']
+2025-04-05 16:12:52,408 - INFO - S\u1ed1 l\u01b0\u1ee3ng thành viên trong create_member_list_table: 4
+2025-04-05 16:12:52,409 - INFO - D\u1eef li\u1ec7u thành viên: [{'ho_ten': '\u0110ÀO B\u1ea0CH HOÀNG KH\u1ea2I', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '1.800.000.000', 'ty_le_gop': '9,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': True}, {'ho_ten': 'PH\u1ea0M TH\u1eca THÙY DUNG', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '2.200.000.000', 'ty_le_gop': '11,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}, {'ho_ten': 'TH\u1ea0CH TÂN QUANG MINH', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '8.000.000.000', 'ty_le_gop': '40,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}, {'ho_ten': 'TRANG H\u1ed2NG QUÂN', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '8.000.000.000', 'ty_le_gop': '40,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}]
+2025-04-05 16:12:52,686 - INFO - \u0110ã chèn danh_sach_thanh_vien
+2025-04-05 16:12:52,686 - INFO - \u0110ã chèn danh_sach_thanh_vien
+2025-04-05 16:12:52,706 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-05 16:12:52,790 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-05 16:12:52,817 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-05 16:12:53,699 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/0313290434_2TV-danh sach thanh vien_05042025_161250
+2025-04-05 16:15:05,697 - ERROR - L\u1ed7i khi ki\u1ec3m tra placeholder: unexpected '}'
+2025-04-05 16:15:25,234 - ERROR - L\u1ed7i khi ki\u1ec3m tra placeholder: unexpected '}'
+2025-04-05 16:15:36,332 - ERROR - L\u1ed7i khi ki\u1ec3m tra placeholder: unexpected '}'
+2025-04-05 16:16:01,111 - ERROR - L\u1ed7i khi ki\u1ec3m tra placeholder: unexpected '}'
+2025-04-05 16:16:28,728 - ERROR - L\u1ed7i khi ki\u1ec3m tra placeholder: unexpected '}'
+2025-04-05 16:18:11,655 - INFO - \u0110ã t\u1ea1o b\u1ea3n sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250405_161811.db
+2025-04-05 16:18:11,656 - INFO - \u0110ã xóa b\u1ea3n sao l\u01b0u c\u0169: backup\backup_20250405_090944.db
+2025-04-05 16:19:32,865 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-05 16:19:32,868 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
+2025-04-05 16:19:32,868 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
+2025-04-05 16:19:33,356 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: \u0110\u0103ng ký thay \u0111\u1ed5i
+2025-04-05 16:19:39,545 - INFO - \u0110ã t\u1ea3i d\u1eef li\u1ec7u: test
+2025-04-05 16:19:45,570 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp m\u1edbi
+2025-04-05 16:19:48,141 - INFO - \u0110ã t\u1ea3i d\u1eef li\u1ec7u: test
+2025-04-05 16:19:56,521 - ERROR - L\u1ed7i khi phân tích placeholder trong file templates\2TV-giay de nghi.docx: unexpected '}'
+2025-04-05 16:21:42,280 - ERROR - L\u1ed7i khi phân tích placeholder trong file templates\2TV-giay de nghi.docx: unexpected '}'
+2025-04-05 16:21:49,280 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 4
+2025-04-05 16:21:49,280 - INFO - Doc paths: ['templates\\2TV-giay de nghi.docx', 'templates\\2TV-danh sach thanh vien.docx', 'templates\\van ban uy quyen CN.docx']
+2025-04-05 16:21:49,962 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-05 16:21:50,562 - ERROR - L\u1ed7i khi g\u1ed9p tài li\u1ec7u: unexpected '}'
+2025-04-05 16:24:24,920 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 4
+2025-04-05 16:24:24,920 - INFO - Doc paths: ['templates\\2TV-giay de nghi.docx', 'templates\\2TV-danh sach thanh vien.docx', 'templates\\van ban uy quyen CN.docx']
+2025-04-05 16:24:25,573 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-05 16:24:26,432 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-05 16:24:26,445 - INFO - S\u1ed1 l\u01b0\u1ee3ng thành viên trong create_member_list_table: 4
+2025-04-05 16:24:26,446 - INFO - D\u1eef li\u1ec7u thành viên: [{'ho_ten': '\u0110ÀO B\u1ea0CH HOÀNG KH\u1ea2I', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '1.800.000.000', 'ty_le_gop': '9,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': True}, {'ho_ten': 'PH\u1ea0M TH\u1eca THÙY DUNG', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '2.200.000.000', 'ty_le_gop': '11,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}, {'ho_ten': 'TH\u1ea0CH TÂN QUANG MINH', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '8.000.000.000', 'ty_le_gop': '40,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}, {'ho_ten': 'TRANG H\u1ed2NG QUÂN', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '8.000.000.000', 'ty_le_gop': '40,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}]
+2025-04-05 16:24:26,664 - INFO - \u0110ã chèn danh_sach_thanh_vien
+2025-04-05 16:24:26,665 - INFO - \u0110ã chèn danh_sach_thanh_vien
+2025-04-05 16:24:26,683 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_1.docx
+2025-04-05 16:24:26,766 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_1.docx
+2025-04-05 16:24:26,918 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_2.docx
+2025-04-05 16:24:27,033 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_2.docx
+2025-04-05 16:24:27,192 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t g\u1ed9p
+2025-04-05 16:25:30,549 - INFO - Xu\u1ea5t Word g\u1ed9p: C:/Users/noname/Downloads/0313290434_2TV-giay de nghi_2TV-danh sach thanh vien_van ban uy quyen CN_05042025.docx
+2025-04-05 16:25:38,030 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 4
+2025-04-05 16:25:38,030 - INFO - Doc paths: ['templates\\2TV-danh sach thanh vien.docx']
+2025-04-05 16:25:38,050 - INFO - S\u1ed1 l\u01b0\u1ee3ng thành viên trong create_member_list_table: 4
+2025-04-05 16:25:38,050 - INFO - D\u1eef li\u1ec7u thành viên: [{'ho_ten': '\u0110ÀO B\u1ea0CH HOÀNG KH\u1ea2I', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '1.800.000.000', 'ty_le_gop': '9,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': True}, {'ho_ten': 'PH\u1ea0M TH\u1eca THÙY DUNG', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '2.200.000.000', 'ty_le_gop': '11,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}, {'ho_ten': 'TH\u1ea0CH TÂN QUANG MINH', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '8.000.000.000', 'ty_le_gop': '40,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}, {'ho_ten': 'TRANG H\u1ed2NG QUÂN', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '8.000.000.000', 'ty_le_gop': '40,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}]
+2025-04-05 16:25:38,357 - INFO - \u0110ã chèn danh_sach_thanh_vien
+2025-04-05 16:25:38,357 - INFO - \u0110ã chèn danh_sach_thanh_vien
+2025-04-05 16:25:38,383 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-05 16:25:38,480 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-05 16:25:38,511 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-05 16:26:05,589 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/0313290434_2TV-danh sach thanh vien_05042025_162536
+2025-04-05 16:29:33,378 - INFO - \u0110ã t\u1ea1o b\u1ea3n sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250405_162933.db
+2025-04-05 16:29:33,380 - INFO - \u0110ã xóa b\u1ea3n sao l\u01b0u c\u0169: backup\backup_20250405_103645.db
+2025-04-05 16:30:50,689 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-05 16:30:50,692 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
+2025-04-05 16:30:50,693 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
+2025-04-05 16:30:51,097 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: \u0110\u0103ng ký thay \u0111\u1ed5i
+2025-04-05 16:30:58,932 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp m\u1edbi
+2025-04-05 16:31:01,776 - INFO - \u0110ã t\u1ea3i d\u1eef li\u1ec7u: test
+2025-04-05 16:31:20,623 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 4
+2025-04-05 16:31:20,623 - INFO - Doc paths: ['templates\\2TV-giay de nghi.docx', 'templates\\2TV-danh sach thanh vien.docx', 'templates\\van ban uy quyen CN.docx']
+2025-04-05 16:31:20,733 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-05 16:31:20,734 - ERROR - L\u1ed7i khi g\u1ed9p tài li\u1ec7u: name 'render_data' is not defined
+2025-04-05 16:39:17,338 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-05 16:39:17,342 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
+2025-04-05 16:39:17,343 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
+2025-04-05 16:39:17,797 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: \u0110\u0103ng ký thay \u0111\u1ed5i
+2025-04-05 16:39:21,848 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp m\u1edbi
+2025-04-05 16:39:23,115 - INFO - \u0110ã t\u1ea3i d\u1eef li\u1ec7u: test
+2025-04-05 16:39:33,733 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 4
+2025-04-05 16:39:33,733 - INFO - Doc paths: ['templates\\2TV-giay de nghi.docx', 'templates\\2TV-danh sach thanh vien.docx', 'templates\\van ban uy quyen CN.docx']
+2025-04-05 16:39:34,424 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-05 16:39:35,368 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-05 16:39:35,429 - INFO - S\u1ed1 l\u01b0\u1ee3ng thành viên trong create_member_list_table: 4
+2025-04-05 16:39:35,430 - INFO - D\u1eef li\u1ec7u thành viên: [{'ho_ten': '\u0110ÀO B\u1ea0CH HOÀNG KH\u1ea2I', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '1.800.000.000', 'ty_le_gop': '9,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': True}, {'ho_ten': 'PH\u1ea0M TH\u1eca THÙY DUNG', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '2.200.000.000', 'ty_le_gop': '11,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}, {'ho_ten': 'TH\u1ea0CH TÂN QUANG MINH', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '8.000.000.000', 'ty_le_gop': '40,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}, {'ho_ten': 'TRANG H\u1ed2NG QUÂN', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '8.000.000.000', 'ty_le_gop': '40,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}]
+2025-04-05 16:39:35,660 - INFO - \u0110ã chèn danh_sach_thanh_vien
+2025-04-05 16:39:35,660 - INFO - \u0110ã chèn danh_sach_thanh_vien
+2025-04-05 16:39:35,678 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_1.docx
+2025-04-05 16:39:35,763 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_1.docx
+2025-04-05 16:39:35,927 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_2.docx
+2025-04-05 16:39:36,044 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_2.docx
+2025-04-05 16:39:36,138 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t g\u1ed9p v\u1edbi gi\u1eef nguyên orientation
+2025-04-05 16:40:22,100 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-05 16:40:22,103 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
+2025-04-05 16:40:22,103 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
+2025-04-05 16:40:22,537 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: \u0110\u0103ng ký thay \u0111\u1ed5i
+2025-04-05 16:40:25,438 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp m\u1edbi
+2025-04-05 16:40:26,580 - INFO - \u0110ã t\u1ea3i d\u1eef li\u1ec7u: test
+2025-04-05 16:40:36,655 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 4
+2025-04-05 16:40:36,655 - INFO - Doc paths: ['templates\\2TV-giay de nghi.docx', 'templates\\2TV-danh sach thanh vien.docx', 'templates\\van ban uy quyen CN.docx']
+2025-04-05 16:40:37,402 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-05 16:40:38,263 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-05 16:40:38,314 - INFO - S\u1ed1 l\u01b0\u1ee3ng thành viên trong create_member_list_table: 4
+2025-04-05 16:40:38,314 - INFO - D\u1eef li\u1ec7u thành viên: [{'ho_ten': '\u0110ÀO B\u1ea0CH HOÀNG KH\u1ea2I', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '1.800.000.000', 'ty_le_gop': '9,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': True}, {'ho_ten': 'PH\u1ea0M TH\u1eca THÙY DUNG', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '2.200.000.000', 'ty_le_gop': '11,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}, {'ho_ten': 'TH\u1ea0CH TÂN QUANG MINH', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '8.000.000.000', 'ty_le_gop': '40,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}, {'ho_ten': 'TRANG H\u1ed2NG QUÂN', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '8.000.000.000', 'ty_le_gop': '40,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}]
+2025-04-05 16:40:38,538 - INFO - \u0110ã chèn danh_sach_thanh_vien
+2025-04-05 16:40:38,539 - INFO - \u0110ã chèn danh_sach_thanh_vien
+2025-04-05 16:40:38,554 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_1.docx
+2025-04-05 16:40:38,636 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_1.docx
+2025-04-05 16:40:38,800 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_2.docx
+2025-04-05 16:40:38,897 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_2.docx
+2025-04-05 16:40:38,991 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t g\u1ed9p v\u1edbi gi\u1eef nguyên orientation
+2025-04-05 16:41:01,805 - INFO - Xu\u1ea5t Word g\u1ed9p: C:/Users/noname/Downloads/0313290434_2TV-giay de nghi_2TV-danh sach thanh vien_van ban uy quyen CN_05042025.docx
+2025-04-05 16:52:39,632 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-05 16:52:39,635 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
+2025-04-05 16:52:39,635 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
+2025-04-05 16:52:40,273 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: \u0110\u0103ng ký thay \u0111\u1ed5i
+2025-04-05 16:52:43,800 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp m\u1edbi
+2025-04-05 16:52:46,527 - INFO - \u0110ã t\u1ea3i d\u1eef li\u1ec7u: test
+2025-04-05 16:52:56,514 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 4
+2025-04-05 16:52:56,514 - INFO - Doc paths: ['templates\\2TV-giay de nghi.docx', 'templates\\2TV-danh sach thanh vien.docx', 'templates\\van ban uy quyen CN.docx']
+2025-04-05 16:52:56,570 - INFO - L\u01b0u thông tin section 0: portrait, 7560310x10692130
+2025-04-05 16:52:57,274 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-05 16:52:58,227 - INFO - \u0110ã x\u1eed lý file 1/3
+2025-04-05 16:52:58,235 - INFO - L\u01b0u thông tin section 1: landscape, 10692130x7560310
+2025-04-05 16:52:58,240 - INFO - S\u1ed1 l\u01b0\u1ee3ng thành viên trong create_member_list_table: 4
+2025-04-05 16:52:58,240 - INFO - D\u1eef li\u1ec7u thành viên: [{'ho_ten': '\u0110ÀO B\u1ea0CH HOÀNG KH\u1ea2I', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '1.800.000.000', 'ty_le_gop': '9,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': True}, {'ho_ten': 'PH\u1ea0M TH\u1eca THÙY DUNG', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '2.200.000.000', 'ty_le_gop': '11,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}, {'ho_ten': 'TH\u1ea0CH TÂN QUANG MINH', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '8.000.000.000', 'ty_le_gop': '40,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}, {'ho_ten': 'TRANG H\u1ed2NG QUÂN', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '8.000.000.000', 'ty_le_gop': '40,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}]
+2025-04-05 16:52:58,462 - INFO - \u0110ã chèn danh_sach_thanh_vien
+2025-04-05 16:52:58,463 - INFO - \u0110ã chèn danh_sach_thanh_vien
+2025-04-05 16:52:58,477 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_1.docx
+2025-04-05 16:52:58,582 - INFO - \u0110ã x\u1eed lý file 2/3
+2025-04-05 16:52:58,591 - INFO - L\u01b0u thông tin section 2: portrait, 7560310x10692130
+2025-04-05 16:52:58,717 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_2.docx
+2025-04-05 16:52:58,845 - INFO - \u0110ã x\u1eed lý file 3/3
+2025-04-05 16:52:58,846 - INFO - Áp d\u1ee5ng orientation cho section 0 c\u1ee7a master: portrait
+2025-04-05 16:52:58,848 - INFO - Áp d\u1ee5ng orientation cho tài li\u1ec7u 2: landscape
+2025-04-05 16:52:58,861 - INFO - Áp d\u1ee5ng l\u1ea1i orientation cho section 1: landscape
+2025-04-05 16:52:58,862 - INFO - Áp d\u1ee5ng orientation cho tài li\u1ec7u 3: portrait
+2025-04-05 16:52:58,904 - INFO - Áp d\u1ee5ng l\u1ea1i orientation cho section 2: portrait
+2025-04-05 16:52:58,905 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t g\u1ed9p v\u1edbi gi\u1eef nguyên orientation
+2025-04-05 16:52:58,906 - INFO - \u0110ã d\u1ecdn d\u1eb9p các file t\u1ea1m th\u1eddi
+2025-04-05 16:55:15,812 - INFO - Xu\u1ea5t Word g\u1ed9p: C:/Users/noname/Downloads/0313290434_2TV-giay de nghi_2TV-danh sach thanh vien_van ban uy quyen CN_05042025.docx
+2025-04-05 16:55:22,811 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 4
+2025-04-05 16:55:22,811 - INFO - Doc paths: ['templates\\2TV-danh sach thanh vien.docx', 'templates\\van ban uy quyen CN.docx']
+2025-04-05 16:55:22,819 - INFO - L\u01b0u thông tin section 0: landscape, 10692130x7560310
+2025-04-05 16:55:22,824 - INFO - S\u1ed1 l\u01b0\u1ee3ng thành viên trong create_member_list_table: 4
+2025-04-05 16:55:22,825 - INFO - D\u1eef li\u1ec7u thành viên: [{'ho_ten': '\u0110ÀO B\u1ea0CH HOÀNG KH\u1ea2I', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '1.800.000.000', 'ty_le_gop': '9,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': True}, {'ho_ten': 'PH\u1ea0M TH\u1eca THÙY DUNG', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '2.200.000.000', 'ty_le_gop': '11,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}, {'ho_ten': 'TH\u1ea0CH TÂN QUANG MINH', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '8.000.000.000', 'ty_le_gop': '40,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}, {'ho_ten': 'TRANG H\u1ed2NG QUÂN', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '8.000.000.000', 'ty_le_gop': '40,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}]
+2025-04-05 16:55:23,073 - INFO - \u0110ã chèn danh_sach_thanh_vien
+2025-04-05 16:55:23,073 - INFO - \u0110ã chèn danh_sach_thanh_vien
+2025-04-05 16:55:23,091 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-05 16:55:23,216 - INFO - \u0110ã x\u1eed lý file 1/2
+2025-04-05 16:55:23,224 - INFO - L\u01b0u thông tin section 1: portrait, 7560310x10692130
+2025-04-05 16:55:23,349 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_1.docx
+2025-04-05 16:55:23,533 - INFO - \u0110ã x\u1eed lý file 2/2
+2025-04-05 16:55:23,533 - INFO - Áp d\u1ee5ng orientation cho section 0 c\u1ee7a master: landscape
+2025-04-05 16:55:23,534 - INFO - Áp d\u1ee5ng orientation cho tài li\u1ec7u 2: portrait
+2025-04-05 16:55:23,597 - INFO - Áp d\u1ee5ng l\u1ea1i orientation cho section 1: portrait
+2025-04-05 16:55:23,598 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t g\u1ed9p v\u1edbi gi\u1eef nguyên orientation
+2025-04-05 16:55:23,598 - INFO - \u0110ã d\u1ecdn d\u1eb9p các file t\u1ea1m th\u1eddi
+2025-04-05 16:55:38,566 - INFO - Xu\u1ea5t Word g\u1ed9p: C:/Users/noname/Downloads/0313290434_2TV-danh sach thanh vien_van ban uy quyen CN_05042025.docx
+2025-04-05 16:55:57,936 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 4
+2025-04-05 16:55:57,936 - INFO - Doc paths: ['templates\\2TV-danh sach thanh vien.docx']
+2025-04-05 16:55:57,945 - INFO - L\u01b0u thông tin section 0: landscape, 10692130x7560310
+2025-04-05 16:55:57,950 - INFO - S\u1ed1 l\u01b0\u1ee3ng thành viên trong create_member_list_table: 4
+2025-04-05 16:55:57,950 - INFO - D\u1eef li\u1ec7u thành viên: [{'ho_ten': '\u0110ÀO B\u1ea0CH HOÀNG KH\u1ea2I', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '1.800.000.000', 'ty_le_gop': '9,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': True}, {'ho_ten': 'PH\u1ea0M TH\u1eca THÙY DUNG', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '2.200.000.000', 'ty_le_gop': '11,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}, {'ho_ten': 'TH\u1ea0CH TÂN QUANG MINH', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '8.000.000.000', 'ty_le_gop': '40,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}, {'ho_ten': 'TRANG H\u1ed2NG QUÂN', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '8.000.000.000', 'ty_le_gop': '40,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}]
+2025-04-05 16:55:58,270 - INFO - \u0110ã chèn danh_sach_thanh_vien
+2025-04-05 16:55:58,272 - INFO - \u0110ã chèn danh_sach_thanh_vien
+2025-04-05 16:55:58,296 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-05 16:55:58,431 - INFO - \u0110ã x\u1eed lý file 1/1
+2025-04-05 16:55:58,431 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb v\u1edbi gi\u1eef nguyên orientation
+2025-04-05 16:55:58,432 - INFO - \u0110ã d\u1ecdn d\u1eb9p các file t\u1ea1m th\u1eddi
+2025-04-05 16:56:10,309 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/0313290434_2TV-danh sach thanh vien_05042025_165556
+2025-04-05 16:56:18,296 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 4
+2025-04-05 16:56:18,296 - INFO - Doc paths: ['templates\\2TV-danh sach thanh vien.docx']
+2025-04-05 16:56:18,304 - INFO - L\u01b0u thông tin section 0: landscape, 10692130x7560310
+2025-04-05 16:56:18,335 - INFO - S\u1ed1 l\u01b0\u1ee3ng thành viên trong create_member_list_table: 4
+2025-04-05 16:56:18,336 - INFO - D\u1eef li\u1ec7u thành viên: [{'ho_ten': '\u0110ÀO B\u1ea0CH HOÀNG KH\u1ea2I', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '1.800.000.000', 'ty_le_gop': '9,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': True}, {'ho_ten': 'PH\u1ea0M TH\u1eca THÙY DUNG', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '2.200.000.000', 'ty_le_gop': '11,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}, {'ho_ten': 'TH\u1ea0CH TÂN QUANG MINH', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '8.000.000.000', 'ty_le_gop': '40,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}, {'ho_ten': 'TRANG H\u1ed2NG QUÂN', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '8.000.000.000', 'ty_le_gop': '40,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}]
+2025-04-05 16:56:18,599 - INFO - \u0110ã chèn danh_sach_thanh_vien
+2025-04-05 16:56:18,599 - INFO - \u0110ã chèn danh_sach_thanh_vien
+2025-04-05 16:56:18,614 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-05 16:56:18,721 - INFO - \u0110ã x\u1eed lý file 1/1
+2025-04-05 16:56:18,721 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb v\u1edbi gi\u1eef nguyên orientation
+2025-04-05 16:56:18,722 - INFO - \u0110ã d\u1ecdn d\u1eb9p các file t\u1ea1m th\u1eddi
+2025-04-05 16:56:22,240 - INFO - Xu\u1ea5t Word g\u1ed9p: C:/Users/noname/Downloads/0313290434_2TV-danh sach thanh vien_05042025.docx
+2025-04-05 17:02:40,298 - INFO - \u0110ã t\u1ea1o b\u1ea3n sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250405_170240.db
+2025-04-05 17:02:40,301 - INFO - \u0110ã xóa b\u1ea3n sao l\u01b0u c\u0169: backup\backup_20250405_145811.db
+2025-04-05 17:03:07,282 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-05 17:03:07,285 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
+2025-04-05 17:03:07,285 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
+2025-04-05 17:03:07,766 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: \u0110\u0103ng ký thay \u0111\u1ed5i
+2025-04-05 17:03:10,886 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp m\u1edbi
+2025-04-05 17:03:15,745 - INFO - \u0110ã t\u1ea3i d\u1eef li\u1ec7u: test
+2025-04-05 17:03:24,233 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 4
+2025-04-05 17:03:24,233 - INFO - Doc paths: ['templates\\2TV-giay de nghi.docx', 'templates\\2TV-danh sach thanh vien.docx', 'templates\\van ban uy quyen CN.docx']
+2025-04-05 17:03:24,286 - INFO - File 0, section: orientation=portrait, width=7560310, height=10692130
+2025-04-05 17:03:25,320 - INFO - \u0110ã x\u1eed lý file 1/3
+2025-04-05 17:03:25,329 - INFO - File 1, section: orientation=landscape, width=10692130, height=7560310
+2025-04-05 17:03:25,415 - INFO - \u0110ã x\u1eed lý file 2/3
+2025-04-05 17:03:25,426 - INFO - File 2, section: orientation=portrait, width=7560310, height=10692130
+2025-04-05 17:03:25,561 - INFO - \u0110ã x\u1eed lý file 3/3
+2025-04-05 17:03:25,599 - ERROR - L\u1ed7i khi g\u1ed9p tài li\u1ec7u: list index out of range
+2025-04-05 17:03:25,599 - ERROR - Chi ti\u1ebft l\u1ed7i:
+Traceback (most recent call last):
+  File "c:\Users\noname\SynologyDrive\HoSoKinhDoanh\v6.6\modules\export.py", line 674, in merge_documents
+    delete_paragraph = result_doc.paragraphs[0]._element
+                       ~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+2025-04-05 17:03:26,850 - INFO - \u0110ã xóa file t\u1ea1m: temp_original_0.docx
+2025-04-05 17:03:26,850 - INFO - \u0110ã xóa file t\u1ea1m: temp_processed_0.docx
+2025-04-05 17:03:26,851 - INFO - \u0110ã xóa file t\u1ea1m: temp_original_1.docx
+2025-04-05 17:03:26,851 - INFO - \u0110ã xóa file t\u1ea1m: temp_processed_1.docx
+2025-04-05 17:03:26,852 - INFO - \u0110ã xóa file t\u1ea1m: temp_original_2.docx
+2025-04-05 17:03:26,852 - INFO - \u0110ã xóa file t\u1ea1m: temp_processed_2.docx
+2025-04-05 17:04:10,732 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-05 17:04:10,735 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
+2025-04-05 17:04:10,735 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
+2025-04-05 17:04:11,159 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: \u0110\u0103ng ký thay \u0111\u1ed5i
+2025-04-05 17:04:15,139 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp m\u1edbi
+2025-04-05 17:04:16,275 - INFO - \u0110ã t\u1ea3i d\u1eef li\u1ec7u: test
+2025-04-05 17:04:24,217 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 4
+2025-04-05 17:04:24,218 - INFO - Doc paths: ['templates\\2TV-giay de nghi.docx', 'templates\\2TV-danh sach thanh vien.docx', 'templates\\van ban uy quyen CN.docx']
+2025-04-05 17:04:24,273 - INFO - File 0, section: orientation=portrait, width=7560310, height=10692130
+2025-04-05 17:04:25,284 - INFO - \u0110ã x\u1eed lý file 1/3
+2025-04-05 17:04:25,292 - INFO - File 1, section: orientation=landscape, width=10692130, height=7560310
+2025-04-05 17:04:25,374 - INFO - \u0110ã x\u1eed lý file 2/3
+2025-04-05 17:04:25,384 - INFO - File 2, section: orientation=portrait, width=7560310, height=10692130
+2025-04-05 17:04:25,501 - INFO - \u0110ã x\u1eed lý file 3/3
+2025-04-05 17:04:25,522 - ERROR - L\u1ed7i khi g\u1ed9p tài li\u1ec7u: list index out of range
+2025-04-05 17:04:25,522 - ERROR - Chi ti\u1ebft l\u1ed7i:
+Traceback (most recent call last):
+  File "c:\Users\noname\SynologyDrive\HoSoKinhDoanh\v6.6\modules\export.py", line 675, in merge_documents
+    delete_paragraph = result_doc.paragraphs[0]._element
+                       ~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+2025-04-05 17:04:27,170 - INFO - \u0110ã xóa file t\u1ea1m: temp_original_0.docx
+2025-04-05 17:04:27,171 - INFO - \u0110ã xóa file t\u1ea1m: temp_processed_0.docx
+2025-04-05 17:04:27,172 - INFO - \u0110ã xóa file t\u1ea1m: temp_original_1.docx
+2025-04-05 17:04:27,173 - INFO - \u0110ã xóa file t\u1ea1m: temp_processed_1.docx
+2025-04-05 17:04:27,174 - INFO - \u0110ã xóa file t\u1ea1m: temp_original_2.docx
+2025-04-05 17:04:27,174 - INFO - \u0110ã xóa file t\u1ea1m: temp_processed_2.docx
+2025-04-05 17:05:31,699 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-05 17:05:31,702 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
+2025-04-05 17:05:31,702 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
+2025-04-05 17:05:32,121 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: \u0110\u0103ng ký thay \u0111\u1ed5i
+2025-04-05 17:05:35,466 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp m\u1edbi
+2025-04-05 17:05:36,828 - INFO - \u0110ã t\u1ea3i d\u1eef li\u1ec7u: test
+2025-04-05 17:05:50,686 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 4
+2025-04-05 17:05:50,687 - INFO - Doc paths: ['templates\\2TV-giay de nghi.docx', 'templates\\2TV-danh sach thanh vien.docx', 'templates\\van ban uy quyen CN.docx']
+2025-04-05 17:05:51,604 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-05 17:05:52,375 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-05 17:05:52,388 - INFO - S\u1ed1 l\u01b0\u1ee3ng thành viên trong create_member_list_table: 4
+2025-04-05 17:05:52,388 - INFO - D\u1eef li\u1ec7u thành viên: [{'ho_ten': '\u0110ÀO B\u1ea0CH HOÀNG KH\u1ea2I', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '1.800.000.000', 'ty_le_gop': '9,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': True}, {'ho_ten': 'PH\u1ea0M TH\u1eca THÙY DUNG', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '2.200.000.000', 'ty_le_gop': '11,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}, {'ho_ten': 'TH\u1ea0CH TÂN QUANG MINH', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '8.000.000.000', 'ty_le_gop': '40,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}, {'ho_ten': 'TRANG H\u1ed2NG QUÂN', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '8.000.000.000', 'ty_le_gop': '40,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}]
+2025-04-05 17:05:52,625 - INFO - \u0110ã chèn danh_sach_thanh_vien
+2025-04-05 17:05:52,625 - INFO - \u0110ã chèn danh_sach_thanh_vien
+2025-04-05 17:05:52,639 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_1.docx
+2025-04-05 17:05:52,724 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_1.docx
+2025-04-05 17:05:52,860 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_2.docx
+2025-04-05 17:05:52,944 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_2.docx
+2025-04-05 17:05:53,062 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t g\u1ed9p
+2025-04-05 17:05:57,960 - INFO - Xu\u1ea5t Word g\u1ed9p: C:/Users/noname/Downloads/0313290434_2TV-giay de nghi_2TV-danh sach thanh vien_van ban uy quyen CN_05042025.docx
+2025-04-05 17:06:23,060 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 4
+2025-04-05 17:06:23,060 - INFO - Doc paths: ['templates\\2TV-giay de nghi.docx']
+2025-04-05 17:06:23,738 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-05 17:06:24,585 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-05 17:06:24,623 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-05 17:06:53,503 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/0313290434_2TV-giay de nghi_2TV-danh sach thanh vien_van ban uy quyen CN_05042025_170620
+2025-04-05 17:06:55,827 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 4
+2025-04-05 17:06:55,827 - INFO - Doc paths: ['templates\\2TV-danh sach thanh vien.docx']
+2025-04-05 17:06:55,856 - INFO - S\u1ed1 l\u01b0\u1ee3ng thành viên trong create_member_list_table: 4
+2025-04-05 17:06:55,856 - INFO - D\u1eef li\u1ec7u thành viên: [{'ho_ten': '\u0110ÀO B\u1ea0CH HOÀNG KH\u1ea2I', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '1.800.000.000', 'ty_le_gop': '9,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': True}, {'ho_ten': 'PH\u1ea0M TH\u1eca THÙY DUNG', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '2.200.000.000', 'ty_le_gop': '11,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}, {'ho_ten': 'TH\u1ea0CH TÂN QUANG MINH', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '8.000.000.000', 'ty_le_gop': '40,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}, {'ho_ten': 'TRANG H\u1ed2NG QUÂN', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '8.000.000.000', 'ty_le_gop': '40,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}]
+2025-04-05 17:06:56,106 - INFO - \u0110ã chèn danh_sach_thanh_vien
+2025-04-05 17:06:56,106 - INFO - \u0110ã chèn danh_sach_thanh_vien
+2025-04-05 17:06:56,126 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-05 17:06:56,213 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-05 17:06:56,245 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-05 17:07:03,375 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/0313290434_2TV-giay de nghi_2TV-danh sach thanh vien_van ban uy quyen CN_05042025_170653
+2025-04-05 17:07:05,673 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 4
+2025-04-05 17:07:05,674 - INFO - Doc paths: ['templates\\van ban uy quyen CN.docx']
+2025-04-05 17:07:05,819 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-05 17:07:05,902 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-05 17:07:05,922 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-05 17:07:12,352 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/0313290434_2TV-giay de nghi_2TV-danh sach thanh vien_van ban uy quyen CN_05042025_170703
+2025-04-05 17:09:15,592 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 4
+2025-04-05 17:09:15,592 - INFO - Doc paths: ['templates\\1TV_giay de nghi.docx', 'templates\\1TV_dieu le.docx', 'templates\\van ban uy quyen CN.docx']
+2025-04-05 17:09:16,415 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-05 17:09:17,328 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-05 17:09:18,226 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_1.docx
+2025-04-05 17:09:18,400 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_1.docx
+2025-04-05 17:09:18,538 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_2.docx
+2025-04-05 17:09:18,627 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_2.docx
+2025-04-05 17:09:18,926 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t g\u1ed9p
+2025-04-05 17:09:47,340 - INFO - Xu\u1ea5t Word g\u1ed9p: C:/Users/noname/Downloads/0313290434_1TV_giay de nghi_1TV_dieu le_van ban uy quyen CN_05042025.docx
+2025-04-05 17:10:06,585 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-05 17:10:06,588 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
+2025-04-05 17:10:06,588 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
+2025-04-05 17:10:07,027 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: \u0110\u0103ng ký thay \u0111\u1ed5i
+2025-04-05 17:10:10,101 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp m\u1edbi
+2025-04-05 17:10:12,102 - INFO - \u0110ã t\u1ea3i d\u1eef li\u1ec7u: test
+2025-04-05 17:10:21,248 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 4
+2025-04-05 17:10:21,248 - INFO - Doc paths: ['templates\\1TV_giay de nghi.docx', 'templates\\1TV_dieu le.docx', 'templates\\van ban uy quyen CN.docx']
+2025-04-05 17:10:22,181 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-05 17:10:23,122 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-05 17:10:23,997 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_1.docx
+2025-04-05 17:10:24,179 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_1.docx
+2025-04-05 17:10:24,319 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_2.docx
+2025-04-05 17:10:24,403 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_2.docx
+2025-04-05 17:10:24,741 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t g\u1ed9p
+2025-04-05 17:12:09,785 - INFO - Xu\u1ea5t Word g\u1ed9p: C:/Users/noname/Downloads/0313290434_1TV_giay de nghi_1TV_dieu le_van ban uy quyen CN_05042025.docx
+2025-04-05 17:12:51,195 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-05 17:12:51,199 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
+2025-04-05 17:12:51,199 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
+2025-04-05 17:12:51,815 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: \u0110\u0103ng ký thay \u0111\u1ed5i
+2025-04-05 17:12:56,390 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp m\u1edbi
+2025-04-05 17:12:57,250 - INFO - \u0110ã t\u1ea3i d\u1eef li\u1ec7u: test
+2025-04-05 17:13:06,749 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 4
+2025-04-05 17:13:06,749 - INFO - Doc paths: ['templates\\1TV_giay de nghi.docx', 'templates\\1TV_dieu le.docx', 'templates\\van ban uy quyen CN.docx']
+2025-04-05 17:13:07,584 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-05 17:13:08,529 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-05 17:13:09,415 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_1.docx
+2025-04-05 17:13:09,611 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_1.docx
+2025-04-05 17:13:09,750 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_2.docx
+2025-04-05 17:13:09,831 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_2.docx
+2025-04-05 17:13:10,168 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t g\u1ed9p
+2025-04-05 17:13:27,395 - INFO - Xu\u1ea5t Word g\u1ed9p: C:/Users/noname/Downloads/0313290434_1TV_giay de nghi_1TV_dieu le_van ban uy quyen CN_05042025.docx
+2025-04-05 17:13:43,529 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 4
+2025-04-05 17:13:43,529 - INFO - Doc paths: ['templates\\1TV_dieu le.docx', 'templates\\2TV-giay de nghi.docx', 'templates\\van ban uy quyen CN.docx']
+2025-04-05 17:13:44,528 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-05 17:13:44,710 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-05 17:13:45,292 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_1.docx
+2025-04-05 17:13:46,047 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_1.docx
+2025-04-05 17:13:46,191 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_2.docx
+2025-04-05 17:13:46,273 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_2.docx
+2025-04-05 17:13:46,492 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t g\u1ed9p
+2025-04-05 17:14:06,348 - INFO - Xu\u1ea5t Word g\u1ed9p: C:/Users/noname/Downloads/0313290434_1TV_dieu le_2TV-giay de nghi_van ban uy quyen CN_05042025.docx
+2025-04-05 17:14:45,767 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-05 17:14:45,770 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
+2025-04-05 17:14:45,771 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
+2025-04-05 17:14:46,198 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: \u0110\u0103ng ký thay \u0111\u1ed5i
+2025-04-05 17:14:49,263 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp m\u1edbi
+2025-04-05 17:14:50,471 - INFO - \u0110ã t\u1ea3i d\u1eef li\u1ec7u: test
+2025-04-05 17:14:59,958 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 4
+2025-04-05 17:14:59,958 - INFO - Doc paths: ['templates\\1TV_dieu le.docx', 'templates\\2TV-giay de nghi.docx', 'templates\\van ban uy quyen CN.docx']
+2025-04-05 17:15:01,196 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-05 17:15:01,385 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-05 17:15:02,135 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_1.docx
+2025-04-05 17:15:02,924 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_1.docx
+2025-04-05 17:15:03,063 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_2.docx
+2025-04-05 17:15:03,148 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_2.docx
+2025-04-05 17:15:03,202 - ERROR - L\u1ed7i khi g\u1ed9p tài li\u1ec7u: name 'WD_BREAK' is not defined
+2025-04-05 17:15:51,784 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-05 17:15:51,787 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
+2025-04-05 17:15:51,788 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
+2025-04-05 17:15:52,247 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: \u0110\u0103ng ký thay \u0111\u1ed5i
+2025-04-05 17:15:56,624 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp m\u1edbi
+2025-04-05 17:15:57,739 - INFO - \u0110ã t\u1ea3i d\u1eef li\u1ec7u: test
+2025-04-05 17:16:07,420 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 4
+2025-04-05 17:16:07,420 - INFO - Doc paths: ['templates\\1TV_dieu le.docx', 'templates\\2TV-giay de nghi.docx', 'templates\\van ban uy quyen CN.docx']
+2025-04-05 17:16:08,567 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-05 17:16:08,752 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-05 17:16:09,359 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_1.docx
+2025-04-05 17:16:10,176 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_1.docx
+2025-04-05 17:16:10,321 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_2.docx
+2025-04-05 17:16:10,404 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_2.docx
+2025-04-05 17:16:10,616 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t g\u1ed9p
+2025-04-05 17:16:37,997 - INFO - Xu\u1ea5t Word g\u1ed9p: C:/Users/noname/Downloads/0313290434_1TV_dieu le_2TV-giay de nghi_van ban uy quyen CN_05042025.docx
+2025-04-05 17:17:02,748 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 4
+2025-04-05 17:17:02,748 - INFO - Doc paths: ['templates\\1TV_giay de nghi.docx', 'templates\\1TV_dieu le.docx', 'templates\\2TV-giay de nghi.docx']
+2025-04-05 17:17:03,464 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-05 17:17:04,685 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-05 17:17:05,553 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_1.docx
+2025-04-05 17:17:05,730 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_1.docx
+2025-04-05 17:17:06,335 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_2.docx
+2025-04-05 17:17:07,212 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_2.docx
+2025-04-05 17:17:07,581 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t g\u1ed9p
+2025-04-05 17:17:27,921 - INFO - Xu\u1ea5t Word g\u1ed9p: C:/Users/noname/Downloads/0313290434_1TV_giay de nghi_1TV_dieu le_2TV-giay de nghi_05042025.docx
+2025-04-05 17:18:44,342 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 4
+2025-04-05 17:18:44,342 - INFO - Doc paths: ['templates\\1TV_giay de nghi.docx', 'templates\\1TV_dieu le.docx', 'templates\\van ban uy quyen CN.docx']
+2025-04-05 17:18:44,913 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-05 17:18:45,746 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-05 17:18:46,621 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_1.docx
+2025-04-05 17:18:46,800 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_1.docx
+2025-04-05 17:18:46,941 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_2.docx
+2025-04-05 17:18:47,025 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_2.docx
+2025-04-05 17:18:47,345 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t g\u1ed9p
+2025-04-05 17:19:14,072 - INFO - Xu\u1ea5t Word g\u1ed9p: C:/Users/noname/Downloads/0313290434_1TV_giay de nghi_1TV_dieu le_van ban uy quyen CN_05042025.docx
+2025-04-05 17:20:33,126 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-05 17:20:33,129 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
+2025-04-05 17:20:33,131 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
+2025-04-05 17:20:33,640 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: \u0110\u0103ng ký thay \u0111\u1ed5i
+2025-04-05 17:20:36,692 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp m\u1edbi
+2025-04-05 17:20:43,530 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 0
+2025-04-05 17:20:43,530 - INFO - Doc paths: ['templates\\van ban uy quyen CN.docx']
+2025-04-05 17:20:43,685 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-05 17:20:43,780 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-05 17:20:43,809 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-05 17:20:51,252 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/_van ban uy quyen CN_05042025_172041
+2025-04-05 17:21:01,346 - ERROR - L\u1ed7i khi phân tích placeholder trong file templates\van ban uy quyen CN.docx: unexpected '}'
+2025-04-05 17:21:08,498 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 0
+2025-04-05 17:21:08,498 - INFO - Doc paths: ['templates\\van ban uy quyen CN.docx']
+2025-04-05 17:21:08,663 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-05 17:21:08,717 - ERROR - L\u1ed7i khi g\u1ed9p tài li\u1ec7u: unexpected '}'
+2025-04-05 17:21:10,769 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/_van ban uy quyen CN_05042025_172105
+2025-04-05 18:27:11,031 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-05 18:27:11,049 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
+2025-04-05 18:27:11,049 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
+2025-04-05 18:27:11,438 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: \u0110\u0103ng ký thay \u0111\u1ed5i
+2025-04-05 18:27:15,160 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp m\u1edbi
+2025-04-05 18:27:22,289 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp m\u1edbi
+2025-04-05 18:27:27,865 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp m\u1edbi
+2025-04-05 18:29:46,790 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-05 18:29:46,793 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
+2025-04-05 18:29:46,793 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
+2025-04-05 18:29:47,188 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: \u0110\u0103ng ký thay \u0111\u1ed5i
+2025-04-05 18:29:49,628 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp m\u1edbi
+2025-04-05 18:29:52,872 - INFO - \u0110ã t\u1ea3i d\u1eef li\u1ec7u: test
+2025-04-05 18:30:08,764 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 4
+2025-04-05 18:30:08,764 - INFO - Doc paths: ['templates\\1TV_giay de nghi.docx', 'templates\\1TV_dieu le.docx', 'templates\\van ban uy quyen CN.docx']
+2025-04-05 18:30:09,430 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-05 18:30:10,206 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-05 18:30:11,227 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_1.docx
+2025-04-05 18:30:11,405 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_1.docx
+2025-04-05 18:30:11,559 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_2.docx
+2025-04-05 18:30:11,642 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_2.docx
+2025-04-05 18:30:11,938 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t g\u1ed9p
+2025-04-05 18:30:23,403 - INFO - Xu\u1ea5t Word g\u1ed9p: C:/Users/noname/Downloads/0313290434_1TV_giay de nghi_1TV_dieu le_van ban uy quyen CN_05042025.docx
+2025-04-05 18:30:39,154 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 4
+2025-04-05 18:30:39,154 - INFO - Doc paths: ['templates\\1TV_giay de nghi.docx']
+2025-04-05 18:30:39,609 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-05 18:30:40,367 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-05 18:30:40,407 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-05 18:30:48,698 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/0313290434_['1TV_giay de nghi', '1TV_dieu le', 'van ban uy quyen CN']_05042025_183029
+2025-04-05 18:30:50,795 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 4
+2025-04-05 18:30:50,795 - INFO - Doc paths: ['templates\\1TV_dieu le.docx']
+2025-04-05 18:30:51,717 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-05 18:30:51,897 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-05 18:30:51,924 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-05 18:30:56,457 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/0313290434_['1TV_giay de nghi', '1TV_dieu le', 'van ban uy quyen CN']_05042025_183048
+2025-04-05 18:34:09,607 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 4
+2025-04-05 18:34:09,607 - INFO - Doc paths: ['templates\\2TV-danh sach thanh vien.docx']
+2025-04-05 18:34:09,621 - INFO - S\u1ed1 l\u01b0\u1ee3ng thành viên trong create_member_list_table: 4
+2025-04-05 18:34:09,622 - INFO - D\u1eef li\u1ec7u thành viên: [{'ho_ten': '\u0110ÀO B\u1ea0CH HOÀNG KH\u1ea2I', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '1.800.000.000', 'ty_le_gop': '9,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': True}, {'ho_ten': 'PH\u1ea0M TH\u1eca THÙY DUNG', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '2.200.000.000', 'ty_le_gop': '11,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}, {'ho_ten': 'TH\u1ea0CH TÂN QUANG MINH', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '8.000.000.000', 'ty_le_gop': '40,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}, {'ho_ten': 'TRANG H\u1ed2NG QUÂN', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '8.000.000.000', 'ty_le_gop': '40,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}]
+2025-04-05 18:34:09,837 - INFO - \u0110ã chèn danh_sach_thanh_vien
+2025-04-05 18:34:09,837 - INFO - \u0110ã chèn danh_sach_thanh_vien
+2025-04-05 18:34:09,856 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-05 18:34:09,940 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-05 18:34:09,961 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-05 18:38:50,597 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-05 18:38:50,600 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
+2025-04-05 18:38:50,601 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
+2025-04-05 18:38:50,963 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: \u0110\u0103ng ký thay \u0111\u1ed5i
+2025-04-05 18:39:17,020 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp m\u1edbi
+2025-04-05 18:39:18,811 - INFO - \u0110ã t\u1ea3i d\u1eef li\u1ec7u: test
+2025-04-05 18:39:24,764 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 4
+2025-04-05 18:39:24,764 - INFO - Doc paths: ['templates\\2TV-danh sach thanh vien.docx']
+2025-04-05 18:39:24,779 - INFO - S\u1ed1 l\u01b0\u1ee3ng thành viên trong create_member_list_table: 4
+2025-04-05 18:39:24,780 - INFO - D\u1eef li\u1ec7u thành viên: [{'ho_ten': '\u0110ÀO B\u1ea0CH HOÀNG KH\u1ea2I', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '1.800.000.000', 'ty_le_gop': '9,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': True}, {'ho_ten': 'PH\u1ea0M TH\u1eca THÙY DUNG', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '2.200.000.000', 'ty_le_gop': '11,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}, {'ho_ten': 'TH\u1ea0CH TÂN QUANG MINH', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '8.000.000.000', 'ty_le_gop': '40,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}, {'ho_ten': 'TRANG H\u1ed2NG QUÂN', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '8.000.000.000', 'ty_le_gop': '40,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}]
+2025-04-05 18:39:24,996 - INFO - \u0110ã chèn danh_sach_thanh_vien
+2025-04-05 18:39:24,996 - INFO - \u0110ã chèn danh_sach_thanh_vien
+2025-04-05 18:39:25,011 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-05 18:39:25,096 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-05 18:39:25,125 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-05 18:39:44,980 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/0313290434_2TV-danh sach thanh vien_05042025_183922
+2025-04-05 18:42:06,156 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-05 18:42:06,160 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
+2025-04-05 18:42:06,160 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
+2025-04-05 18:42:06,519 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: \u0110\u0103ng ký thay \u0111\u1ed5i
+2025-04-05 18:42:09,335 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp m\u1edbi
+2025-04-05 18:42:10,198 - INFO - \u0110ã t\u1ea3i d\u1eef li\u1ec7u: test
+2025-04-05 18:42:14,842 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 4
+2025-04-05 18:42:14,842 - INFO - Doc paths: ['templates\\2TV-danh sach thanh vien.docx']
+2025-04-05 18:42:14,858 - INFO - S\u1ed1 l\u01b0\u1ee3ng thành viên trong create_member_list_table: 4
+2025-04-05 18:42:14,859 - INFO - D\u1eef li\u1ec7u thành viên: [{'ho_ten': '\u0110ÀO B\u1ea0CH HOÀNG KH\u1ea2I', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '1.800.000.000', 'ty_le_gop': '9,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': True}, {'ho_ten': 'PH\u1ea0M TH\u1eca THÙY DUNG', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '2.200.000.000', 'ty_le_gop': '11,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}, {'ho_ten': 'TH\u1ea0CH TÂN QUANG MINH', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '8.000.000.000', 'ty_le_gop': '40,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}, {'ho_ten': 'TRANG H\u1ed2NG QUÂN', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '8.000.000.000', 'ty_le_gop': '40,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}]
+2025-04-05 18:42:15,083 - INFO - \u0110ã chèn danh_sach_thanh_vien
+2025-04-05 18:42:15,084 - INFO - \u0110ã chèn danh_sach_thanh_vien
+2025-04-05 18:42:15,098 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-05 18:42:15,184 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-05 18:42:15,216 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-05 18:42:23,532 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/0313290434_2TV-danh sach thanh vien_05042025_184213
+2025-04-05 18:42:58,121 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-05 18:42:58,124 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
+2025-04-05 18:42:58,125 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
+2025-04-05 18:42:58,500 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: \u0110\u0103ng ký thay \u0111\u1ed5i
+2025-04-05 18:43:01,823 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp m\u1edbi
+2025-04-05 18:43:02,777 - INFO - \u0110ã t\u1ea3i d\u1eef li\u1ec7u: test
+2025-04-05 18:43:08,217 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 4
+2025-04-05 18:43:08,217 - INFO - Doc paths: ['templates\\2TV-danh sach thanh vien.docx']
+2025-04-05 18:43:08,231 - INFO - S\u1ed1 l\u01b0\u1ee3ng thành viên trong create_member_list_table: 4
+2025-04-05 18:43:08,231 - INFO - D\u1eef li\u1ec7u thành viên: [{'ho_ten': '\u0110ÀO B\u1ea0CH HOÀNG KH\u1ea2I', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '1.800.000.000', 'ty_le_gop': '9,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': True}, {'ho_ten': 'PH\u1ea0M TH\u1eca THÙY DUNG', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '2.200.000.000', 'ty_le_gop': '11,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}, {'ho_ten': 'TH\u1ea0CH TÂN QUANG MINH', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '8.000.000.000', 'ty_le_gop': '40,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}, {'ho_ten': 'TRANG H\u1ed2NG QUÂN', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '8.000.000.000', 'ty_le_gop': '40,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}]
+2025-04-05 18:43:08,456 - INFO - \u0110ã chèn danh_sach_thanh_vien
+2025-04-05 18:43:08,456 - INFO - \u0110ã chèn danh_sach_thanh_vien
+2025-04-05 18:43:08,475 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-05 18:43:08,567 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-05 18:43:08,592 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-05 18:43:50,458 - INFO - Xu\u1ea5t Word g\u1ed9p: C:/Users/noname/Downloads/0313290434_2TV-danh sach thanh vien_05042025.docx
+2025-04-05 18:44:21,357 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 4
+2025-04-05 18:44:21,357 - INFO - Doc paths: ['templates\\2TV-danh sach thanh vien.docx']
+2025-04-05 18:44:21,370 - INFO - S\u1ed1 l\u01b0\u1ee3ng thành viên trong create_member_list_table: 4
+2025-04-05 18:44:21,370 - INFO - D\u1eef li\u1ec7u thành viên: [{'ho_ten': '\u0110ÀO B\u1ea0CH HOÀNG KH\u1ea2I', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '1.800.000.000', 'ty_le_gop': '9,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': True}, {'ho_ten': 'PH\u1ea0M TH\u1eca THÙY DUNG', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '2.200.000.000', 'ty_le_gop': '11,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}, {'ho_ten': 'TH\u1ea0CH TÂN QUANG MINH', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '8.000.000.000', 'ty_le_gop': '40,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}, {'ho_ten': 'TRANG H\u1ed2NG QUÂN', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '8.000.000.000', 'ty_le_gop': '40,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}]
+2025-04-05 18:44:21,614 - INFO - \u0110ã chèn danh_sach_thanh_vien
+2025-04-05 18:44:21,614 - INFO - \u0110ã chèn danh_sach_thanh_vien
+2025-04-05 18:44:21,628 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-05 18:44:21,714 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-05 18:44:21,735 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-05 18:45:42,339 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/0313290434_2TV-danh sach thanh vien_05042025_184419
+2025-04-05 18:45:46,467 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 4
+2025-04-05 18:45:46,467 - INFO - Doc paths: ['templates\\2TV-danh sach thanh vien.docx']
+2025-04-05 18:45:46,480 - INFO - S\u1ed1 l\u01b0\u1ee3ng thành viên trong create_member_list_table: 4
+2025-04-05 18:45:46,480 - INFO - D\u1eef li\u1ec7u thành viên: [{'ho_ten': '\u0110ÀO B\u1ea0CH HOÀNG KH\u1ea2I', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '1.800.000.000', 'ty_le_gop': '9,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': True}, {'ho_ten': 'PH\u1ea0M TH\u1eca THÙY DUNG', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '2.200.000.000', 'ty_le_gop': '11,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}, {'ho_ten': 'TH\u1ea0CH TÂN QUANG MINH', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '8.000.000.000', 'ty_le_gop': '40,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}, {'ho_ten': 'TRANG H\u1ed2NG QUÂN', 'gioi_tinh': '', 'ngay_sinh': '', 'dan_toc': '', 'quoc_tich': '', 'loai_giay_to': '', 'so_cccd': '', 'ngay_cap': '', 'noi_cap': '', 'ngay_het_han': '', 'dia_chi_thuong_tru': '', 'dia_chi_lien_lac': '', 'von_gop': '8.000.000.000', 'ty_le_gop': '40,000', 'ngay_gop_von': '06/02/2020', 'la_chu_tich': False}]
+2025-04-05 18:45:46,754 - INFO - \u0110ã chèn danh_sach_thanh_vien
+2025-04-05 18:45:46,754 - INFO - \u0110ã chèn danh_sach_thanh_vien
+2025-04-05 18:45:46,774 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-05 18:45:46,861 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-05 18:45:46,886 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
+2025-04-05 18:46:12,397 - INFO - Xu\u1ea5t 1 file Word riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/0313290434_2TV-danh sach thanh vien_05042025_184545
+2025-04-05 18:48:44,302 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: \u0110\u0103ng ký thay \u0111\u1ed5i
+2025-04-05 18:48:45,547 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Gi\u1ea3i th\u1ec3 - T\u1ea1m ng\u01b0ng
+2025-04-05 18:52:58,514 - INFO - \u0110ã t\u1ea1o b\u1ea3n sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250405_185258.db
+2025-04-05 18:52:58,516 - INFO - \u0110ã xóa b\u1ea3n sao l\u01b0u c\u0169: backup\backup_20250405_150811.db

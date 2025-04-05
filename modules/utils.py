@@ -2,6 +2,8 @@ import tkinter as tk
 from tkinter import ttk
 from docx.oxml import OxmlElement
 from docx.oxml.ns import qn
+from docx.enum.text import WD_BREAK
+from docx.enum.section import WD_SECTION
 import unicodedata
 import logging
 
@@ -40,12 +42,11 @@ class ToolTip:
             self.tooltip = None
 
 def add_section_break(doc):
-    last_paragraph = doc.paragraphs[-1]
-    new_section = OxmlElement('w:p')
-    break_element = OxmlElement('w:br')
-    break_element.set(qn('w:type'), 'page')
-    new_section.append(break_element)
-    last_paragraph._p.addnext(new_section)
+    """Thêm section break mới vào tài liệu"""
+    section_break = doc.add_paragraph()
+    section_break.add_run().add_break(WD_BREAK.PAGE)
+    new_section = doc.add_section(WD_SECTION.NEW_PAGE)
+    return new_section
 
 def number_to_words(number):
     """Chuyển đổi số thành chữ tiếng Việt."""

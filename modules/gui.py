@@ -106,7 +106,17 @@ class DataEntryApp:
         self.config_var = tk.StringVar()
         self.config_dropdown = ttk.Combobox(self.config_frame, textvariable=self.config_var, values=list(self.configs.keys()), state="readonly", width=20)
         self.config_dropdown.pack(side="left", padx=5)
-        ToolTip(self.config_dropdown, "Chọn cấu hình để thêm/sửa/xóa")
+        ToolTip(self.config_dropdown, "* Thông báo thay đổi: \n"
+                                            "- Ngành, nghề kinh doanh \n"
+                                            "- Thông tin đăng ký thuế \n \n"
+                                        "* Đăng ký thay đổi: \n"
+                                            "- Tên doanh nghiệp \n"
+                                            "- Địa chỉ trụ sở chính \n"
+                                            "- Thành viên công ty TNHH \n"
+                                            "- Người đại diện theo pháp luật \n"
+                                            "- Chủ sở hữu công ty TNHH 1TV \n"
+                                            "- Vốn điều lệ của công ty, tỷ lệ vốn góp \n"
+                                            "- Người đứng đầu chi nhánh/văn phòng đại diện/địa điểm kinh doanh \n")
         self.config_dropdown.bind("<<ComboboxSelected>>", self.load_selected_config)
 
         def resource_path(relative_path): # Hàm hỗ trợ lấy đường dẫn tài nguyên
@@ -117,19 +127,19 @@ class DataEntryApp:
 
         # Load icons
         try:
-            add_icon = Image.open(resource_path("icon/add_icon.png")).resize((25, 25), Image.Resampling.LANCZOS)
-            delete_icon = Image.open(resource_path("icon/delete_icon.png")).resize((25, 25), Image.Resampling.LANCZOS)
-            save_icon = Image.open(resource_path("icon/save_icon.png")).resize((25, 25), Image.Resampling.LANCZOS)
-            clear_icon = Image.open(resource_path("icon/clear_icon.png")).resize((25, 25), Image.Resampling.LANCZOS)
-            import_icon = Image.open(resource_path("icon/imxls_icon.png")).resize((25, 25), Image.Resampling.LANCZOS)
-            xls_icon = Image.open(resource_path("icon/xls_icon.png")).resize((25, 25), Image.Resampling.LANCZOS)
+            add_icon = Image.open(resource_path("icon/add_icon.png")).resize((22, 22), Image.Resampling.LANCZOS)
+            delete_icon = Image.open(resource_path("icon/delete_icon.png")).resize((22, 22), Image.Resampling.LANCZOS)
+            save_icon = Image.open(resource_path("icon/save_icon.png")).resize((22, 22), Image.Resampling.LANCZOS)
+            clear_icon = Image.open(resource_path("icon/clear_icon.png")).resize((22, 22), Image.Resampling.LANCZOS)
+            import_icon = Image.open(resource_path("icon/imxls_icon.png")).resize((22, 22), Image.Resampling.LANCZOS)
+            xls_icon = Image.open(resource_path("icon/xls_icon.png")).resize((22, 22), Image.Resampling.LANCZOS)
             preview_icon = Image.open(resource_path("icon/preview_icon.png")).resize((50, 50), Image.Resampling.LANCZOS)
             export_icon = Image.open(resource_path("icon/export_icon.png")).resize((50, 50), Image.Resampling.LANCZOS)
-            remove_icon = Image.open(resource_path("icon/remove_icon.png")).resize((25, 25), Image.Resampling.LANCZOS)
-            edit_icon = Image.open(resource_path("icon/edit_icon.png")).resize((25, 25), Image.Resampling.LANCZOS)
-            search_icon = Image.open(resource_path("icon/search_icon.png")).resize((25, 25), Image.Resampling.LANCZOS)
-            find_icon = Image.open(resource_path("icon/find_icon.png")).resize((25, 25), Image.Resampling.LANCZOS)
-            restorebackup_icon = Image.open(resource_path("icon/restorebackup_icon.png")).resize((25, 25), Image.Resampling.LANCZOS)
+            remove_icon = Image.open(resource_path("icon/remove_icon.png")).resize((22, 22), Image.Resampling.LANCZOS)
+            edit_icon = Image.open(resource_path("icon/edit_icon.png")).resize((22, 22), Image.Resampling.LANCZOS)
+            search_icon = Image.open(resource_path("icon/search_icon.png")).resize((22, 22), Image.Resampling.LANCZOS)
+            find_icon = Image.open(resource_path("icon/find_icon.png")).resize((22, 22), Image.Resampling.LANCZOS)
+            restorebackup_icon = Image.open(resource_path("icon/restorebackup_icon.png")).resize((22, 22), Image.Resampling.LANCZOS)
             self.add_icon_img = ImageTk.PhotoImage(add_icon)
             self.delete_icon_img = ImageTk.PhotoImage(delete_icon)
             self.save_icon_img = ImageTk.PhotoImage(save_icon)
