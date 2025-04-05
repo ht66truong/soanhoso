@@ -591,8 +591,6 @@ class ExportManager:
                 font._element.rPr.rFonts.set(qn("w:eastAsia"), "Times New Roman")
             
                 # Xử lý tất cả placeholder trong tài liệu
-               # for paragraph in doc.paragraphs:
-                # Xử lý tất cả placeholder trong tài liệu
                 for paragraph in doc.paragraphs:
                     if "{{ngay_thang_nam}}" in paragraph.text:
                         paragraph.text = paragraph.text.replace("{{ngay_thang_nam}}", data_lower.get("ngay_thang_nam", ""))
@@ -610,9 +608,9 @@ class ExportManager:
                             p.getparent().insert(p.getparent().index(p) + 1, doc.add_paragraph("Không có thông tin ngành nghề để hiển thị.")._element)
 
                     # Xử lý {{bang_nganh_bo_sung}}
-                    if "{{bang_nganh_bo_sung}}" in paragraph.text:
+                    if "{{bang_nganh_bo_sung}}" in paragraph.text or "{{ bang_nganh_bo_sung }}" in paragraph.text:
                         logging.info("Đang xử lý placeholder {{bang_nganh_bo_sung}}")
-                        paragraph.text = paragraph.text.replace("{{bang_nganh_bo_sung}}", "")
+                        paragraph.text = paragraph.text.replace("{{bang_nganh_bo_sung}}", "").replace("{{ bang_nganh_bo_sung }}", "")
                         p = paragraph._element
                         if additional_industries:
                             table = self.create_additional_industry_table(doc, additional_industries)
@@ -621,8 +619,8 @@ class ExportManager:
                             p.getparent().insert(p.getparent().index(p) + 1, doc.add_paragraph("Không có thông tin ngành bổ sung để hiển thị.")._element)
 
                     # Xử lý {{bang_nganh_giam}}
-                    if "{{bang_nganh_giam}}" in paragraph.text:
-                        paragraph.text = paragraph.text.replace("{{bang_nganh_giam}}", "")
+                    if "{{bang_nganh_giam}}" in paragraph.text or "{{ bang_nganh_giam }}" in paragraph.text:
+                        paragraph.text = paragraph.text.replace("{{bang_nganh_giam}}", "").replace("{{ bang_nganh_giam }}", "")
                         p = paragraph._element
                         if removed_industries:
                             table = self.create_removed_industry_table(doc, removed_industries)
@@ -631,8 +629,8 @@ class ExportManager:
                             p.getparent().insert(p.getparent().index(p) + 1, doc.add_paragraph("Không có thông tin ngành giảm để hiển thị.")._element)
 
                     # Xử lý {{bang_nganh_dieu_chinh}}
-                    if "{{bang_nganh_dieu_chinh}}" in paragraph.text:
-                        paragraph.text = paragraph.text.replace("{{bang_nganh_dieu_chinh}}", "")
+                    if "{{bang_nganh_dieu_chinh}}" in paragraph.text or "{{ bang_nganh_dieu_chinh }}" in paragraph.text:
+                        paragraph.text = paragraph.text.replace("{{bang_nganh_dieu_chinh}}", "").replace("{{ bang_nganh_dieu_chinh }}", "")
                         p = paragraph._element
                         if adjusted_industries:
                             table = self.create_adjusted_industry_table(doc, adjusted_industries)
@@ -892,7 +890,7 @@ class ExportManager:
         hdr_cells[3].text = "Ngành nghề kinh doanh chính"
 
         # Định dạng chữ cho tiêu đề
-        for i, cell in hdr_cells:
+        for cell in hdr_cells:
             paragraph = cell.paragraphs[0]
             paragraph.alignment = WD_TABLE_ALIGNMENT.CENTER
             run = paragraph.runs[0] if paragraph.runs else paragraph.add_run()
@@ -910,7 +908,7 @@ class ExportManager:
             row_cells[3].text = "X" if industry.get("la_nganh_chinh", False) else ""
 
             # Định dạng chữ cho dữ liệu
-            for i, cell in row_cells:
+            for i, cell in enumerate(row_cells):
                 paragraph = cell.paragraphs[0]
                 if i in [0, 2, 3]:
                     paragraph.alignment = WD_TABLE_ALIGNMENT.CENTER
@@ -1146,7 +1144,7 @@ class ExportManager:
         return table
 
     def create_member_table(self, doc, members):
-        """Tạo bảng họp thành viên (bang_hop_thanh_vien)."""
+        """Tạo bảng họp thành viên (bang_hop_thanh_vien).""" #Biên bản họp
         if not members:
             p = doc.add_paragraph()
             p.text = "Không có thông tin thành viên để hiển thị."
@@ -1203,7 +1201,7 @@ class ExportManager:
         return table
 
     def create_change_member_infor_table(self, doc, members):
-        """Tạo bảng thay đổi thông tin thành viên (bang_thay_doi_thong_tin_thanh_vien)."""
+        """Tạo bảng thay đổi thông tin thành viên (bang_thay_doi_thong_tin_thanh_vien).""" #cập nhật CCCD
         if not members:
             p = doc.add_paragraph()
             p.text = "Không có thông tin thành viên để hiển thị."
@@ -1247,7 +1245,7 @@ class ExportManager:
         return table
     
     def create_member_info_table(self, doc, members):
-        """Tạo bảng thông tin thành viên (bang_thanh_vien) với 7 cột."""
+        """Tạo bảng thông tin thành viên (bang_thanh_vien) với 7 cột.""" #bảng thông tin thành viên trong trang 1 điều lệ
         if not members:
             p = doc.add_paragraph()
             p.text = "Không có thông tin thành viên để hiển thị."
@@ -1297,6 +1295,7 @@ class ExportManager:
             font = run.font
             font.name = "Times New Roman"
             font.size = Pt(13)
+            font.bold = True
             run._element.rPr.rFonts.set(qn("w:eastAsia"), "Times New Roman")
 
         # Điền dữ liệu
@@ -1333,7 +1332,7 @@ class ExportManager:
         return table
 
     def create_capital_contribution_table(self, doc, members):
-        """Tạo bảng góp vốn (bang_gop_von) với 7 cột, gộp cột Vốn góp và thêm cột Ghi chú."""
+        """Tạo bảng góp vốn (bang_gop_von) với 7 cột, gộp cột Vốn góp và thêm cột Ghi chú.""" #Bảng vốn góp trong điều lệ
         logging.info(f"Số lượng thành viên trong create_capital_contribution_table: {len(members)}")
         logging.info(f"Dữ liệu thành viên: {members}")
         
@@ -1386,7 +1385,8 @@ class ExportManager:
                 run = paragraph.add_run(main_headers[i])
                 font = run.font
                 font.name = "Times New Roman"
-                font.size = Pt(12)
+                font.size = Pt(13)
+                font.bold = True
                 run._element.rPr.rFonts.set(qn("w:eastAsia"), "Times New Roman")
             elif i == 2:  # Cột 3: "Vốn góp"
                 cell = main_hdr_cells[2]
@@ -1395,7 +1395,8 @@ class ExportManager:
                 run = paragraph.add_run("Vốn góp")
                 font = run.font
                 font.name = "Times New Roman"
-                font.size = Pt(12)
+                font.size = Pt(13)
+                font.bold = True
                 run._element.rPr.rFonts.set(qn("w:eastAsia"), "Times New Roman")
                 # Gộp cột 3, 4, 5 (chỉ số 2, 3, 4) ở hàng 1
                 cell.merge(main_hdr_cells[3])
@@ -1415,7 +1416,8 @@ class ExportManager:
                 run.text = sub_headers[i - 2]
                 font = run.font
                 font.name = "Times New Roman"
-                font.size = Pt(12)
+                font.size = Pt(13)
+                font.bold = True
                 run._element.rPr.rFonts.set(qn("w:eastAsia"), "Times New Roman")
 
         # Điền dữ liệu
@@ -1436,7 +1438,7 @@ class ExportManager:
                 run.text = cell.text
                 font = run.font
                 font.name = "Times New Roman"
-                font.size = Pt(12)
+                font.size = Pt(13)
                 run._element.rPr.rFonts.set(qn("w:eastAsia"), "Times New Roman")
 
         table.alignment = WD_TABLE_ALIGNMENT.CENTER
@@ -1444,7 +1446,7 @@ class ExportManager:
         return table
 
     def create_member_list_table(self, doc, members):
-        """Tạo bảng danh sách thành viên (danh_sach_thanh_vien) với 14 cột và gộp cột Vốn góp."""
+        """Tạo bảng danh sách thành viên (danh_sach_thanh_vien) với 14 cột và gộp cột Vốn góp.""" #Danh sách thành viên
         logging.info(f"Số lượng thành viên trong create_member_list_table: {len(members)}")
         logging.info(f"Dữ liệu thành viên: {members}")
         
@@ -1500,7 +1502,7 @@ class ExportManager:
                 run = paragraph.add_run(main_headers[i])
                 font = run.font
                 font.name = "Times New Roman"
-                font.size = Pt(12)
+                font.size = Pt(13)
                 run._element.rPr.rFonts.set(qn("w:eastAsia"), "Times New Roman")
             elif i == 8:  # Cột 9: "Vốn góp"
                 cell = main_hdr_cells[8]
@@ -1509,7 +1511,7 @@ class ExportManager:
                 run = paragraph.add_run("Vốn góp")
                 font = run.font
                 font.name = "Times New Roman"
-                font.size = Pt(12)
+                font.size = Pt(13)
                 run._element.rPr.rFonts.set(qn("w:eastAsia"), "Times New Roman")
                 # Gộp cột 9, 10, 11 (chỉ số 8, 9, 10) ở hàng 1
                 cell.merge(main_hdr_cells[9])
