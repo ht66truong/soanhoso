@@ -34,7 +34,7 @@ class DataEntryApp:
     def __init__(self, root):
         """Khởi tạo ứng dụng nhập liệu hồ sơ kinh doanh."""
         self.root = root
-        self.root.title("Ứng dụng nhập liệu hồ sơ Kinh Doanh v6.6")
+        self.root.title("Ứng dụng nhập liệu hồ sơ Kinh Doanh v6.0.6")
         window_width = 1366
         window_height = 768
         screen_width = self.root.winfo_screenwidth()
@@ -117,19 +117,19 @@ class DataEntryApp:
 
         # Load icons
         try:
-            add_icon = Image.open(resource_path("icon/add_icon.png")).resize((20, 20), Image.Resampling.LANCZOS)
-            delete_icon = Image.open(resource_path("icon/delete_icon.png")).resize((20, 20), Image.Resampling.LANCZOS)
-            save_icon = Image.open(resource_path("icon/save_icon.png")).resize((20, 20), Image.Resampling.LANCZOS)
-            clear_icon = Image.open(resource_path("icon/clear_icon.png")).resize((20, 20), Image.Resampling.LANCZOS)
-            import_icon = Image.open(resource_path("icon/imxls_icon.png")).resize((20, 20), Image.Resampling.LANCZOS)
-            xls_icon = Image.open(resource_path("icon/xls_icon.png")).resize((20, 20), Image.Resampling.LANCZOS)
-            preview_icon = Image.open(resource_path("icon/preview_icon.png")).resize((40, 40), Image.Resampling.LANCZOS)
-            export_icon = Image.open(resource_path("icon/export_icon.png")).resize((40, 40), Image.Resampling.LANCZOS)
-            remove_icon = Image.open(resource_path("icon/remove_icon.png")).resize((20, 20), Image.Resampling.LANCZOS)
-            edit_icon = Image.open(resource_path("icon/edit_icon.png")).resize((20, 20), Image.Resampling.LANCZOS)
-            search_icon = Image.open(resource_path("icon/search_icon.png")).resize((20, 20), Image.Resampling.LANCZOS)
-            find_icon = Image.open(resource_path("icon/find_icon.png")).resize((20, 20), Image.Resampling.LANCZOS)
-            restorebackup_icon = Image.open(resource_path("icon/restorebackup_icon.png")).resize((20, 20), Image.Resampling.LANCZOS)
+            add_icon = Image.open(resource_path("icon/add_icon.png")).resize((25, 25), Image.Resampling.LANCZOS)
+            delete_icon = Image.open(resource_path("icon/delete_icon.png")).resize((25, 25), Image.Resampling.LANCZOS)
+            save_icon = Image.open(resource_path("icon/save_icon.png")).resize((25, 25), Image.Resampling.LANCZOS)
+            clear_icon = Image.open(resource_path("icon/clear_icon.png")).resize((25, 25), Image.Resampling.LANCZOS)
+            import_icon = Image.open(resource_path("icon/imxls_icon.png")).resize((25, 25), Image.Resampling.LANCZOS)
+            xls_icon = Image.open(resource_path("icon/xls_icon.png")).resize((25, 25), Image.Resampling.LANCZOS)
+            preview_icon = Image.open(resource_path("icon/preview_icon.png")).resize((50, 50), Image.Resampling.LANCZOS)
+            export_icon = Image.open(resource_path("icon/export_icon.png")).resize((50, 50), Image.Resampling.LANCZOS)
+            remove_icon = Image.open(resource_path("icon/remove_icon.png")).resize((25, 25), Image.Resampling.LANCZOS)
+            edit_icon = Image.open(resource_path("icon/edit_icon.png")).resize((25, 25), Image.Resampling.LANCZOS)
+            search_icon = Image.open(resource_path("icon/search_icon.png")).resize((25, 25), Image.Resampling.LANCZOS)
+            find_icon = Image.open(resource_path("icon/find_icon.png")).resize((25, 25), Image.Resampling.LANCZOS)
+            restorebackup_icon = Image.open(resource_path("icon/restorebackup_icon.png")).resize((25, 25), Image.Resampling.LANCZOS)
             self.add_icon_img = ImageTk.PhotoImage(add_icon)
             self.delete_icon_img = ImageTk.PhotoImage(delete_icon)
             self.save_icon_img = ImageTk.PhotoImage(save_icon)
@@ -148,13 +148,13 @@ class DataEntryApp:
             messagebox.showerror("Lỗi", "Không thể tải biểu tượng, kiểm tra thư mục icon!")
 
         #Quản lý cấu hình
-        self.add_config_button = ttk.Button(self.config_frame, image=self.add_icon_img, command=self.add_new_config, style="info.TButton")
+        self.add_config_button = ttk.Button(self.config_frame, image=self.add_icon_img, command=self.add_new_config, bootstyle="primary-outline")
         ToolTip(self.add_config_button, "Thêm cấu hình")
         self.add_config_button.pack(side="left", padx=5)
-        self.delete_config_button = ttk.Button(self.config_frame, image=self.delete_icon_img, command=self.delete_config, style="danger.TButton")
+        self.delete_config_button = ttk.Button(self.config_frame, image=self.delete_icon_img, command=self.delete_config, bootstyle="danger-outline")
         ToolTip(self.delete_config_button, "Xóa cấu hình")
         self.delete_config_button.pack(side="left", padx=5)
-        self.rename_config_button = ttk.Button(self.config_frame, image=self.edit_icon_img, command=self.rename_config, style="warning.TButton")
+        self.rename_config_button = ttk.Button(self.config_frame, image=self.edit_icon_img, command=self.rename_config, bootstyle="warning-outline")
         ToolTip(self.rename_config_button, "Sửa tên cấu hình")
         self.rename_config_button.pack(side="left", padx=5)
 
@@ -165,13 +165,13 @@ class DataEntryApp:
         self.tab_dropdown = ttk.Combobox(self.config_frame, textvariable=self.tab_var, state="readonly", width=20)
         ToolTip(self.tab_dropdown, "Chọn tab để thêm/sửa/xóa")
         self.tab_dropdown.pack(side="left", padx=5)
-        self.add_tab_button = ttk.Button(self.config_frame, image=self.add_icon_img, command=self.add_tab, style="info.TButton")
+        self.add_tab_button = ttk.Button(self.config_frame, image=self.add_icon_img, command=self.add_tab, bootstyle="primary-outline")
         ToolTip(self.add_tab_button, "Thêm tab")
         self.add_tab_button.pack(side="left", padx=5)
-        self.delete_tab_button = ttk.Button(self.config_frame, image=self.delete_icon_img, command=self.delete_tab, style="danger.TButton")
+        self.delete_tab_button = ttk.Button(self.config_frame, image=self.delete_icon_img, command=self.delete_tab, bootstyle="danger-outline")
         ToolTip(self.delete_tab_button, "Xóa tab")
         self.delete_tab_button.pack(side="left", padx=5)
-        self.rename_tab_button = ttk.Button(self.config_frame, image=self.edit_icon_img, command=self.rename_tab, style="warning.TButton")
+        self.rename_tab_button = ttk.Button(self.config_frame, image=self.edit_icon_img, command=self.rename_tab, bootstyle="warning-outline")
         ToolTip(self.rename_tab_button, "Sửa tên tab")
         self.rename_tab_button.pack(side="left", padx=5)
 
@@ -183,13 +183,13 @@ class DataEntryApp:
         ToolTip(self.field_dropdown, "Chọn trường để thêm/sửa/xóa")
         self.field_dropdown.pack(side="left", padx=5)
         # Thêm nút "Thêm trường"
-        self.add_field_button = ttk.Button(self.config_frame, image=self.add_icon_img, command=self.add_field, style="info.TButton")
+        self.add_field_button = ttk.Button(self.config_frame, image=self.add_icon_img, command=self.add_field, bootstyle="primary-outline")
         ToolTip(self.add_field_button, "Thêm trường")
         self.add_field_button.pack(side="left", padx=5)
-        self.delete_field_button = ttk.Button(self.config_frame, image=self.delete_icon_img, command=self.delete_selected_field, style="danger.TButton")
+        self.delete_field_button = ttk.Button(self.config_frame, image=self.delete_icon_img, command=self.delete_selected_field, bootstyle="danger-outline")
         ToolTip(self.delete_field_button, "Xóa trường")
         self.delete_field_button.pack(side="left", padx=5)
-        self.rename_field_button = ttk.Button(self.config_frame, image=self.edit_icon_img, command=self.rename_selected_field, style="warning.TButton")
+        self.rename_field_button = ttk.Button(self.config_frame, image=self.edit_icon_img, command=self.rename_selected_field, bootstyle="warning-outline")
         ToolTip(self.rename_field_button, "Sửa tên trường")
         self.rename_field_button.pack(side="left", padx=5)
 
@@ -225,7 +225,7 @@ class DataEntryApp:
         self.search_combobox["values"] = [entry["name"] for entry in self.saved_entries]  # Gán danh sách dữ liệu
         self.search_combobox.bind("<<ComboboxSelected>>", self.load_data_from_search)  # Gắn sự kiện
         self.search_combobox.bind("<KeyRelease>", self.update_search_suggestions)
-        ttk.Button(search_frame, image=self.find_icon_img, command=self.search_data, style="primary.TButton").pack(side="left", padx=5)
+        ttk.Button(search_frame, image=self.find_icon_img, command=self.search_data, bootstyle="success-outline").pack(side="left", padx=5)
 
         #ttk.Label(self.control_frame, text="Chọn công ty:").grid(row=0, column=2, padx=5, pady=5)
         self.load_data_var = tk.StringVar()
@@ -234,39 +234,39 @@ class DataEntryApp:
         ToolTip(self.load_data_dropdown, "Chọn công ty")
         self.load_data_dropdown.bind("<<ComboboxSelected>>", self.load_selected_entry)
 
-        self.add_data_button = ttk.Button(self.control_frame, image=self.add_icon_img, command=self.add_entry_data, style="info.TButton")
+        self.add_data_button = ttk.Button(self.control_frame, image=self.add_icon_img, command=self.add_entry_data, bootstyle="primary-outline")
         ToolTip(self.add_data_button, "Thêm dữ liệu")
         self.add_data_button.grid(row=0, column=4, padx=5, pady=5)
-        self.delete_data_button = ttk.Button(self.control_frame, image=self.delete_icon_img, command=self.delete_entry_data, style="danger.TButton")
+        self.delete_data_button = ttk.Button(self.control_frame, image=self.delete_icon_img, command=self.delete_entry_data, bootstyle="danger-outline")
         ToolTip(self.delete_data_button, "Xóa dữ liệu")
         self.delete_data_button.grid(row=0, column=5, padx=5, pady=5)
-        self.rename_data_button = ttk.Button(self.control_frame, image=self.edit_icon_img, command=self.rename_entry_data, style="warning.TButton")
+        self.rename_data_button = ttk.Button(self.control_frame, image=self.edit_icon_img, command=self.rename_entry_data, bootstyle="warning-outline")
         ToolTip(self.rename_data_button, "Sửa tên dữ liệu")
         self.rename_data_button.grid(row=0, column=6, padx=5, pady=5)
 
         ttk.Separator(self.control_frame, orient="vertical").grid(row=0, column=7, padx=10, pady=5, sticky="ns")
-        #self.edit_data_button = ttk.Button(self.control_frame, image=self.save_icon_img, command=self.save_entry_data, style="success.TButton")
+        #self.edit_data_button = ttk.Button(self.control_frame, image=self.save_icon_img, command=self.save_entry_data, bootstyle="success")
         #ToolTip(self.edit_data_button, "Lưu thông tin")
         #self.edit_data_button.grid(row=0, column=6, padx=5, pady=5)
-        self.clear_data_button = ttk.Button(self.control_frame, image=self.clear_icon_img, command=self.clear_entries, style="danger.TButton")
+        self.clear_data_button = ttk.Button(self.control_frame, image=self.clear_icon_img, command=self.clear_entries, bootstyle="dark-outline")
         ToolTip(self.clear_data_button, "Xóa thông tin")
         self.clear_data_button.grid(row=0, column=8, padx=5, pady=5)
 
         ttk.Separator(self.control_frame, orient="vertical").grid(row=0, column=9, padx=10, pady=5, sticky="ns")
         ttk.Label(self.control_frame, text="Xuất Nhập dữ liệu:").grid(row=0, column=10, padx=5, pady=5)
-        self.export_excel_button = ttk.Button(self.control_frame, image=self.xls_icon_img, command=self.export_data, style="primary.TButton")
+        self.export_excel_button = ttk.Button(self.control_frame, image=self.xls_icon_img, command=self.export_data, bootstyle="success-outline")
         ToolTip(self.export_excel_button, "Xuất dữ liệu")
         self.export_excel_button.grid(row=0, column=11, padx=5, pady=5)
-        self.import_data_button = ttk.Button(self.control_frame, image=self.import_icon_img, command=self.import_from_file, style="primary.TButton")
+        self.import_data_button = ttk.Button(self.control_frame, image=self.import_icon_img, command=self.import_from_file, bootstyle="secondary-outline")
         ToolTip(self.import_data_button, "Nhập dữ liệu")
         self.import_data_button.grid(row=0, column=12, padx=5, pady=5)
         
-        self.restore_data_button = ttk.Button(self.control_frame, image=self.restorebackup_icon_img, command=self.restore_from_backup, style="primary.TButton")
+        self.restore_data_button = ttk.Button(self.control_frame, image=self.restorebackup_icon_img, command=self.restore_from_backup, bootstyle="success-outline")
         ToolTip(self.restore_data_button, "Khôi phục từ sao lưu")
         self.restore_data_button.grid(row=0, column=13, padx=5, pady=5)
 
         ttk.Separator(self.control_frame, orient="vertical").grid(row=0, column=15, padx=10, pady=5, sticky="ns")
-        self.show_placeholder_button = ttk.Button(self.control_frame, image=self.search_icon_img, command=self.show_placeholder_popup, style="danger.TButton")
+        self.show_placeholder_button = ttk.Button(self.control_frame, image=self.search_icon_img, command=self.show_placeholder_popup, bootstyle="Secondary-outline")
         ToolTip(self.show_placeholder_button, "Hiển thị danh sách placeholder")
         self.show_placeholder_button.grid(row=0, column=16, padx=5, pady=5)
 
@@ -283,32 +283,17 @@ class DataEntryApp:
         self.export_frame.pack(fill="x", pady=10)
         self.export_frame.grid_columnconfigure(0, weight=1)
         self.export_frame.grid_columnconfigure(3, weight=1)
-        self.preview_word_button = ttk.Button(self.export_frame, image=self.preview_icon_img, command=self.preview_word, style="secondary.TButton")
+        self.preview_word_button = ttk.Button(self.export_frame, image=self.preview_icon_img, command=self.preview_word, bootstyle="secondary-outline")
         ToolTip(self.preview_word_button, "Xem trước")
         self.preview_word_button.grid(row=0, column=1, padx=5)
-        self.export_file_button = ttk.Button(self.export_frame, image=self.export_icon_img, command=self.export_file, style="danger.TButton")
+        self.export_file_button = ttk.Button(self.export_frame, image=self.export_icon_img, command=self.export_file, bootstyle="success-outline")
         ToolTip(self.export_file_button, "Xuất file")
         self.export_file_button.grid(row=0, column=2, padx=5)
 
         # Styles
         style = ttk.Style()
-        style.theme_use("flatly")
-        style.configure("TButton", font=("Segoe UI", 10), borderwidth=1, relief="flat", padding=5)
-        style.configure("info.TButton", background="#4582ec", foreground="white", bordercolor="#4582ec", borderradius=90)
-        style.map("info.TButton", background=[("active", "#3572d8")])
-        style.configure("danger.TButton", background="#adb5bd", foreground="black", bordercolor="#adb5bd", borderradius=90, focusthickness=0)
-        style.map("danger.TButton", background=[("active", "#9ba3ab")], bordercolor=[("active", "#9ba3ab"), ("focus", "#adb5bd")], foreground=[("active", "black")])
-        style.configure("warning.TButton", background="#f0ad4e", foreground="black", bordercolor="#f0ad4e", borderradius=90)
-        style.map("warning.TButton", background=[("active", "#e89b3c")])
-        style.configure("success.TButton", background="#02b875", foreground="white", bordercolor="#02b875", borderradius=90)
-        style.map("success.TButton", background=[("active", "#019c62")])
-        style.configure("primary.TButton", background="#4582ec", foreground="white", bordercolor="#4582ec", borderradius=90)
-        style.map("primary.TButton", background=[("active", "#3572d8")])
-        style.configure("secondary.TButton", background="#4582ec", foreground="white", bordercolor="#4582ec", borderradius=90)
-        style.map("secondary.TButton", background=[("active", "#3572d8")])
-        style.configure("TLabel", font=("Segoe UI", 10))
-        style.configure("TEntry", font=("Segoe UI", 10))
-        style.configure("TCombobox", font=("Segoe UI", 10))
+        style.theme_use("cosmo")
+        style.configure("TButton", font=("Segoe UI", 10), borderwidth=1, relief="raised", padding=5)
         
 
         # Initialize default config if none exists
@@ -327,6 +312,47 @@ class DataEntryApp:
 
         self.root.after(600000, self.backup_manager.auto_backup)
 
+    def create_toolbar(self):
+        """Tạo thanh công cụ chính với các biểu tượng lớn hơn và trực quan hơn"""
+        self.toolbar_frame = ttk.Frame(self.root, bootstyle="PRIMARY")
+        self.toolbar_frame.pack(side="top", fill="x", padx=0, pady=0)
+        
+        # Nút tạo mới với biểu tượng lớn
+        self.new_button = ttk.Button(self.toolbar_frame, text=" Tạo mới", image=self.clear_icon_img, compound="left", 
+                               command=self.clear_entries, bootstyle="success-outline", padding=10)
+        self.new_button.pack(side="left", padx=5, pady=3)
+        ToolTip(self.new_button, "Tạo hồ sơ mới")
+        
+        # Nút lưu với biểu tượng lớn
+        self.save_button = ttk.Button(self.toolbar_frame, text=" Lưu", image=self.save_icon_img, compound="left", 
+                               command=self.add_entry_data, bootstyle="primary-outline", padding=10)
+        self.save_button.pack(side="left", padx=5, pady=3)
+        ToolTip(self.save_button, "Lưu dữ liệu hiện tại")
+        
+        ttk.Separator(self.toolbar_frame, orient="vertical", bootstyle="SECONDARY").pack(side="left", padx=10, fill="y")
+        
+        # Nút xuất với biểu tượng lớn
+        self.export_button = ttk.Button(self.toolbar_frame, text=" Xuất Word", image=self.export_icon_img, compound="left", 
+                                 command=self.export_file, bootstyle="primary-outline", padding=10)
+        self.export_button.pack(side="left", padx=5, pady=3)
+        ToolTip(self.export_button, "Xuất dữ liệu ra Word")
+        
+        self.preview_button = ttk.Button(self.toolbar_frame, text=" Xem trước", image=self.preview_icon_img, compound="left", 
+                                   command=self.preview_word, bootstyle="warning-outline", padding=10)
+        self.preview_button.pack(side="left", padx=5, pady=3)
+        ToolTip(self.preview_button, "Xem trước kết quả")
+        
+        # Phần tìm kiếm ở bên phải thanh công cụ
+        search_container = ttk.Frame(self.toolbar_frame, bootstyle="SECONDARY")
+        search_container.pack(side="right", padx=10, pady=3)
+        
+        self.toolbar_search_var = tk.StringVar()
+        self.toolbar_search_entry = ttk.Entry(search_container, textvariable=self.toolbar_search_var, width=20, font=("Segoe UI", 10), bootstyle="SECONDARY")
+        self.toolbar_search_entry.pack(side="left", padx=2)
+        
+        search_button = ttk.Button(search_container, image=self.search_icon_img, command=self.search_data, bootstyle="dark", padding=8)
+        search_button.pack(side="left", padx=2)
+        ToolTip(search_button, "Tìm kiếm hồ sơ")
 
     def load_selected_config(self, event):
         self.config_manager.load_selected_config(event)
@@ -671,8 +697,8 @@ class DataEntryApp:
 
         tree.bind("<Double-1>", on_double_click)
 
-        ttk.Button(popup, text="Chọn", command=load_selected_data, style="primary.TButton").pack(side="left", padx=10, pady=10)
-        ttk.Button(popup, text="Đóng", command=popup.destroy, style="danger.TButton").pack(side="right", padx=10, pady=10)
+        ttk.Button(popup, text="Chọn", command=load_selected_data, bootstyle="primary").pack(side="left", padx=10, pady=10)
+        ttk.Button(popup, text="Đóng", command=popup.destroy, bootstyle="danger").pack(side="right", padx=10, pady=10)
 
     def update_treeview_with_results(self, results):
         """Cập nhật Treeview chính với kết quả tìm kiếm."""
