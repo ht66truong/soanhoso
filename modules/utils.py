@@ -170,5 +170,5 @@ def create_popup_with_notebook(root, title, width, height, tabs):
             entries[field] = entry
     return popup, entries
 
-
+    
        

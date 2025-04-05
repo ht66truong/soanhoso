@@ -152,38 +152,87 @@ class ExportManager:
                     members = []
 
                 selected_name = self.app.load_data_var.get()
+                entry_exists = False
+                
+                # Thu thập dữ liệu từ tất cả trường nhập liệu
+                collected_data = {field: self.app.entries[field].get() for field in self.app.entries}
+                # Thêm dữ liệu ngành nghề và thành viên
+                collected_data["nganh_nghe"] = industries
+                collected_data["thanh_vien"] = members
+                
+                # Kiểm tra nếu entry đã tồn tại
                 for entry in self.app.saved_entries:
                     if entry["name"] == selected_name:
-                        entry["data"] = {field: self.app.entries[field].get() for field in self.app.entries}
-                        entry["data"]["nganh_nghe"] = industries
-                        entry["data"]["thanh_vien"] = members
+                        entry_exists = True
+                        # Lưu dữ liệu vào SQLite
+                        self.app.config_manager.db_manager.save_entry(
+                            self.app.config_manager.current_config_name,
+                            selected_name,
+                            collected_data
+                        )
                         break
-                else:
-                    new_entry = {
-                        "name": selected_name,
-                        "data": {field: self.app.entries[field].get() for field in self.app.entries}
-                    }
-                    new_entry["data"]["nganh_nghe"] = industries
-                    new_entry["data"]["thanh_vien"] = members
-                    self.app.saved_entries.append(new_entry)
-                    self.app.load_data_dropdown["values"] = [entry["name"] for entry in self.app.saved_entries]
-
-                self.app.config_manager.save_configs()
+                
+                # Nếu entry không tồn tại, thêm mới
+                if not entry_exists:
+                    # Lưu dữ liệu vào SQLite
+                    self.app.config_manager.db_manager.save_entry(
+                        self.app.config_manager.current_config_name,
+                        selected_name, 
+                        collected_data
+                    )
+                    
+                # Cập nhật danh sách entries từ cơ sở dữ liệu
+                self.app.saved_entries = self.app.config_manager.db_manager.get_entries(
+                    self.app.config_manager.current_config_name
+                )
+                
+                # Cập nhật dropdown
+                self.app.load_data_dropdown["values"] = [entry["name"] for entry in self.app.saved_entries]
+                
+                # Cập nhật giao diện thành viên và ngành nghề
                 self.app.member_manager.load_member_data()
                 self.app.industry_manager.load_industry_data()
+                
+                # Kiểm tra và tải dữ liệu ngành nghề khác nếu có
+                if hasattr(self.app, 'additional_industry_tree'):
+                    self.app.industry_manager.load_additional_industry_data()
+                if hasattr(self.app, 'removed_industry_tree'):
+                    self.app.industry_manager.load_removed_industry_data() 
+                if hasattr(self.app, 'adjusted_industry_tree'):
+                    self.app.industry_manager.load_adjusted_industry_data()
+                    
                 messagebox.showinfo("Thành công", "Đã nhập dữ liệu từ file Excel!")
                 logging.info(f"Nhập dữ liệu từ Excel: {file_path}")
+                
             elif file_path.endswith(".json"):
                 with open(file_path, 'r', encoding='utf-8') as f:
                     imported_data = json.load(f)
                 if isinstance(imported_data, dict) and "name" in imported_data and "data" in imported_data:
-                    self.app.saved_entries.append(imported_data)
+                    entry_name = imported_data["name"]
+                    entry_data = imported_data["data"]
+                    
+                    # Lưu dữ liệu vào SQLite
+                    self.app.config_manager.db_manager.save_entry(
+                        self.app.config_manager.current_config_name,
+                        entry_name,
+                        entry_data
+                    )
+                    
+                    # Cập nhật danh sách entries từ cơ sở dữ liệu
+                    self.app.saved_entries = self.app.config_manager.db_manager.get_entries(
+                        self.app.config_manager.current_config_name
+                    )
+                    
+                    # Cập nhật dropdown và tải dữ liệu
                     self.app.load_data_dropdown["values"] = [entry["name"] for entry in self.app.saved_entries]
-                    self.app.load_data_var.set(imported_data["name"])
+                    self.app.load_data_var.set(entry_name)
                     self.app.load_selected_entry(None)
-                    self.app.config_manager.save_configs()
+                    
                     messagebox.showinfo("Thành công", "Đã nhập dữ liệu từ file JSON!")
                     logging.info(f"Nhập dữ liệu từ JSON: {file_path}")
+                else:
+                    messagebox.showerror("Lỗi", "Định dạng file JSON không hợp lệ!")
+                    
         except Exception as e:
             logging.error(f"Lỗi khi nhập file: {str(e)}")
             messagebox.showerror("Lỗi", f"Không thể nhập file: {str(e)}")
@@ -208,9 +257,41 @@ class ExportManager:
         placeholder_list.configure(yscrollcommand=scrollbar.set)
         placeholder_list.pack(side="left", fill="both", expand=True)
 
-        placeholders = {normalize_vietnamese(field): field for field in self.app.fields}
-        for placeholder, original in sorted(placeholders.items()):
-            placeholder_list.insert("", "end", text=f"{{{{ {placeholder} }}}}", values=(original,))
+        # Lấy danh sách trường từ field_groups (thông tin trường theo tab)
+        fields = []
+        for tab_fields in self.app.field_groups.values():
+            fields.extend(tab_fields)
+        
+        # Nếu không có trường nào, thông báo cho người dùng
+        if not fields:
+            placeholder_list.insert("", "end", text="Không tìm thấy trường nào", values=("Vui lòng kiểm tra cấu hình"))
+            logging.warning("Không tìm thấy trường nào trong field_groups khi hiển thị placeholder")
+        else:
+            # Chuyển đổi thành placeholders
+            placeholders = {normalize_vietnamese(field): field for field in fields}
+            
+            # Thêm các placeholders đặc biệt
+            special_placeholders = {
+                "ngay_thang_nam": "Ngày tháng năm tự động",
+                "sort_ngay_thang_nam": "Ngày tháng năm dạng DD/MM/YYYY",
+                "bang_nganh_nghe": "Bảng danh sách ngành nghề",
+                "bang_nganh_bo_sung": "Bảng danh sách ngành bổ sung",
+                "bang_nganh_giam": "Bảng danh sách ngành giảm",
+                "bang_nganh_dieu_chinh": "Bảng danh sách ngành điều chỉnh",
+                "bang_hop_thanh_vien": "Bảng họp thành viên",
+                "bang_thay_doi_thong_tin_thanh_vien": "Bảng thay đổi thông tin thành viên",
+                "bang_thanh_vien": "Bảng thông tin thành viên",
+                "bang_gop_von": "Bảng góp vốn",
+                "danh_sach_thanh_vien": "Danh sách thành viên",
+                "so_thanh_vien": "Số lượng thành viên"
+            }
+            
+            # Gộp với placeholders đặc biệt
+            placeholders.update(special_placeholders)
+            
+            # Hiển thị placeholders
+            for placeholder, original in sorted(placeholders.items()):
+                placeholder_list.insert("", "end", text=f"{{{{ {placeholder} }}}}", values=(original,))
 
         context_menu = tk.Menu(popup, tearoff=0)
         context_menu.add_command(label="Sao chép Placeholder", command=lambda: self.copy_placeholder_from_popup(placeholder_list))
@@ -227,7 +308,7 @@ class ExportManager:
 
         button_frame = ttk.Frame(popup)
         button_frame.pack(fill="x", pady=5)
-        ttk.Button(button_frame, text="Xuất Placeholder", command=self.export_placeholders, style="primary.TButton").pack(side="left", padx=5)
+        ttk.Button(button_frame, text="Xuất Placeholder", command=lambda: [popup.destroy(), self.export_placeholders()], style="primary.TButton").pack(side="left", padx=5)
         ttk.Button(button_frame, text="Đóng", command=popup.destroy, style="danger.TButton").pack(side="right", padx=5)
 
     def copy_placeholder_from_popup(self, placeholder_list):
@@ -243,10 +324,32 @@ class ExportManager:
             messagebox.showwarning("Cảnh báo", "Vui lòng chọn cấu hình trước!")
             return
 
-        placeholders = {}
-        for field in self.app.fields:
-            normalized = normalize_vietnamese(field)
-            placeholders[normalized] = field
+        # Lấy danh sách trường từ field_groups (thông tin trường theo tab)
+        fields = []
+        for tab_fields in self.app.field_groups.values():
+            fields.extend(tab_fields)
+        
+        # Tạo placeholders từ danh sách trường
+        placeholders = {normalize_vietnamese(field): field for field in fields}
+        
+        # Thêm các placeholders đặc biệt
+        special_placeholders = {
+            "ngay_thang_nam": "Ngày tháng năm tự động",
+            "sort_ngay_thang_nam": "Ngày tháng năm dạng DD/MM/YYYY",
+            "bang_nganh_nghe": "Bảng danh sách ngành nghề",
+            "bang_nganh_bo_sung": "Bảng danh sách ngành bổ sung",
+            "bang_nganh_giam": "Bảng danh sách ngành giảm",
+            "bang_nganh_dieu_chinh": "Bảng danh sách ngành điều chỉnh",
+            "bang_hop_thanh_vien": "Bảng họp thành viên",
+            "bang_thay_doi_thong_tin_thanh_vien": "Bảng thay đổi thông tin thành viên",
+            "bang_thanh_vien": "Bảng thông tin thành viên",
+            "bang_gop_von": "Bảng góp vốn",
+            "danh_sach_thanh_vien": "Danh sách thành viên",
+            "so_thanh_vien": "Số lượng thành viên"
+        }
+        
+        # Gộp với placeholders đặc biệt
+        placeholders.update(special_placeholders)
 
         popup = create_popup(self.app.root, "Xuất Placeholder", 300, 150) 
         ttk.Label(popup, text="Chọn định dạng xuất:").pack(pady=10)
@@ -273,7 +376,7 @@ class ExportManager:
                     table.style = "Table Grid"
                     hdr_cells = table.rows[0].cells
                     hdr_cells[0].text = "Placeholder"
-                    hdr_cells[1].text = "Tên trường gốc"
+                    hdr_cells[1].text = "Mô tả"
                     for placeholder, original in sorted(placeholders.items()):
                         row_cells = table.add_row().cells
                         row_cells[0].text = f"{{{{ {placeholder} }}}}"
@@ -283,7 +386,7 @@ class ExportManager:
                     with open(output_path, 'w', encoding='utf-8') as f:
                         f.write("Danh sách Placeholder\n")
                         f.write("Sao chép các placeholder dưới đây và dán vào template Word theo cú pháp {{ placeholder }}:\n\n")
-                        f.write("Placeholder\tTên trường gốc\n")
+                        f.write("Placeholder\tMô tả\n")
                         f.write("-" * 50 + "\n")
                         for placeholder, original in sorted(placeholders.items()):
                             f.write(f"{{{{ {placeholder} }}}}\t{original}\n")
@@ -295,6 +398,7 @@ class ExportManager:
                 logging.error(f"Lỗi khi xuất placeholder: {str(e)}")
                 messagebox.showerror("Lỗi", f"Không thể xuất file: {str(e)}")
                 popup.destroy()
+        ttk.Button(popup, text="Xuất", command=confirm_export, style="primary.TButton").pack(pady=10)
 
     def check_template_placeholders(self, doc_paths, data_lower):
         try:
@@ -323,6 +427,12 @@ class ExportManager:
         if not self.app.config_manager.current_config_name:
             messagebox.showwarning("Cảnh báo", "Vui lòng chọn cấu hình trước!")
             return
+        
+        # Đảm bảo dữ liệu mới nhất từ SQLite
+        self.app.saved_entries = self.app.config_manager.db_manager.get_entries(
+            self.app.config_manager.current_config_name
+        )
+        
         popup = create_popup(self.app.root, f"{export_type}", 400, 600)
         ttk.Label(popup, text="Chọn template để xuất:").pack(pady=5)
         
@@ -774,7 +884,7 @@ class ExportManager:
         hdr_cells[3].text = "Ngành nghề kinh doanh chính"
 
         # Định dạng chữ cho tiêu đề
-        for i, cell in enumerate(hdr_cells):
+        for i, cell in hdr_cells:
             paragraph = cell.paragraphs[0]
             paragraph.alignment = WD_TABLE_ALIGNMENT.CENTER
             run = paragraph.runs[0] if paragraph.runs else paragraph.add_run()
@@ -792,7 +902,7 @@ class ExportManager:
             row_cells[3].text = "X" if industry.get("la_nganh_chinh", False) else ""
 
             # Định dạng chữ cho dữ liệu
-            for i, cell in enumerate(row_cells):
+            for i, cell in row_cells:
                 paragraph = cell.paragraphs[0]
                 if i in [0, 2, 3]:
                     paragraph.alignment = WD_TABLE_ALIGNMENT.CENTER
