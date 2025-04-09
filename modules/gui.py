@@ -680,14 +680,15 @@ class DataEntryApp:
     def show_about_info(self):
         """Hiển thị thông tin về ứng dụng và tác giả."""
         about_text = """
-        Ứng dụng nhập liệu hồ sơ Kinh Doanh
+        Ứng dụng soạn hồ sơ Đăng Ký Doanh Nghiệp
         
         Phiên bản: 6.0.9
-        Phát hành: 9/4/2025
+        Phát hành: 09/04/2025
         
         © 2025 CÔNG TY TNHH GIẢI PHÁP SME
-        Bản quyền thuộc về: CÔNG TY TNHH GIẢI PHÁP SME
-        
+        Bản quyền thuộc về CÔNG TY TNHH GIẢI PHÁP SME
+        Mọi quyền được bảo lưu
+
         Liên hệ:
         Email: lienhe@giaiphapsme.com
         Điện thoại: 02866.866.800
