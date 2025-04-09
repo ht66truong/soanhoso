@@ -2,8 +2,9 @@ import tkinter as tk
 from tkinter import ttk, messagebox, filedialog, simpledialog
 import os
 import logging
+from tkinterdnd2 import DND_FILES
 
-from modules.utils import number_to_words
+from modules.utils import number_to_words, create_popup, ToolTip
 
 
 class DataManager:
@@ -42,9 +43,16 @@ class DataManager:
             self.app.config_manager.current_config_name
         )
         
-        # Cập nhật dropdown
-        self.app.load_data_dropdown["values"] = [entry["name"] for entry in self.app.saved_entries]
-        self.app.load_data_dropdown.set(entry_name)
+        # Cập nhật dropdown với kiểm tra có thuộc tính nào
+        if hasattr(self.app, 'load_data_dropdown'):
+            self.app.load_data_dropdown["values"] = [entry["name"] for entry in self.app.saved_entries]
+            self.app.load_data_dropdown.set(entry_name)
+        elif hasattr(self.app, 'search_combobox'):
+            self.app.search_combobox["values"] = [entry["name"] for entry in self.app.saved_entries]
+            self.app.search_combobox.set(entry_name)
+            
+        # Cập nhật biến load_data_var
+        self.app.load_data_var.set(entry_name)
         
         # Hiển thị thông báo thành công
         messagebox.showinfo("Thành công", f"Đã thêm dữ liệu '{entry_name}'!")
@@ -82,9 +90,13 @@ class DataManager:
         # Thu thập dữ liệu từ tất cả các trường nhập liệu
         data = {field: self.app.entries[field].get() for field in self.app.entries}
 
-        # Tự động thêm von_đieu_le_bang_chu vào dữ liệu
-        if "von_đieu_le" in data:
-            data["von_đieu_le_bang_chu"] = number_to_words(data["von_đieu_le"])
+        # Tự động thêm von_dieu_le_bang_chu vào dữ liệu
+        if "von_dieu_le" in data:
+            data["von_dieu_le_bang_chu"] = number_to_words(data["von_dieu_le"])
+
+        # Tự động thêm von_dieu_le_moi_bang_chu vào dữ liệu
+        if "von_dieu_le_moi" in data:
+            data["von_dieu_le_moi_bang_chu"] = number_to_words(data["von_dieu_le_moi"])
 
         # Tự động thêm so_tien_bang_chu vào dữ liệu
         if "so_tien" in data:
@@ -131,10 +143,13 @@ class DataManager:
             self.app.config_manager.current_config_name
         )
         
-        # Cập nhật dropdown
-        self.app.load_data_dropdown["values"] = [entry["name"] for entry in self.app.saved_entries]
+        # Cập nhật dropdown với kiểm tra có thuộc tính nào
+        if hasattr(self.app, 'load_data_dropdown'):
+            self.app.load_data_dropdown["values"] = [entry["name"] for entry in self.app.saved_entries]
+        elif hasattr(self.app, 'search_combobox'):
+            self.app.search_combobox["values"] = [entry["name"] for entry in self.app.saved_entries]
         
-        # Hiển thị thông báo thành công
+        # Hiển thị thông báo thành công chỉ khi là lưu mới (không phải lưu tự động)
         if selected_name not in [entry["name"] for entry in self.app.saved_entries]:
             messagebox.showinfo("Thành công", f"Đã thêm dữ liệu '{selected_name}'!")
             logging.info(f"Thêm dữ liệu '{selected_name}'")
@@ -165,8 +180,12 @@ class DataManager:
             )
             
             # Cập nhật dropdown
-            self.app.load_data_dropdown["values"] = [entry["name"] for entry in self.app.saved_entries]
-            self.app.load_data_dropdown.set("")
+            if hasattr(self.app, 'load_data_dropdown'):
+                self.app.load_data_dropdown["values"] = [entry["name"] for entry in self.app.saved_entries]
+                self.app.load_data_dropdown.set("")
+            elif hasattr(self.app, 'search_combobox'):
+                self.app.search_combobox["values"] = [entry["name"] for entry in self.app.saved_entries]
+                self.app.search_combobox.set("")
             
             # Xóa dữ liệu khỏi các trường nhập liệu
             for entry in self.app.entries.values():
@@ -208,9 +227,16 @@ class DataManager:
             self.app.config_manager.current_config_name
         )
         
-        # Cập nhật dropdown
-        self.app.load_data_dropdown["values"] = [entry["name"] for entry in self.app.saved_entries]
-        self.app.load_data_dropdown.set(new_name)
+        # Cập nhật dropdown với kiểm tra có thuộc tính nào
+        if hasattr(self.app, 'load_data_dropdown'):
+            self.app.load_data_dropdown["values"] = [entry["name"] for entry in self.app.saved_entries]
+            self.app.load_data_dropdown.set(new_name)
+        elif hasattr(self.app, 'search_combobox'):
+            self.app.search_combobox["values"] = [entry["name"] for entry in self.app.saved_entries]
+            self.app.search_combobox.set(new_name)
+        
+        # Cập nhật biến load_data_var
+        self.app.load_data_var.set(new_name)
         
         # Hiển thị thông báo thành công
         messagebox.showinfo("Thành công", f"Đã đổi tên dữ liệu thành '{new_name}'!")
@@ -231,6 +257,8 @@ class DataManager:
         
         logging.info(f"Đã xóa thông tin trong tab '{current_tab}'")
 
+    
+
     def add_entry_data_from_import(self, entry_data):
         """Thêm dữ liệu từ file Excel vào danh sách."""
         if not self.app.config_manager.current_config_name:
@@ -242,7 +270,13 @@ class DataManager:
 
         self.app.saved_entries.append({"name": entry_name, "data": entry_data})
         self.app.config_manager.configs[self.app.config_manager.current_config_name]["entries"] = self.app.saved_entries
-        self.app.load_data_dropdown["values"] = [entry["name"] for entry in self.app.saved_entries]
+        
+        # Cập nhật dropdown với kiểm tra có thuộc tính nào
+        if hasattr(self.app, 'load_data_dropdown'):
+            self.app.load_data_dropdown["values"] = [entry["name"] for entry in self.app.saved_entries]
+        elif hasattr(self.app, 'search_combobox'):
+            self.app.search_combobox["values"] = [entry["name"] for entry in self.app.saved_entries]
+            
         self.app.config_manager.save_configs()
         logging.info(f"Thêm dữ liệu từ file Excel: {entry_name}")
 
@@ -260,14 +294,138 @@ class TemplateManager:
         for template_name, template_path in templates.items():
             self.app.template_tree.insert("", "end", text=template_name, values=(template_path,))
 
-    def drop_template_files(self, event):
-        """Xử lý thả file template vào ứng dụng."""
+    def show_template_manager_popup(self):
+        """Hiển thị cửa sổ popup để quản lý mẫu."""
+        if not self.app.config_manager.current_config_name:
+            messagebox.showwarning("Cảnh báo", "Vui lòng chọn cấu hình trước!")
+            return
+            
+        # Tạo popup window
+        popup = create_popup(self.app.root, "Quản lý mẫu", 650, 500)
+        
+        # Frame cho các nút điều khiển
+        buttons_frame = ttk.Frame(popup)
+        buttons_frame.pack(fill="x", padx=10, pady=(10, 5))
+        
+        # Thêm nút điều khiển - chỉ giữ lại thêm mẫu và xóa mẫu
+        add_button = ttk.Button(buttons_frame, text="Thêm mẫu", image=self.app.add_icon_img, compound="left", 
+                                command=lambda: self.add_template_from_popup(popup_template_tree), bootstyle="primary-outline")
+        add_button.pack(side="left", padx=5)
+        ToolTip(add_button, "Thêm file mẫu mới")
+        
+        delete_button = ttk.Button(buttons_frame, text="Xóa mẫu", image=self.app.delete_icon_img, compound="left", 
+                                  command=lambda: self.delete_template_from_popup(popup_template_tree), bootstyle="danger-outline")
+        delete_button.pack(side="left", padx=5)
+        ToolTip(delete_button, "Xóa mẫu đã chọn")
+        
+        # Hướng dẫn kéo thả
+        ttk.Label(popup, text="Kéo thả file .docx vào khung bên dưới để thêm mẫu hoặc sắp xếp thứ tự các mẫu bằng cách kéo thả").pack(pady=(0, 5))
+        
+        # Frame cho template_tree trong popup
+        tree_frame = ttk.Frame(popup)
+        tree_frame.pack(fill="both", expand=True, padx=10, pady=10)
+        
+        # Tạo template_tree mới cho popup
+        popup_template_tree = ttk.Treeview(tree_frame, columns=("path"), show="tree", height=15, selectmode="extended")
+        popup_template_tree.heading("#0", text="Tên mẫu")
+        popup_template_tree.heading("path", text="Đường dẫn")
+        popup_template_tree.column("#0", width=300)
+        popup_template_tree.column("path", width=300)
+        
+        # Scroll bar cho template_tree
+        scrollbar_y = ttk.Scrollbar(tree_frame, orient="vertical", command=popup_template_tree.yview)
+        scrollbar_y.pack(side="right", fill="y")
+        scrollbar_x = ttk.Scrollbar(tree_frame, orient="horizontal", command=popup_template_tree.xview)
+        scrollbar_x.pack(side="bottom", fill="x")
+        popup_template_tree.configure(yscrollcommand=scrollbar_y.set, xscrollcommand=scrollbar_x.set)
+        popup_template_tree.pack(side="left", fill="both", expand=True)
+        
+        # Điền dữ liệu vào template_tree của popup
+        templates = self.app.config_manager.configs[self.app.config_manager.current_config_name].get("templates", {})
+        for template_name, template_path in templates.items():
+            popup_template_tree.insert("", "end", text=template_name, values=(template_path,))
+        
+        # Đăng ký sự kiện kéo thả cho popup_template_tree
+        tree_frame.drop_target_register(DND_FILES)
+        tree_frame.dnd_bind('<<Drop>>', lambda event: self.drop_template_files_to_popup(event, popup_template_tree))
+        
+        # Các sự kiện kéo thả trong tree để sắp xếp lại
+        def start_drag_in_popup(event):
+            item = popup_template_tree.identify_row(event.y)
+            if item:
+                self.app.drag_item = item
+                
+        def drag_in_popup(event):
+            if self.app.drag_item:
+                popup_template_tree.selection_set(self.app.drag_item)
+                
+        def drop_in_popup(event):
+            if self.app.drag_item:
+                target = popup_template_tree.identify_row(event.y)
+                if target and target != self.app.drag_item:
+                    # Lấy thông tin template
+                    drag_text = popup_template_tree.item(self.app.drag_item, "text")
+                    drag_values = popup_template_tree.item(self.app.drag_item, "values")
+                    
+                    # Xóa template cũ
+                    popup_template_tree.delete(self.app.drag_item)
+                    
+                    # Xác định vị trí mới
+                    target_index = popup_template_tree.index(target)
+                    
+                    # Chèn vào vị trí mới
+                    popup_template_tree.insert("", target_index, text=drag_text, values=drag_values)
+                    
+                    # Cập nhật thứ tự trong cấu hình
+                    templates = {}
+                    for item in popup_template_tree.get_children():
+                        text = popup_template_tree.item(item, "text")
+                        values = popup_template_tree.item(item, "values")
+                        templates[text] = values[0]
+                    
+                    self.app.config_manager.configs[self.app.config_manager.current_config_name]["templates"] = templates
+                    
+                    # Lưu cấu hình và cập nhật template_tree chính
+                    self.app.config_manager.db_manager.save_config(
+                        self.app.config_manager.current_config_name,
+                        self.app.config_manager.configs[self.app.config_manager.current_config_name]
+                    )
+                    self.update_template_tree()
+                
+                # Reset drag_item
+                self.app.drag_item = None
+        
+        # Gắn các sự kiện kéo thả
+        popup_template_tree.bind("<Button-1>", start_drag_in_popup)
+        popup_template_tree.bind("<B1-Motion>", drag_in_popup)
+        popup_template_tree.bind("<ButtonRelease-1>", drop_in_popup)
+        
+        # Menu ngữ cảnh cho popup_template_tree - giữ lại thêm và xóa mẫu
+        def show_popup_template_context_menu(event):
+            selected_item = popup_template_tree.identify_row(event.y)
+            if selected_item:
+                popup_template_tree.selection_set(selected_item)
+                
+            # Tạo menu ngữ cảnh
+            menu = tk.Menu(popup, tearoff=0)
+            menu.add_command(label="Thêm mẫu", command=lambda: self.add_template_from_popup(popup_template_tree))
+            menu.add_command(label="Xóa mẫu", command=lambda: self.delete_template_from_popup(popup_template_tree))
+            menu.tk_popup(event.x_root, event.y_root)
+            
+        popup_template_tree.bind("<Button-3>", show_popup_template_context_menu)
+        
+        # Nút đóng
+        ttk.Button(popup, text="Đóng", command=popup.destroy, style="secondary-outline").pack(pady=10)
+        
+    def drop_template_files_to_popup(self, event, popup_tree):
+        """Xử lý thả file template vào popup."""
         if not self.app.config_manager.current_config_name:
             messagebox.showwarning("Cảnh báo", "Vui lòng chọn cấu hình trước!")
             return
         
         # Lấy danh sách đường dẫn file từ sự kiện Drop
-        files = self.app.template_frame.tk.splitlist(event.data)
+        files = event.widget.tk.splitlist(event.data)
+        
         # Lọc ra chỉ các file .docx
         docx_files = [f for f in files if f.lower().endswith('.docx') and not f.startswith('~$')]
         
@@ -295,61 +453,27 @@ class TemplateManager:
             self.app.config_manager.configs[self.app.config_manager.current_config_name]
         )
         
-        # Cập nhật cây template
+        # Cập nhật cây template trong popup
+        popup_tree.delete(*popup_tree.get_children())
+        for template_name, template_path in templates.items():
+            popup_tree.insert("", "end", text=template_name, values=(template_path,))
+        
+        # Cập nhật cây template chính
         self.update_template_tree()
+        
         messagebox.showinfo("Thành công", f"Đã thêm {len(docx_files)} template!")
-
-    def add_multiple_templates(self):
-        """Thêm nhiều template, sao chép file vào thư mục templates và tránh ghi đè."""
-        if not self.app.config_manager.current_config_name:
-            messagebox.showwarning("Cảnh báo", "Vui lòng chọn cấu hình trước!")
-            return
-        template_paths = filedialog.askopenfilenames(filetypes=[("Word files", "*.docx")], title="Chọn nhiều template Word")
-        if template_paths:
-            added_count = 0
-            templates = self.app.config_manager.configs[self.app.config_manager.current_config_name].get("templates", {})
-            for template_path in template_paths:
-                if os.path.exists(template_path):
-                    template_name = os.path.basename(template_path)
-                    base_name = os.path.splitext(template_name)[0]
-                    extension = os.path.splitext(template_name)[1]
-                    new_name = base_name + extension
-                    counter = 1
-                    target_path = os.path.join(self.app.templates_dir, new_name)
-                    while os.path.exists(target_path):
-                        new_name = f"{base_name}_{counter}{extension}"
-                        target_path = os.path.join(self.app.templates_dir, new_name)
-                        counter += 1
-                    while new_name in templates:
-                        new_name = f"{base_name}_{counter}{extension}"
-                        target_path = os.path.join(self.app.templates_dir, new_name)
-                        counter += 1
-                    try:
-                        import shutil
-                        shutil.copy2(template_path, target_path)
-                        templates[new_name] = new_name
-                        added_count += 1
-                    except Exception as e:
-                        logging.error(f"Lỗi khi sao chép template {template_path}: {str(e)}")
-                        messagebox.showerror("Lỗi", f"Không thể sao chép template: {str(e)}")
-            if added_count > 0:
-                self.app.config_manager.configs[self.app.config_manager.current_config_name]["templates"] = templates
-                self.app.config_manager.save_configs()
-                self.update_template_tree()
-                messagebox.showinfo("Thành công", f"Đã thêm {added_count} template vào cấu hình '{self.app.config_manager.current_config_name}'!")
-                logging.info(f"Thêm {added_count} template vào cấu hình '{self.app.config_manager.current_config_name}'")
-   
-    def delete_template(self):
-        """Xóa template đã chọn."""
-        selected = self.app.template_tree.selection()
+        
+    def delete_template_from_popup(self, popup_tree):
+        """Xóa template đã chọn từ popup."""
+        selected = popup_tree.selection()
         if not selected:
             messagebox.showwarning("Cảnh báo", "Vui lòng chọn template để xóa!")
             return
         
         # Lấy tên các template đã chọn
-        selected_templates = [self.app.template_tree.item(item)["text"] for item in selected]
+        selected_templates = [popup_tree.item(item)["text"] for item in selected]
         
-        # Hiển thị thông báo xác nhận dựa vào số lượng template được chọn
+        # Hiển thị thông báo xác nhận
         confirm_message = "Bạn có chắc muốn xóa template này?" if len(selected_templates) == 1 else f"Bạn có chắc muốn xóa {len(selected_templates)} template đã chọn?"
         
         if messagebox.askyesno("Xác nhận", confirm_message):
@@ -368,7 +492,12 @@ class TemplateManager:
                 self.app.config_manager.configs[self.app.config_manager.current_config_name]
             )
             
-            # Cập nhật cây template
+            # Cập nhật cây template trong popup
+            popup_tree.delete(*popup_tree.get_children())
+            for template_name, template_path in templates.items():
+                popup_tree.insert("", "end", text=template_name, values=(template_path,))
+            
+            # Cập nhật cây template chính
             self.update_template_tree()
             
             # Hiển thị thông báo thành công
@@ -379,57 +508,64 @@ class TemplateManager:
             
             logging.info(f"Đã xóa {deleted_count} template")
 
-    def show_template_context_menu(self, event):
-        context_menu = tk.Menu(self.app.root, tearoff=0)
-        context_menu.add_command(label="Thêm template", command=self.add_multiple_templates)
-        context_menu.add_command(label="Xóa", command=self.delete_template)
-        context_menu.post(event.x_root, event.y_root)
-
-    # kéo thả templates
-    def start_drag(self, event):
-        item = self.app.template_tree.identify_row(event.y)
-        if item:
-            self.app.drag_item = item
-
-    def drag_template(self, event):
-        if self.app.drag_item:
-            self.app.template_tree.selection_set(self.app.drag_item)
-
-    def drop_template(self, event):
-        """Xử lý khi thả template để thay đổi thứ tự."""
-        if self.app.drag_item:
-            target = self.app.template_tree.identify_row(event.y)
-            if target and target != self.app.drag_item:
-                # Lấy thông tin template
-                drag_text = self.app.template_tree.item(self.app.drag_item, "text")
-                drag_values = self.app.template_tree.item(self.app.drag_item, "values")
-                
-                # Xóa template cũ
-                self.app.template_tree.delete(self.app.drag_item)
-                
-                # Xác định vị trí mới
-                target_index = self.app.template_tree.index(target)
-                
-                # Chèn vào vị trí mới
-                self.app.template_tree.insert("", target_index, text=drag_text, values=drag_values)
-                
-                # Cập nhật thứ tự trong cấu hình
-                templates = {}
-                for item in self.app.template_tree.get_children():
-                    text = self.app.template_tree.item(item, "text")
-                    values = self.app.template_tree.item(item, "values")
-                    templates[text] = values[0]
-                
-                self.app.config_manager.configs[self.app.config_manager.current_config_name]["templates"] = templates
-                
-                # Lưu cấu hình
-                self.app.config_manager.db_manager.save_config(
-                    self.app.config_manager.current_config_name,
-                    self.app.config_manager.configs[self.app.config_manager.current_config_name]
-                )
+    def add_template_from_popup(self, popup_tree):
+        """Thêm mẫu mới từ popup."""
+        if not self.app.config_manager.current_config_name:
+            messagebox.showwarning("Cảnh báo", "Vui lòng chọn cấu hình trước!")
+            return
             
-            # Reset drag_item
-            self.app.drag_item = None
+        template_paths = filedialog.askopenfilenames(filetypes=[("Word files", "*.docx")], title="Chọn nhiều template Word")
+        if template_paths:
+            added_count = 0
+            templates = self.app.config_manager.configs[self.app.config_manager.current_config_name].get("templates", {})
+            
+            for template_path in template_paths:
+                if os.path.exists(template_path):
+                    template_name = os.path.basename(template_path)
+                    base_name = os.path.splitext(template_name)[0]
+                    extension = os.path.splitext(template_name)[1]
+                    new_name = base_name + extension
+                    counter = 1
+                    
+                    # Kiểm tra tên file trùng lặp trong thư mục templates
+                    target_path = os.path.join(self.app.templates_dir, new_name)
+                    while os.path.exists(target_path):
+                        new_name = f"{base_name}_{counter}{extension}"
+                        target_path = os.path.join(self.app.templates_dir, new_name)
+                        counter += 1
+                        
+                    # Kiểm tra tên mẫu trùng lặp trong cấu hình
+                    while new_name in templates:
+                        new_name = f"{base_name}_{counter}{extension}"
+                        target_path = os.path.join(self.app.templates_dir, new_name)
+                        counter += 1
+                        
+                    try:
+                        # Sao chép file vào thư mục templates
+                        import shutil
+                        shutil.copy2(template_path, target_path)
+                        templates[new_name] = target_path
+                        added_count += 1
+                    except Exception as e:
+                        logging.error(f"Lỗi khi sao chép template {template_path}: {str(e)}")
+                        messagebox.showerror("Lỗi", f"Không thể sao chép template: {str(e)}")
+            
+            if added_count > 0:
+                # Cập nhật cấu hình
+                self.app.config_manager.configs[self.app.config_manager.current_config_name]["templates"] = templates
+                self.app.config_manager.save_configs()
+                
+                # Cập nhật cây template trong popup
+                popup_tree.delete(*popup_tree.get_children())
+                for template_name, template_path in templates.items():
+                    popup_tree.insert("", "end", text=template_name, values=(template_path,))
+                
+                # Cập nhật cây template chính
+                self.update_template_tree()
+                
+                messagebox.showinfo("Thành công", f"Đã thêm {added_count} template vào cấu hình '{self.app.config_manager.current_config_name}'!")
+                logging.info(f"Thêm {added_count} template vào cấu hình '{self.app.config_manager.current_config_name}'")
+        return
 
 class FieldManager:
     def __init__(self, app):
@@ -525,6 +661,8 @@ class FieldManager:
             self.app.config_manager.load_selected_config(None)
             logging.info(f"Xóa trường '{field}' khỏi tab '{current_tab}'")
 
+    
+
 class TabManager:
     def __init__(self, app):
         self.app = app
@@ -595,14 +733,23 @@ class TabManager:
                     label.bind("<Button-3>", show_context_menu)
                     entry.bind("<Button-3>", show_context_menu)
 
-                    if field == "von_đieu_le":
+                    if field == "von_dieu_le":
                         def update_von_dieu_le_bang_chu(event):
-                            von_dieu_le_value = self.app.entries["von_đieu_le"].get()
+                            von_dieu_le_value = self.app.entries["von_dieu_le"].get()
                             von_dieu_le_bang_chu = number_to_words(von_dieu_le_value)
-                            if "von_đieu_le_bang_chu" in self.app.entries:
-                                self.app.entries["von_đieu_le_bang_chu"].delete(0, tk.END)
-                                self.app.entries["von_đieu_le_bang_chu"].insert(0, von_dieu_le_bang_chu)
+                            if "von_dieu_le_bang_chu" in self.app.entries:
+                                self.app.entries["von_dieu_le_bang_chu"].delete(0, tk.END)
+                                self.app.entries["von_dieu_le_bang_chu"].insert(0, von_dieu_le_bang_chu)
                         entry.bind("<KeyRelease>", update_von_dieu_le_bang_chu)
+
+                    if field == "von_dieu_le_moi":
+                        def update_von_dieu_le_moi_bang_chu(event):
+                            von_dieu_le_moi_value = self.app.entries["von_dieu_le_moi"].get()
+                            von_dieu_le_moi_bang_chu = number_to_words(von_dieu_le_moi_value)
+                            if "von_dieu_le_moi_bang_chu" in self.app.entries:
+                                self.app.entries["von_dieu_le_moi_bang_chu"].delete(0, tk.END)
+                                self.app.entries["von_dieu_le_moi_bang_chu"].insert(0, von_dieu_le_moi_bang_chu)
+                        entry.bind("<KeyRelease>", update_von_dieu_le_moi_bang_chu)
 
                     if field == "so_tien":
                         def update_so_tien_bang_chu(event):

@@ -112,8 +112,8 @@ class EmployeeManager:
             else:
                 messagebox.showerror("Lỗi", "Không thể lưu thông tin nhân viên!")
         
-        ttk.Button(button_frame, text="Lưu", command=confirm_add).pack(side="left", padx=10, pady=10, expand=True)
-        ttk.Button(button_frame, text="Hủy", command=popup.destroy).pack(side="right", padx=10, pady=10, expand=True)
+        ttk.Button(button_frame, text="Lưu", command=confirm_add, style="primary-outline").pack(side="left", padx=10, pady=10, expand=True)
+        ttk.Button(button_frame, text="Hủy", command=popup.destroy, style="secondary-outline").pack(side="right", padx=10, pady=10, expand=True)
     
     def edit_employee(self):
         """Edit an existing employee"""
@@ -190,14 +190,13 @@ class EmployeeManager:
                 else:
                     messagebox.showerror("Lỗi", "Không thể cập nhật thông tin nhân viên!")
             
-            ttk.Button(button_frame, text="Lưu", command=confirm_edit).pack(side="left", padx=10)
-            ttk.Button(button_frame, text="Hủy", command=edit_popup.destroy).pack(side="right", padx=10)
+            ttk.Button(button_frame, text="Lưu", command=confirm_edit, style="primary-outline").pack(side="left", padx=10)
+            ttk.Button(button_frame, text="Hủy", command=edit_popup.destroy, style="secondary-outline").pack(side="right", padx=10)
         
         button_frame = ttk.Frame(select_popup)
         button_frame.pack(pady=10)
-        ttk.Button(button_frame, text="Chọn", command=open_edit_form).pack(side="left", padx=10)
-        ttk.Button(button_frame, text="Hủy", command=select_popup.destroy).pack(side="right", padx=10)
-    
+        ttk.Button(button_frame, text="Chọn", command=open_edit_form, style="primary-outline").pack(side="left", padx=10)
+        ttk.Button(button_frame, text="Hủy", command=select_popup.destroy, style="secondary-outline").pack(side="right", padx=10)
     def delete_employee(self):
         """Delete an existing employee"""
         if not self.employees:
@@ -234,8 +233,8 @@ class EmployeeManager:
         
         button_frame = ttk.Frame(select_popup)
         button_frame.pack(pady=10)
-        ttk.Button(button_frame, text="Xóa", command=confirm_delete).pack(side="left", padx=10)
-        ttk.Button(button_frame, text="Hủy", command=select_popup.destroy).pack(side="right", padx=10)
+        ttk.Button(button_frame, text="Xóa", command=confirm_delete, style="danger-outline").pack(side="left", padx=10)
+        ttk.Button(button_frame, text="Hủy", command=select_popup.destroy, style="secondary-outline").pack(side="right", padx=10)
     
     def create_employee_management_ui(self):
         """Create UI for employee management"""
@@ -284,11 +283,11 @@ class EmployeeManager:
             for emp in self.employees:
                 employee_tree.insert("", "end", values=[emp.get(field, "") for field in self.employee_fields])
         
-        ttk.Button(button_frame, text="Thêm nhân viên", command=self.add_employee).pack(side="left", padx=10)
-        ttk.Button(button_frame, text="Sửa nhân viên", command=self.edit_employee).pack(side="left", padx=10)
-        ttk.Button(button_frame, text="Xóa nhân viên", command=self.delete_employee).pack(side="left", padx=10)
-        ttk.Button(button_frame, text="Làm mới", command=refresh_data).pack(side="left", padx=10)
-        ttk.Button(button_frame, text="Đóng", command=popup.destroy).pack(side="right", padx=10)
+        ttk.Button(button_frame, text="Thêm nhân viên", command=self.add_employee, style="primary-outline").pack(side="left", padx=10)
+        ttk.Button(button_frame, text="Sửa nhân viên", command=self.edit_employee, style="primary-outline").pack(side="left", padx=10)
+        ttk.Button(button_frame, text="Xóa nhân viên", command=self.delete_employee, style="danger-outline").pack(side="left", padx=10)
+        ttk.Button(button_frame, text="Làm mới", command=refresh_data, style="success-outline").pack(side="left", padx=10)
+        ttk.Button(button_frame, text="Đóng", command=popup.destroy, style="secondary-outline").pack(side="right", padx=10)
     
     def update_employee_dropdown(self):
         """Update employee dropdown in auth info tab if it exists"""
@@ -314,7 +313,7 @@ class EmployeeManager:
         self.app.employee_dropdown.grid(row=0, column=1, padx=5, pady=5, sticky="w")
         
         # Add button
-        ttk.Button(dropdown_frame, text="Quản lý nhân viên", command=self.create_employee_management_ui).grid(row=0, column=2, padx=5, pady=5, sticky="w")
+        ttk.Button(dropdown_frame, text="Quản lý nhân viên", command=self.create_employee_management_ui, style="primary-outline").grid(row=0, column=2, padx=5, pady=5, sticky="w")
         
         # Adjust the rows of the existing widgets
         # We'll shift all form fields in the tab down one row

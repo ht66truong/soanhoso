@@ -63,10 +63,10 @@ class IndustryManager:
         button_frame.pack(pady=10)
         
         # Tạo các nút và đặt chúng trong button_frame (xóa nút "Đặt ngành chính")
-        ttk.Button(button_frame, text="Thêm ngành", command=self.add_industry).pack(side="left", padx=10, expand=True)
-        ttk.Button(button_frame, text="Xóa ngành", command=self.delete_industry).pack(side="left", padx=10, expand=True)
-        ttk.Button(button_frame, text="Sửa ngành", command=self.edit_industry).pack(side="left", padx=10, expand=True)
-        ttk.Button(button_frame, text="Xem chi tiết", command=self.view_industry_details).pack(side="left", padx=10, expand=True)
+        ttk.Button(button_frame, text="Thêm ngành", command=self.add_industry, style="primary-outline").pack(side="left", padx=10, expand=True)
+        ttk.Button(button_frame, text="Xóa ngành", command=self.delete_industry, style="danger-outline").pack(side="left", padx=10, expand=True)
+        ttk.Button(button_frame, text="Sửa ngành", command=self.edit_industry, style="primary-outline").pack(side="left", padx=10, expand=True)
+        ttk.Button(button_frame, text="Xem chi tiết", command=self.view_industry_details, style="secondary-outline").pack(side="left", padx=10, expand=True)
 
         # Kích hoạt cuộn chuột
         def on_mousewheel(event):
@@ -128,10 +128,10 @@ class IndustryManager:
         # Gắn sự kiện nhấp đúp để xem chi tiết
         self.app.additional_industry_tree.bind("<Double-1>", self.view_industry_details)
 
-        ttk.Button(button_frame, text="Thêm ngành", command=self.add_industry).pack(side="left", padx=10, expand=True)
-        ttk.Button(button_frame, text="Xóa ngành", command=self.delete_industry).pack(side="left", padx=10, expand=True)
-        ttk.Button(button_frame, text="Sửa ngành", command=self.edit_industry).pack(side="left", padx=10, expand=True)
-        ttk.Button(button_frame, text="Xem chi tiết", command=self.view_industry_details).pack(side="left", padx=10, expand=True)
+        ttk.Button(button_frame, text="Thêm ngành", command=self.add_industry, style="primary-outline").pack(side="left", padx=10, expand=True)
+        ttk.Button(button_frame, text="Xóa ngành", command=self.delete_industry, style="danger-outline").pack(side="left", padx=10, expand=True)
+        ttk.Button(button_frame, text="Sửa ngành", command=self.edit_industry, style="primary-outline").pack(side="left", padx=10, expand=True)
+        ttk.Button(button_frame, text="Xem chi tiết", command=self.view_industry_details, style="secondary-outline").pack(side="left", padx=10, expand=True)
 
         # Kích hoạt cuộn chuột
         def on_mousewheel(event):
@@ -193,10 +193,10 @@ class IndustryManager:
         # Gắn sự kiện nhấp đúp để xem chi tiết
         self.app.removed_industry_tree.bind("<Double-1>", self.view_industry_details)
 
-        ttk.Button(button_frame, text="Thêm ngành giảm", command=self.add_industry).pack(side="left", padx=10, expand=True)
-        #ttk.Button(button_frame, text="Xóa ngành", command=self.delete_industry).pack(side="left", padx=10, expand=True)
-        #ttk.Button(button_frame, text="Sửa ngành", command=self.edit_industry).pack(side="left", padx=10, expand=True)
-        ttk.Button(button_frame, text="Xem chi tiết", command=self.view_industry_details).pack(side="left", padx=10, expand=True)
+        ttk.Button(button_frame, text="Thêm ngành giảm", command=self.add_industry, style="primary-outline").pack(side="left", padx=10, expand=True)
+        #ttk.Button(button_frame, text="Xóa ngành", command=self.delete_industry, style="primary-outline").pack(side="left", padx=10, expand=True)
+        #ttk.Button(button_frame, text="Sửa ngành", command=self.edit_industry, style="primary-outline").pack(side="left", padx=10, expand=True)
+        ttk.Button(button_frame, text="Xem chi tiết", command=self.view_industry_details, style="secondary-outline").pack(side="left", padx=10, expand=True)
 
         # Kích hoạt cuộn chuột
         def on_mousewheel(event):
@@ -258,10 +258,10 @@ class IndustryManager:
         # Gắn sự kiện nhấp đúp để xem chi tiết
         self.app.adjusted_industry_tree.bind("<Double-1>", self.view_industry_details)
 
-        ttk.Button(button_frame, text="Thêm ngành", command=self.add_industry).pack(side="left", padx=10, expand=True)
-        #ttk.Button(button_frame, text="Xóa ngành", command=self.delete_industry).pack(side="left", padx=10, expand=True)
-        ttk.Button(button_frame, text="Điều chỉnh ngành", command=self.edit_industry).pack(side="left", padx=10, expand=True)
-        #ttk.Button(button_frame, text="Xem chi tiết", command=self.view_industry_details).pack(side="left", padx=10, expand=True)
+        ttk.Button(button_frame, text="Thêm ngành", command=self.add_industry, style="primary-outline").pack(side="left", padx=10, expand=True)
+        #ttk.Button(button_frame, text="Xóa ngành", command=self.delete_industry, style="primary-outline").pack(side="left", padx=10, expand=True)
+        ttk.Button(button_frame, text="Điều chỉnh ngành", command=self.edit_industry, style="primary-outline").pack(side="left", padx=10, expand=True)
+        #ttk.Button(button_frame, text="Xem chi tiết", command=self.view_industry_details, style="primary-outline").pack(side="left", padx=10, expand=True)
 
         # Kích hoạt cuộn chuột
         def on_mousewheel(event):
@@ -520,7 +520,7 @@ class IndustryManager:
                         popup.destroy()
                         break
 
-            ttk.Button(popup, text="Thêm", command=confirm_add).pack(side="bottom", padx=10, pady=10)
+            ttk.Button(popup, text="Thêm", command=confirm_add, style="primary-outline").pack(side="bottom", padx=10, pady=10)
 
 
         elif current_tab == "Ngành bổ sung":
@@ -652,7 +652,7 @@ class IndustryManager:
                     popup.destroy()
                     break
 
-        ttk.Button(popup, text="Thêm", command=confirm_add).pack(side="bottom", padx=10, pady=10)
+        ttk.Button(popup, text="Thêm", command=confirm_add, style="primary-outline").pack(side="bottom", padx=10, pady=10)
 
     def delete_industry(self):
         """Xóa nhiều ngành nghề đã chọn."""
@@ -842,7 +842,7 @@ class IndustryManager:
                     popup.destroy()
                     break
         
-        ttk.Button(popup, text="Lưu", command=confirm_edit).pack(side="bottom", padx=10, pady=10, expand=True)
+        ttk.Button(popup, text="Lưu", command=confirm_edit, style="primary-outline").pack(side="bottom", padx=10, pady=10, expand=True)
  
     def view_industry_details(self, event=None):
         """Hiển thị chi tiết thông tin ngành nghề."""
@@ -880,8 +880,8 @@ class IndustryManager:
         ttk.Label(popup, text="Ngành chính:").pack(pady=5)
         ttk.Label(popup, text="Có" if industry.get("la_nganh_chinh", False) else "Không").pack(pady=5)
 
-        ttk.Button(popup, text="Đóng", command=popup.destroy).pack(side="right", padx=5, expand=True)
-        ttk.Button(popup, text="Chỉnh sửa", command=lambda: [popup.destroy(), self.edit_industry()]).pack(side="left", padx=5, expand=True)
+        ttk.Button(popup, text="Đóng", command=popup.destroy, style="secondary-outline").pack(side="right", padx=5, expand=True)
+        ttk.Button(popup, text="Chỉnh sửa", command=lambda: [popup.destroy(), self.edit_industry()], style="primary-outline").pack(side="left", padx=5, expand=True)
     
     def set_main_industry(self):
         """Đặt ngành nghề được chọn làm ngành chính."""

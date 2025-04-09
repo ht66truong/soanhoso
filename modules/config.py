@@ -23,8 +23,8 @@ class ConfigManager:
                 "Thông tin công ty": self.app.default_fields[0:11],
                 "Thông tin ĐDPL": self.app.default_fields[11:22],
                 "Thông tin thành viên": [],
-                "Thông tin uỷ quyền": self.app.default_fields[22:],
-                "Ngành nghề kinh doanh": []  
+                "Ngành nghề kinh doanh": [],
+                "Thông tin uỷ quyền": self.app.default_fields[22:]  
             },
             "templates": {},
             "entries": []
@@ -137,9 +137,13 @@ class ConfigManager:
             self.app.tab_dropdown.set("")
         
         # Xóa dữ liệu trong dropdown và không tự động chọn dữ liệu đầu tiên
-        self.app.load_data_dropdown.set("")
-        self.app.load_data_dropdown["values"] = [entry["name"] for entry in self.app.saved_entries]
-        
+        if hasattr(self.app, 'load_data_dropdown'):
+            self.app.load_data_dropdown.set("")
+            self.app.load_data_dropdown["values"] = [entry["name"] for entry in self.app.saved_entries]
+        elif hasattr(self.app, 'search_combobox'):
+            self.app.search_combobox.set("")
+            self.app.search_combobox["values"] = [entry["name"] for entry in self.app.saved_entries]
+            
         # Cập nhật cây templates
         self.app.update_template_tree()
         
@@ -157,8 +161,8 @@ class ConfigManager:
                     "Thông tin công ty": self.app.default_fields[0:11],
                     "Thông tin ĐDPL": self.app.default_fields[11:22],
                     "Thông tin thành viên": [],
-                    "Thông tin uỷ quyền": self.app.default_fields[22:],
-                    "Ngành nghề kinh doanh": []  
+                    "Ngành nghề kinh doanh": [],
+                    "Thông tin uỷ quyền": self.app.default_fields[22:]  
                 },
                 "templates": {},
                 "entries": []
@@ -368,5 +372,5 @@ class BackupManager:
         
         button_frame = ttk.Frame(popup)
         button_frame.pack(pady=10)
-        ttk.Button(button_frame, text="Khôi phục", command=confirm_restore, style="primary.TButton").pack(side="left", padx=5)
-        ttk.Button(button_frame, text="Đóng", command=popup.destroy, style="danger.TButton").pack(side="left", padx=5)
+        ttk.Button(button_frame, text="Khôi phục", command=confirm_restore, style="primary-outline").pack(side="left", padx=5)
+        ttk.Button(button_frame, text="Đóng", command=popup.destroy, style="danger-outline").pack(side="left", padx=5)

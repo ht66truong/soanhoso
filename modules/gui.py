@@ -1,11 +1,10 @@
 # Thư viện chuẩn
 import tkinter as tk
-from tkinter import ttk, messagebox
+from tkinter import ttk, messagebox, filedialog
 import os
 import sys
 import logging
 from datetime import datetime
-from tkinter import messagebox
 
 # Thư viện bên thứ ba
 from PIL import Image, ImageTk
@@ -15,7 +14,7 @@ from tkinterdnd2 import DND_FILES
 
 # Module nội bộ
 from modules.utils import ToolTip, create_popup
-from modules.export import (ExportManager)
+from modules.export import ExportManager
 from modules.member import MemberManager
 from modules.industry import IndustryManager
 from modules.config import ConfigManager, BackupManager
@@ -34,15 +33,15 @@ class DataEntryApp:
     def __init__(self, root):
         """Khởi tạo ứng dụng nhập liệu hồ sơ kinh doanh."""
         self.root = root
-        self.root.title("Ứng dụng nhập liệu hồ sơ Kinh Doanh v6.0.6")
-        window_width = 1366
-        window_height = 768
+        self.root.title("Ứng dụng nhập liệu hồ sơ Kinh Doanh")
+        window_width = 1280
+        window_height = 720
         screen_width = self.root.winfo_screenwidth()
         screen_height = self.root.winfo_screenheight()
         x = (screen_width - window_width) // 2
         y = (screen_height - window_height) // 2
         self.root.geometry(f"{window_width}x{window_height}+{x}+{y}")
-        #self.root.state('zoomed')  # Tùy chọn: Phóng to tối đa khi khởi động       
+        #self.root.state('zoomed')  # Tùy chọn: Phóng to tối đa khi khởi động     
         self.root.configure(bg="#f8f9fa")
         logging.info("Ứng dụng khởi động")
 
@@ -89,12 +88,13 @@ class DataEntryApp:
         self.export_manager = ExportManager(self)
         self.backup_manager = BackupManager(self)
         self.employee_manager = EmployeeManager(self)
-        
-        
 
-        # Khởi tạo top_frame trước
+
+        # Top frame cho menu và thông tin phiên bản
         self.top_frame = ttk.Frame(self.root)
         self.top_frame.pack(side="top", fill="x", padx=5, pady=5)
+        
+        # Đã di chuyển nút About xuống chung với nút Công cụ dữ liệu
         
         self.main_frame = ttk.Frame(root, padding=5)
         self.main_frame.pack(fill="both", expand=True)
@@ -102,22 +102,14 @@ class DataEntryApp:
         # Config Frame
         self.config_frame = ttk.LabelFrame(self.main_frame, text="Quản lý cấu hình", padding=5)
         self.config_frame.pack(fill="x", pady=(0, 5))
-
+        ttk.Label(self.config_frame, text="Chọn loại hình:").pack(side="left", padx=5)
         self.config_var = tk.StringVar()
-        self.config_dropdown = ttk.Combobox(self.config_frame, textvariable=self.config_var, values=list(self.configs.keys()), state="readonly", width=20)
+        self.config_dropdown = ttk.Combobox(self.config_frame, textvariable=self.config_var, values=list(self.configs.keys()), state="readonly", width=25)
         self.config_dropdown.pack(side="left", padx=5)
-        ToolTip(self.config_dropdown, "* Thông báo thay đổi: \n"
-                                            "- Ngành, nghề kinh doanh \n"
-                                            "- Thông tin đăng ký thuế \n \n"
-                                        "* Đăng ký thay đổi: \n"
-                                            "- Tên doanh nghiệp \n"
-                                            "- Địa chỉ trụ sở chính \n"
-                                            "- Thành viên công ty TNHH \n"
-                                            "- Người đại diện theo pháp luật \n"
-                                            "- Chủ sở hữu công ty TNHH 1TV \n"
-                                            "- Vốn điều lệ của công ty, tỷ lệ vốn góp \n"
-                                            "- Người đứng đầu chi nhánh/văn phòng đại diện/địa điểm kinh doanh \n")
+        ToolTip(self.config_dropdown, "Chọn cấu hình làm việc\nNhấp chuột phải để mở menu quản lý cấu hình")
         self.config_dropdown.bind("<<ComboboxSelected>>", self.load_selected_config)
+        # Thêm bind chuột phải để hiển thị menu ngữ cảnh cấu hình
+        self.config_dropdown.bind("<Button-3>", self.show_config_context_menu)
 
         def resource_path(relative_path): # Hàm hỗ trợ lấy đường dẫn tài nguyên
             """Lấy đường dẫn tuyệt đối đến tài nguyên, hoạt động cho cả mã nguồn và file thực thi PyInstaller."""
@@ -127,19 +119,19 @@ class DataEntryApp:
 
         # Load icons
         try:
-            add_icon = Image.open(resource_path("icon/add_icon.png")).resize((22, 22), Image.Resampling.LANCZOS)
-            delete_icon = Image.open(resource_path("icon/delete_icon.png")).resize((22, 22), Image.Resampling.LANCZOS)
-            save_icon = Image.open(resource_path("icon/save_icon.png")).resize((22, 22), Image.Resampling.LANCZOS)
-            clear_icon = Image.open(resource_path("icon/clear_icon.png")).resize((22, 22), Image.Resampling.LANCZOS)
-            import_icon = Image.open(resource_path("icon/imxls_icon.png")).resize((22, 22), Image.Resampling.LANCZOS)
-            xls_icon = Image.open(resource_path("icon/xls_icon.png")).resize((22, 22), Image.Resampling.LANCZOS)
-            preview_icon = Image.open(resource_path("icon/preview_icon.png")).resize((50, 50), Image.Resampling.LANCZOS)
-            export_icon = Image.open(resource_path("icon/export_icon.png")).resize((50, 50), Image.Resampling.LANCZOS)
-            remove_icon = Image.open(resource_path("icon/remove_icon.png")).resize((22, 22), Image.Resampling.LANCZOS)
-            edit_icon = Image.open(resource_path("icon/edit_icon.png")).resize((22, 22), Image.Resampling.LANCZOS)
-            search_icon = Image.open(resource_path("icon/search_icon.png")).resize((22, 22), Image.Resampling.LANCZOS)
-            find_icon = Image.open(resource_path("icon/find_icon.png")).resize((22, 22), Image.Resampling.LANCZOS)
-            restorebackup_icon = Image.open(resource_path("icon/restorebackup_icon.png")).resize((22, 22), Image.Resampling.LANCZOS)
+            add_icon = Image.open(resource_path("icon/add_icon.png")).resize((20, 20), Image.Resampling.LANCZOS)
+            delete_icon = Image.open(resource_path("icon/delete_icon.png")).resize((20, 20), Image.Resampling.LANCZOS)
+            save_icon = Image.open(resource_path("icon/save_icon.png")).resize((20, 20), Image.Resampling.LANCZOS)
+            clear_icon = Image.open(resource_path("icon/clear_icon.png")).resize((20, 20), Image.Resampling.LANCZOS)
+            import_icon = Image.open(resource_path("icon/imxls_icon.png")).resize((20, 20), Image.Resampling.LANCZOS)
+            xls_icon = Image.open(resource_path("icon/xls_icon.png")).resize((20, 20), Image.Resampling.LANCZOS)
+            preview_icon = Image.open(resource_path("icon/preview_icon.png")).resize((40, 40), Image.Resampling.LANCZOS)
+            export_icon = Image.open(resource_path("icon/export_icon.png")).resize((40, 40), Image.Resampling.LANCZOS)
+            remove_icon = Image.open(resource_path("icon/remove_icon.png")).resize((20, 20), Image.Resampling.LANCZOS)
+            edit_icon = Image.open(resource_path("icon/edit_icon.png")).resize((20, 20), Image.Resampling.LANCZOS)
+            search_icon = Image.open(resource_path("icon/search_icon.png")).resize((20, 20), Image.Resampling.LANCZOS)
+            find_icon = Image.open(resource_path("icon/find_icon.png")).resize((20, 20), Image.Resampling.LANCZOS)
+            restorebackup_icon = Image.open(resource_path("icon/restorebackup_icon.png")).resize((20, 20), Image.Resampling.LANCZOS)
             self.add_icon_img = ImageTk.PhotoImage(add_icon)
             self.delete_icon_img = ImageTk.PhotoImage(delete_icon)
             self.save_icon_img = ImageTk.PhotoImage(save_icon)
@@ -157,132 +149,94 @@ class DataEntryApp:
             logging.error(f"Lỗi khi tải biểu tượng: {str(e)}")
             messagebox.showerror("Lỗi", "Không thể tải biểu tượng, kiểm tra thư mục icon!")
 
-        #Quản lý cấu hình
-        self.add_config_button = ttk.Button(self.config_frame, image=self.add_icon_img, command=self.add_new_config, bootstyle="primary-outline")
-        ToolTip(self.add_config_button, "Thêm cấu hình")
-        self.add_config_button.pack(side="left", padx=5)
-        self.delete_config_button = ttk.Button(self.config_frame, image=self.delete_icon_img, command=self.delete_config, bootstyle="danger-outline")
-        ToolTip(self.delete_config_button, "Xóa cấu hình")
-        self.delete_config_button.pack(side="left", padx=5)
-        self.rename_config_button = ttk.Button(self.config_frame, image=self.edit_icon_img, command=self.rename_config, bootstyle="warning-outline")
-        ToolTip(self.rename_config_button, "Sửa tên cấu hình")
-        self.rename_config_button.pack(side="left", padx=5)
-
         #Quản lý tab
-        ttk.Separator(self.config_frame, orient="vertical").pack(side="left", padx=10, fill="y")
-        #ttk.Label(self.config_frame, text="Quản lý tab:").pack(side="left", padx=5)
+        ttk.Separator(self.config_frame, orient="vertical").pack(side="left", padx=5, fill="y")
+        ttk.Label(self.config_frame, text="Quản lý tab:").pack(side="left", padx=5)
         self.tab_var = tk.StringVar()
         self.tab_dropdown = ttk.Combobox(self.config_frame, textvariable=self.tab_var, state="readonly", width=20)
-        ToolTip(self.tab_dropdown, "Chọn tab để thêm/sửa/xóa")
+        ToolTip(self.tab_dropdown, "Chọn tab để thêm/sửa/xóa\nNhấp chuột phải để mở menu quản lý tab")
         self.tab_dropdown.pack(side="left", padx=5)
-        self.add_tab_button = ttk.Button(self.config_frame, image=self.add_icon_img, command=self.add_tab, bootstyle="primary-outline")
-        ToolTip(self.add_tab_button, "Thêm tab")
-        self.add_tab_button.pack(side="left", padx=5)
-        self.delete_tab_button = ttk.Button(self.config_frame, image=self.delete_icon_img, command=self.delete_tab, bootstyle="danger-outline")
-        ToolTip(self.delete_tab_button, "Xóa tab")
-        self.delete_tab_button.pack(side="left", padx=5)
-        self.rename_tab_button = ttk.Button(self.config_frame, image=self.edit_icon_img, command=self.rename_tab, bootstyle="warning-outline")
-        ToolTip(self.rename_tab_button, "Sửa tên tab")
-        self.rename_tab_button.pack(side="left", padx=5)
+        self.tab_dropdown.bind("<Button-3>", self.show_tab_context_menu)
 
         #Quản lý trường
-        ttk.Separator(self.config_frame, orient="vertical").pack(side="left", padx=10, fill="y")
-        #ttk.Label(self.config_frame, text="Quản lý trường:").pack(side="left", padx=5)
+        ttk.Separator(self.config_frame, orient="vertical").pack(side="left", padx=5, fill="y")
+        ttk.Label(self.config_frame, text="Quản lý trường:").pack(side="left", padx=5)
         self.field_var = tk.StringVar()
         self.field_dropdown = ttk.Combobox(self.config_frame, textvariable=self.field_var, state="readonly", width=20)
-        ToolTip(self.field_dropdown, "Chọn trường để thêm/sửa/xóa")
+        ToolTip(self.field_dropdown, "Chọn trường để thêm/sửa/xóa\nNhấp chuột phải để mở menu quản lý trường")
         self.field_dropdown.pack(side="left", padx=5)
-        # Thêm nút "Thêm trường"
-        self.add_field_button = ttk.Button(self.config_frame, image=self.add_icon_img, command=self.add_field, bootstyle="primary-outline")
-        ToolTip(self.add_field_button, "Thêm trường")
-        self.add_field_button.pack(side="left", padx=5)
-        self.delete_field_button = ttk.Button(self.config_frame, image=self.delete_icon_img, command=self.delete_selected_field, bootstyle="danger-outline")
-        ToolTip(self.delete_field_button, "Xóa trường")
-        self.delete_field_button.pack(side="left", padx=5)
-        self.rename_field_button = ttk.Button(self.config_frame, image=self.edit_icon_img, command=self.rename_selected_field, bootstyle="warning-outline")
-        ToolTip(self.rename_field_button, "Sửa tên trường")
-        self.rename_field_button.pack(side="left", padx=5)
+        
+        # Thêm menu ngữ cảnh cho field_dropdown thay vì nhiều nút
+        self.field_context_menu = tk.Menu(self.root, tearoff=0)
+        self.field_context_menu.add_command(label="Thêm trường", command=self.add_field)
+        self.field_context_menu.add_command(label="Xóa trường", command=self.delete_selected_field)
+        self.field_context_menu.add_command(label="Sửa tên trường", command=self.rename_selected_field)
+        self.field_dropdown.bind("<Button-3>", self.show_field_context_menu)
 
-        #Quản lý template"
-        ttk.Separator(self.config_frame, orient="vertical").pack(side="left", padx=10, fill="y")
-        #ttk.Label(self.config_frame, text="Quản lý mẫu:").pack(side="left", padx=5) 
-        self.template_frame = ttk.Frame(self.config_frame)
-        self.template_frame.pack(side="left", fill="x", padx=5)
-        ToolTip(self.template_frame, "Kéo thả để thêm mẫu/sắp xếp")
-        self.template_tree = ttk.Treeview(self.template_frame, columns=(), show="tree", height=5, selectmode="extended")
-        self.template_tree.column("#0", width=300)
-        self.template_tree.pack(fill="both", expand=True)
+        #Quản lý template - Thay đổi từ hiển thị trực tiếp thành nút mở popup
+        ttk.Separator(self.config_frame, orient="vertical").pack(side="left", padx=5, fill="y")
+        #ttk.Label(self.config_frame, text="Quản lý mẫu:").pack(side="left", padx=5)
+        
+        # Thêm nút để mở popup quản lý mẫu
+        template_button = ttk.Button(self.config_frame, text="Quản lý danh sách mẫu", command=self.show_template_manager_popup, bootstyle="info-outline")
+        template_button.pack(side="left", padx=5)
+        ToolTip(template_button, "Nhấp để mở cửa sổ quản lý mẫu\nBạn có thể thêm, xóa, kéo thả sắp xếp mẫu")
+        
+        # Đảm bảo template_tree vẫn được tạo nhưng không hiển thị trên giao diện chính
+        self.template_tree = ttk.Treeview(self.root, columns=(), show="tree", height=4, selectmode="extended")
+        self.template_tree.column("#0", width=250)
         self.update_template_tree()
-        self.template_frame.drop_target_register(DND_FILES)
-        self.template_frame.dnd_bind('<<Drop>>', self.drop_template_files)
-        self.template_tree.bind("<Button-1>", self.start_drag)
-        self.template_tree.bind("<B1-Motion>", self.drag_template)
-        self.template_tree.bind("<ButtonRelease-1>", self.drop_template)
-        self.template_tree.bind("<Button-3>", self.show_template_context_menu)
 
         # Control Frame
-        self.control_frame = ttk.LabelFrame(self.main_frame, text="Quản lý dữ liệu", padding=10)
-        self.control_frame.pack(fill="x", pady=10)
+        self.control_frame = ttk.LabelFrame(self.main_frame, text="Quản lý dữ liệu", padding=5)
+        self.control_frame.pack(fill="x", pady=5)
 
         # Thêm khung tìm kiếm
         search_frame = ttk.Frame(self.control_frame)
         search_frame.grid(row=0, column=0, columnspan=2, pady=5, sticky="w")
-        ToolTip(search_frame, "Tìm kiếm dữ liệu")
         ttk.Label(search_frame, text="Tìm kiếm:").pack(side="left", padx=5)
         self.search_var = tk.StringVar()
-        self.search_combobox = ttk.Combobox(search_frame, textvariable=self.search_var, width=20, state="normal")
+        self.search_combobox = ttk.Combobox(search_frame, textvariable=self.search_var, width=30, state="normal")
         self.search_combobox.pack(side="left", padx=5)
-        self.search_combobox["values"] = [entry["name"] for entry in self.saved_entries]  # Gán danh sách dữ liệu
-        self.search_combobox.bind("<<ComboboxSelected>>", self.load_data_from_search)  # Gắn sự kiện
+        ToolTip(self.search_combobox, "Tìm kiếm hoặc chọn dữ liệu\nNhập tên để tìm kiếm công ty")
+        self.search_combobox["values"] = [entry["name"] for entry in self.saved_entries]
+        self.search_combobox.bind("<<ComboboxSelected>>", self.load_data_from_search)
         self.search_combobox.bind("<KeyRelease>", self.update_search_suggestions)
-        ttk.Button(search_frame, image=self.find_icon_img, command=self.search_data, bootstyle="success-outline").pack(side="left", padx=5)
-
-        #ttk.Label(self.control_frame, text="Chọn công ty:").grid(row=0, column=2, padx=5, pady=5)
-        self.load_data_var = tk.StringVar()
-        self.load_data_dropdown = ttk.Combobox(self.control_frame, textvariable=self.load_data_var, state="readonly", width=10)
-        self.load_data_dropdown.grid(row=0, column=3, padx=5, pady=5)
-        ToolTip(self.load_data_dropdown, "Chọn công ty")
-        self.load_data_dropdown.bind("<<ComboboxSelected>>", self.load_selected_entry)
-
-        self.add_data_button = ttk.Button(self.control_frame, image=self.add_icon_img, command=self.add_entry_data, bootstyle="primary-outline")
-        ToolTip(self.add_data_button, "Thêm dữ liệu")
-        self.add_data_button.grid(row=0, column=4, padx=5, pady=5)
-        self.delete_data_button = ttk.Button(self.control_frame, image=self.delete_icon_img, command=self.delete_entry_data, bootstyle="danger-outline")
-        ToolTip(self.delete_data_button, "Xóa dữ liệu")
-        self.delete_data_button.grid(row=0, column=5, padx=5, pady=5)
-        self.rename_data_button = ttk.Button(self.control_frame, image=self.edit_icon_img, command=self.rename_entry_data, bootstyle="warning-outline")
-        ToolTip(self.rename_data_button, "Sửa tên dữ liệu")
-        self.rename_data_button.grid(row=0, column=6, padx=5, pady=5)
-
-        ttk.Separator(self.control_frame, orient="vertical").grid(row=0, column=7, padx=10, pady=5, sticky="ns")
-        #self.edit_data_button = ttk.Button(self.control_frame, image=self.save_icon_img, command=self.save_entry_data, bootstyle="success")
-        #ToolTip(self.edit_data_button, "Lưu thông tin")
-        #self.edit_data_button.grid(row=0, column=6, padx=5, pady=5)
-        self.clear_data_button = ttk.Button(self.control_frame, image=self.clear_icon_img, command=self.clear_entries, bootstyle="dark-outline")
-        ToolTip(self.clear_data_button, "Xóa thông tin")
-        self.clear_data_button.grid(row=0, column=8, padx=5, pady=5)
-
-        ttk.Separator(self.control_frame, orient="vertical").grid(row=0, column=9, padx=10, pady=5, sticky="ns")
-        ttk.Label(self.control_frame, text="Xuất Nhập dữ liệu:").grid(row=0, column=10, padx=5, pady=5)
-        self.export_excel_button = ttk.Button(self.control_frame, image=self.xls_icon_img, command=self.export_data, bootstyle="success-outline")
-        ToolTip(self.export_excel_button, "Xuất dữ liệu")
-        self.export_excel_button.grid(row=0, column=11, padx=5, pady=5)
-        self.import_data_button = ttk.Button(self.control_frame, image=self.import_icon_img, command=self.import_from_file, bootstyle="secondary-outline")
-        ToolTip(self.import_data_button, "Nhập dữ liệu")
-        self.import_data_button.grid(row=0, column=12, padx=5, pady=5)
         
-        self.restore_data_button = ttk.Button(self.control_frame, image=self.restorebackup_icon_img, command=self.restore_from_backup, bootstyle="success-outline")
-        ToolTip(self.restore_data_button, "Khôi phục từ sao lưu")
-        self.restore_data_button.grid(row=0, column=13, padx=5, pady=5)
+        # Thêm biến load_data_var để tránh lỗi AttributeError
+        self.load_data_var = self.search_var
+        
+        # Tạo nút quản lý dữ liệu với menu ngữ cảnh thay vì nhiều nút
+        data_menu_button = ttk.Button(search_frame, image=self.find_icon_img, bootstyle="success-outline")
+        data_menu_button.pack(side="left", padx=5)
+        ToolTip(data_menu_button, "Nhấp để tìm kiếm\nNhấp chuột phải để mở menu quản lý dữ liệu")
+        data_menu_button.bind("<Button-1>", lambda e: self.search_data())
+        data_menu_button.bind("<Button-3>", self.show_data_context_menu)
 
-        ttk.Separator(self.control_frame, orient="vertical").grid(row=0, column=15, padx=10, pady=5, sticky="ns")
-        self.show_placeholder_button = ttk.Button(self.control_frame, image=self.search_icon_img, command=self.show_placeholder_popup, bootstyle="Secondary-outline")
-        ToolTip(self.show_placeholder_button, "Hiển thị danh sách placeholder")
-        self.show_placeholder_button.grid(row=0, column=16, padx=5, pady=5)
+        ttk.Separator(self.control_frame, orient="vertical").grid(row=0, column=3, padx=5, pady=5, sticky="ns")
+        
+        # Gộp nút xuất nhập dữ liệu vào một nút dropdown
+        data_tools_frame = ttk.Frame(self.control_frame)
+        data_tools_frame.grid(row=0, column=4, padx=5, pady=5)
+        
+        # Tạo menu cho MenuButton
+        data_tools_menu = tk.Menu(self.root, tearoff=0)
+        data_tools_menu.add_command(label="Xuất dữ liệu ra Excel", command=self.export_data)
+        data_tools_menu.add_command(label="Nhập dữ liệu từ Excel", command=self.import_from_file)
+        data_tools_menu.add_command(label="Danh sách Placeholder", command=self.show_placeholder_popup)
+        data_tools_menu.add_separator()
+        data_tools_menu.add_command(label="Khôi phục backup", command=self.restore_from_backup)
+        data_tools_menu.add_separator()
+        data_tools_menu.add_command(label="Thông tin ứng dụng", command=self.show_about_info)
+        
+        # Thay thế Button thông thường bằng MenuButton
+        data_tools_button = ttk.Menubutton(data_tools_frame, text="Công cụ dữ liệu", bootstyle="info-outline-menubutton", width=15, menu=data_tools_menu)
+        data_tools_button.pack(side="left", padx=5)
+        ToolTip(data_tools_button, "Nhấp để mở các công cụ quản lý dữ liệu")
 
         # Notebook với tiêu đề "Quản lý nhập liệu"
         self.notebook_frame = ttk.LabelFrame(self.main_frame, text="Quản lý nhập liệu", padding=5)
-        self.notebook_frame.pack(fill="both", expand=True, pady=10)
+        self.notebook_frame.pack(fill="both", expand=True, pady=5)
         self.notebook = ttk.Notebook(self.notebook_frame)
         self.notebook.pack(fill="both", expand=True)
         # Gắn sự kiện khi tab thay đổi
@@ -290,7 +244,7 @@ class DataEntryApp:
         
         # Export Frame
         self.export_frame = ttk.Frame(self.main_frame)
-        self.export_frame.pack(fill="x", pady=10)
+        self.export_frame.pack(fill="x", pady=5)
         self.export_frame.grid_columnconfigure(0, weight=1)
         self.export_frame.grid_columnconfigure(3, weight=1)
         self.preview_word_button = ttk.Button(self.export_frame, image=self.preview_icon_img, command=self.preview_word, bootstyle="secondary-outline")
@@ -322,118 +276,16 @@ class DataEntryApp:
 
         self.root.after(600000, self.backup_manager.auto_backup)
 
-    def create_toolbar(self):
-        """Tạo thanh công cụ chính với các biểu tượng lớn hơn và trực quan hơn"""
-        self.toolbar_frame = ttk.Frame(self.root, bootstyle="PRIMARY")
-        self.toolbar_frame.pack(side="top", fill="x", padx=0, pady=0)
-        
-        # Nút tạo mới với biểu tượng lớn
-        self.new_button = ttk.Button(self.toolbar_frame, text=" Tạo mới", image=self.clear_icon_img, compound="left", 
-                               command=self.clear_entries, bootstyle="success-outline", padding=10)
-        self.new_button.pack(side="left", padx=5, pady=3)
-        ToolTip(self.new_button, "Tạo hồ sơ mới")
-        
-        # Nút lưu với biểu tượng lớn
-        self.save_button = ttk.Button(self.toolbar_frame, text=" Lưu", image=self.save_icon_img, compound="left", 
-                               command=self.add_entry_data, bootstyle="primary-outline", padding=10)
-        self.save_button.pack(side="left", padx=5, pady=3)
-        ToolTip(self.save_button, "Lưu dữ liệu hiện tại")
-        
-        ttk.Separator(self.toolbar_frame, orient="vertical", bootstyle="SECONDARY").pack(side="left", padx=10, fill="y")
-        
-        # Nút xuất với biểu tượng lớn
-        self.export_button = ttk.Button(self.toolbar_frame, text=" Xuất Word", image=self.export_icon_img, compound="left", 
-                                 command=self.export_file, bootstyle="primary-outline", padding=10)
-        self.export_button.pack(side="left", padx=5, pady=3)
-        ToolTip(self.export_button, "Xuất dữ liệu ra Word")
-        
-        self.preview_button = ttk.Button(self.toolbar_frame, text=" Xem trước", image=self.preview_icon_img, compound="left", 
-                                   command=self.preview_word, bootstyle="warning-outline", padding=10)
-        self.preview_button.pack(side="left", padx=5, pady=3)
-        ToolTip(self.preview_button, "Xem trước kết quả")
-        
-        # Phần tìm kiếm ở bên phải thanh công cụ
-        search_container = ttk.Frame(self.toolbar_frame, bootstyle="SECONDARY")
-        search_container.pack(side="right", padx=10, pady=3)
-        
-        self.toolbar_search_var = tk.StringVar()
-        self.toolbar_search_entry = ttk.Entry(search_container, textvariable=self.toolbar_search_var, width=20, font=("Segoe UI", 10), bootstyle="SECONDARY")
-        self.toolbar_search_entry.pack(side="left", padx=2)
-        
-        search_button = ttk.Button(search_container, image=self.search_icon_img, command=self.search_data, bootstyle="dark", padding=8)
-        search_button.pack(side="left", padx=2)
-        ToolTip(search_button, "Tìm kiếm hồ sơ")
+
 
     def load_selected_config(self, event):
         self.config_manager.load_selected_config(event)
 
     def load_selected_entry(self, event):
-        """Tải dữ liệu được chọn từ dropdown hoặc tìm kiếm."""
-        selected_name = self.load_data_var.get()
-        
-        if not selected_name:
-            return
-            
-        # Lấy dữ liệu từ cơ sở dữ liệu - đảm bảo lấy entry mới nhất
-        entries = self.config_manager.db_manager.get_entries(
-            self.config_manager.current_config_name
-        )
-        
-        # Cập nhật saved_entries để đồng bộ với database
-        self.saved_entries = entries
-        
-        # Tìm entry tương ứng và điền dữ liệu
-        found = False
-        for entry in entries:
-            if entry["name"] == selected_name:
-                found = True
-                
-                # Xóa dữ liệu hiện tại
-                for field in self.entries:
-                    self.entries[field].delete(0, tk.END)
-                    
-                # Điền dữ liệu mới
-                for field, value in entry["data"].items():
-                    if field in self.entries:
-                        self.entries[field].delete(0, tk.END)
-                        self.entries[field].insert(0, value)
-                
-                # Tải dữ liệu thành viên
-                if hasattr(self, 'member_tree'):
-                    self.member_manager.load_member_data()
-                    
-                # Tải dữ liệu ngành nghề cho tất cả các tab ngành
-                if hasattr(self, 'industry_tree'):
-                    self.industry_manager.load_industry_data()
-                    
-                # Thêm các phương thức tải dữ liệu cho các tab khác
-                if hasattr(self, 'additional_industry_tree'):
-                    self.industry_manager.load_additional_industry_data()
-                    
-                if hasattr(self, 'removed_industry_tree'):
-                    self.industry_manager.load_removed_industry_data()
-                    
-                if hasattr(self, 'adjusted_industry_tree'):
-                    self.industry_manager.load_adjusted_industry_data()
-                
-                # Log và thông báo
-                logging.info(f"Đã tải dữ liệu: {selected_name}")
-                break
-                    
-        if not found:
-            messagebox.showwarning("Cảnh báo", f"Không tìm thấy dữ liệu cho '{selected_name}'")
+        self.data_manager.load_selected_entry(event)
 
     def update_field_dropdown(self):
-        """Cập nhật danh sách trường trong dropdown dựa trên tab hiện tại."""
-        if not self.notebook.tabs():  # Check if there are no tabs
-            self.field_dropdown["values"] = []
-            self.field_var.set("")
-            return
-
-        current_tab = self.notebook.tab(self.notebook.select(), "text")
-        fields = self.field_groups.get(current_tab, [])
-        self.field_dropdown["values"] = fields
-        self.field_var.set(fields[0] if fields else "")
+        self.field_manager.update_field_dropdown()
 
     def add_new_config(self):
         self.config_manager.add_new_config()
@@ -537,26 +389,17 @@ class DataEntryApp:
     def update_template_tree(self):
         self.template_manager.update_template_tree()
 
-    def drop_template_files(self, event):
-        self.template_manager.drop_template_files(event)
+    def show_template_manager_popup(self):
+        self.template_manager.show_template_manager_popup()
+        
+    def drop_template_files_to_popup(self, event, popup_tree, popup):
+        self.template_manager.drop_template_files_to_popup(event, popup_tree, popup)
+        
+    def delete_template_from_popup(self, popup_tree):
+        self.template_manager.delete_template_from_popup(popup_tree)
 
-    def add_multiple_templates(self):
-        self.template_manager.add_multiple_templates()
-
-    def delete_template(self):
-        self.template_manager.delete_template()
-
-    def show_template_context_menu(self, event):
-        self.template_manager.show_template_context_menu(event)
-
-    def start_drag(self, event):
-        self.template_manager.start_drag(event)
-
-    def drag_template(self, event):
-        self.template_manager.drag_template(event)
-
-    def drop_template(self, event):
-        self.template_manager.drop_template(event)
+    def add_template_from_popup(self, popup_tree):
+        self.template_manager.add_template_from_popup(popup_tree)
 
     def export_data(self):
         self.export_manager.export_data()
@@ -600,6 +443,74 @@ class DataEntryApp:
     def restore_from_backup(self):
         self.backup_manager.restore_from_backup()
 
+    def load_selected_entry(self, event):
+        """Tải dữ liệu được chọn từ dropdown hoặc tìm kiếm."""
+        selected_name = self.load_data_var.get()
+        
+        if not selected_name:
+            return
+            
+        # Lấy dữ liệu từ cơ sở dữ liệu - đảm bảo lấy entry mới nhất
+        entries = self.config_manager.db_manager.get_entries(
+            self.config_manager.current_config_name
+        )
+        
+        # Cập nhật saved_entries để đồng bộ với database
+        self.saved_entries = entries
+        
+        # Tìm entry tương ứng và điền dữ liệu
+        found = False
+        for entry in entries:
+            if entry["name"] == selected_name:
+                found = True
+                
+                # Xóa dữ liệu hiện tại
+                for field in self.entries:
+                    self.entries[field].delete(0, tk.END)
+                    
+                # Điền dữ liệu mới
+                for field, value in entry["data"].items():
+                    if field in self.entries:
+                        self.entries[field].delete(0, tk.END)
+                        self.entries[field].insert(0, value)
+                
+                # Tải dữ liệu thành viên
+                if hasattr(self, 'member_tree'):
+                    self.member_manager.load_member_data()
+                    
+                # Tải dữ liệu ngành nghề cho tất cả các tab ngành
+                if hasattr(self, 'industry_tree'):
+                    self.industry_manager.load_industry_data()
+                    
+                # Thêm các phương thức tải dữ liệu cho các tab khác
+                if hasattr(self, 'additional_industry_tree'):
+                    self.industry_manager.load_additional_industry_data()
+                    
+                if hasattr(self, 'removed_industry_tree'):
+                    self.industry_manager.load_removed_industry_data()
+                    
+                if hasattr(self, 'adjusted_industry_tree'):
+                    self.industry_manager.load_adjusted_industry_data()
+                
+                # Log và thông báo
+                logging.info(f"Đã tải dữ liệu: {selected_name}")
+                break
+                    
+        if not found:
+            messagebox.showwarning("Cảnh báo", f"Không tìm thấy dữ liệu cho '{selected_name}'")
+
+    def update_field_dropdown(self):
+        """Cập nhật danh sách trường trong dropdown dựa trên tab hiện tại."""
+        if not self.notebook.tabs():  # Check if there are no tabs
+            self.field_dropdown["values"] = []
+            self.field_var.set("")
+            return
+
+        current_tab = self.notebook.tab(self.notebook.select(), "text")
+        fields = self.field_groups.get(current_tab, [])
+        self.field_dropdown["values"] = fields
+        self.field_var.set(fields[0] if fields else "")
+        
     def add_entry_context_menu(self, entry):
         """Thêm menu ngữ cảnh cho ô nhập liệu."""
         context_menu = tk.Menu(self.root, tearoff=0)
@@ -608,6 +519,21 @@ class DataEntryApp:
         context_menu.add_command(label="Xóa", command=lambda: entry.delete(0, tk.END))
         # Lưu menu vào thuộc tính context_menu của entry
         entry.context_menu = context_menu
+
+    def show_field_context_menu(self, event):
+        """Hiển thị menu ngữ cảnh cho field_dropdown."""
+        self.field_context_menu.tk_popup(event.x_root, event.y_root)
+
+    def show_tab_context_menu(self, event):
+        """Hiển thị menu ngữ cảnh cho tab_dropdown."""
+        selected_tab = self.tab_var.get()
+        if selected_tab:
+            # Tạo menu ngữ cảnh cho các tab
+            menu = tk.Menu(self.root, tearoff=0)
+            menu.add_command(label="Thêm tab", command=self.add_tab)
+            menu.add_command(label="Xóa tab", command=self.delete_tab)
+            menu.add_command(label="Sửa tên tab", command=self.rename_tab)
+            menu.tk_popup(event.x_root, event.y_root)
 
     def search_data(self):
         """Tìm kiếm dữ liệu dựa trên từ khóa."""
@@ -668,7 +594,7 @@ class DataEntryApp:
                         )
 
                 # Xóa nội dung trong ô tìm kiếm
-                self.search_var.set("")
+                #self.search_var.set("")
                 messagebox.showinfo("Thành công", f"Đã tải dữ liệu '{selected_name}'!")
                 break
 
@@ -680,7 +606,7 @@ class DataEntryApp:
         tree.heading("details", text="Chi tiết")
         tree.column("name", width=200)
         tree.column("details", width=350)
-        tree.pack(fill="both", expand=True, padx=10, pady=10)
+        tree.pack(fill="both", expand=True,padx=5, pady=5)
 
         for result in results:
             tree.insert("", "end", values=(result["name"], str(result["data"])))
@@ -707,8 +633,8 @@ class DataEntryApp:
 
         tree.bind("<Double-1>", on_double_click)
 
-        ttk.Button(popup, text="Chọn", command=load_selected_data, bootstyle="primary").pack(side="left", padx=10, pady=10)
-        ttk.Button(popup, text="Đóng", command=popup.destroy, bootstyle="danger").pack(side="right", padx=10, pady=10)
+        ttk.Button(popup, text="Chọn", command=load_selected_data, bootstyle="primary-outline").pack(side="left", padx=5, pady=5)
+        ttk.Button(popup, text="Đóng", command=popup.destroy, bootstyle="secondary-outline").pack(side="right", padx=5, pady=5)
 
     def update_treeview_with_results(self, results):
         """Cập nhật Treeview chính với kết quả tìm kiếm."""
@@ -725,3 +651,48 @@ class DataEntryApp:
             if input_text in entry["name"].lower()
         ]
         self.search_combobox["values"] = suggestions
+
+    def show_data_context_menu(self, event):
+        """Hiển thị menu ngữ cảnh cho quản lý dữ liệu."""
+        # Tạo menu ngữ cảnh cho quản lý dữ liệu
+        menu = tk.Menu(self.root, tearoff=0)
+        menu.add_command(label="Thêm mới", command=self.add_entry_data)
+        menu.add_command(label="Đổi tên", command=self.rename_entry_data)
+        menu.add_command(label="Xóa dữ liệu", command=self.delete_entry_data)
+        menu.add_separator()
+        menu.add_command(label="Lưu/Cập nhật", command=self.save_entry_data)
+        menu.add_command(label="Xóa trắng", command=self.clear_entries)
+        
+        menu.tk_popup(event.x_root, event.y_root)
+
+
+    def show_config_context_menu(self, event):
+        """Hiển thị menu ngữ cảnh cho config_dropdown."""
+        selected_config = self.config_var.get()
+        if selected_config:
+            # Tạo menu ngữ cảnh cho các cấu hình
+            menu = tk.Menu(self.root, tearoff=0)
+            menu.add_command(label="Thêm cấu hình", command=self.add_new_config)
+            menu.add_command(label="Xóa cấu hình", command=self.delete_config)
+            menu.add_command(label="Sửa tên cấu hình", command=self.rename_config)
+            menu.tk_popup(event.x_root, event.y_root)
+
+    def show_about_info(self):
+        """Hiển thị thông tin về ứng dụng và tác giả."""
+        about_text = """
+        Ứng dụng nhập liệu hồ sơ Kinh Doanh
+        
+        Phiên bản: 6.0.9
+        Phát hành: 9/4/2025
+        
+        © 2025 CÔNG TY TNHH GIẢI PHÁP SME
+        Bản quyền thuộc về: CÔNG TY TNHH GIẢI PHÁP SME
+        
+        Liên hệ:
+        Email: lienhe@giaiphapsme.com
+        Điện thoại: 02866.866.800
+        Website: www.giaiphapsme.com
+        """
+        messagebox.showinfo("Thông tin ứng dụng", about_text)
+
+    

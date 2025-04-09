@@ -93,7 +93,10 @@ class ExportManager:
                             "data": {
                                 **data,
                                 "nganh_nghe": entry["data"].get("nganh_nghe", []),
-                                "thanh_vien": entry["data"].get("thanh_vien", [])
+                                "thanh_vien": entry["data"].get("thanh_vien", []),
+                                "nganh_bo_sung": entry["data"].get("nganh_bo_sung", []),
+                                "nganh_giam": entry["data"].get("nganh_giam", []),
+                                "nganh_dieu_chinh": entry["data"].get("nganh_dieu_chinh", [])
                             }
                         }
                         break
@@ -117,7 +120,7 @@ class ExportManager:
                     logging.error(f"Lỗi khi xuất JSON: {str(e)}")
                     messagebox.showerror("Lỗi", f"Không thể xuất file JSON: {str(e)}")
 
-        ttk.Button(popup, text="Xuất", command=confirm_export, style="primary.TButton").pack(pady=10)
+        ttk.Button(popup, text="Xuất", command=confirm_export, style="primary-outline").pack(pady=10)
 
     def import_from_file(self):
         """Nhập dữ liệu từ file Excel hoặc JSON."""
@@ -186,8 +189,11 @@ class ExportManager:
                     self.app.config_manager.current_config_name
                 )
                 
-                # Cập nhật dropdown
-                self.app.load_data_dropdown["values"] = [entry["name"] for entry in self.app.saved_entries]
+                # Cập nhật dropdown với kiểm tra có thuộc tính nào
+                if hasattr(self.app, 'load_data_dropdown'):
+                    self.app.load_data_dropdown["values"] = [entry["name"] for entry in self.app.saved_entries]
+                elif hasattr(self.app, 'search_combobox'):
+                    self.app.search_combobox["values"] = [entry["name"] for entry in self.app.saved_entries]
                 
                 # Cập nhật giao diện thành viên và ngành nghề
                 self.app.member_manager.load_member_data()
@@ -223,9 +229,18 @@ class ExportManager:
                         self.app.config_manager.current_config_name
                     )
                     
-                    # Cập nhật dropdown và tải dữ liệu
-                    self.app.load_data_dropdown["values"] = [entry["name"] for entry in self.app.saved_entries]
+                    # Cập nhật dropdown với kiểm tra có thuộc tính nào
+                    if hasattr(self.app, 'load_data_dropdown'):
+                        self.app.load_data_dropdown["values"] = [entry["name"] for entry in self.app.saved_entries]
+                        self.app.load_data_dropdown.set(entry_name)
+                    elif hasattr(self.app, 'search_combobox'):
+                        self.app.search_combobox["values"] = [entry["name"] for entry in self.app.saved_entries]
+                        self.app.search_combobox.set(entry_name)
+                        
+                    # Cập nhật biến load_data_var
                     self.app.load_data_var.set(entry_name)
+                    
+                    # Tải dữ liệu vào các trường nhập liệu
                     self.app.load_selected_entry(None)
                     
                     messagebox.showinfo("Thành công", "Đã nhập dữ liệu từ file JSON!")
@@ -308,8 +323,8 @@ class ExportManager:
 
         button_frame = ttk.Frame(popup)
         button_frame.pack(fill="x", pady=5)
-        ttk.Button(button_frame, text="Xuất Placeholder", command=lambda: [popup.destroy(), self.export_placeholders()], style="primary.TButton").pack(side="left", padx=5)
-        ttk.Button(button_frame, text="Đóng", command=popup.destroy, style="danger.TButton").pack(side="right", padx=5)
+        ttk.Button(button_frame, text="Xuất Placeholder", command=lambda: [popup.destroy(), self.export_placeholders()], style="primary-outline").pack(side="left", padx=5)
+        ttk.Button(button_frame, text="Đóng", command=popup.destroy, style="secondary-outline").pack(side="right", padx=5)
 
     def copy_placeholder_from_popup(self, placeholder_list):
         selected = placeholder_list.selection()
@@ -398,7 +413,7 @@ class ExportManager:
                 logging.error(f"Lỗi khi xuất placeholder: {str(e)}")
                 messagebox.showerror("Lỗi", f"Không thể xuất file: {str(e)}")
                 popup.destroy()
-        ttk.Button(popup, text="Xuất", command=confirm_export, style="primary.TButton").pack(pady=10)
+        ttk.Button(popup, text="Xuất", command=confirm_export, style="primary-outline").pack(pady=10)
 
     def check_template_placeholders(self, doc_paths, data_lower):
         try:
@@ -533,6 +548,9 @@ class ExportManager:
             if "von_dieu_le" in data_lower and data_lower["von_dieu_le"]:
                 data_lower["von_dieu_le_bang_chu"] = number_to_words(data_lower["von_dieu_le"])
 
+            if "von_dieu_le_moi" in data_lower and data_lower["von_dieu_le_moi"]:
+                data_lower["von_dieu_le_moi_bang_chu"] = number_to_words(data_lower["von_dieu_le_moi"])
+
             if "so_tien" in data_lower and data_lower["so_tien"]:
                 data_lower["so_tien_bang_chu"] = number_to_words(data_lower["so_tien"])
             
@@ -561,7 +579,7 @@ class ExportManager:
                 else:
                     self.export_to_pdf(doc_paths, data_lower, mode, selected_templates)
 
-        ttk.Button(popup, text="Xuất File", command=confirm_export, style="primary.TButton").pack(pady=10)
+        ttk.Button(popup, text="Xuất File", command=confirm_export, style="primary-outline").pack(pady=10)
 
     def merge_documents(self, doc_paths, data_lower):
         if not doc_paths or not isinstance(doc_paths, (list, tuple)):

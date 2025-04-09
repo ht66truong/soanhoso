@@ -79,10 +79,10 @@ class MemberManager:
         button_frame = ttk.Frame(scrollable_frame)
         button_frame.pack(pady=10)
         
-        ttk.Button(button_frame, text="Thêm thành viên", command=self.add_member).pack(side="left", padx=10, expand=True)
-        ttk.Button(button_frame, text="Sửa thành viên", command=self.edit_member).pack(side="left", padx=10, expand=True)
-        ttk.Button(button_frame, text="Xóa thành viên", command=self.delete_member).pack(side="left", padx=10, expand=True)
-        ttk.Button(button_frame, text="Xem chi tiết", command=self.view_member_details).pack(side="left", padx=10, expand=True)
+        ttk.Button(button_frame, text="Thêm thành viên", command=self.add_member, style="primary-outline").pack(side="left", padx=10, expand=True)
+        ttk.Button(button_frame, text="Sửa thành viên", command=self.edit_member, style="primary-outline").pack(side="left", padx=10, expand=True)
+        ttk.Button(button_frame, text="Xóa thành viên", command=self.delete_member, style="danger-outline").pack(side="left", padx=10, expand=True)
+        ttk.Button(button_frame, text="Xem chi tiết", command=self.view_member_details, style="secondary-outline").pack(side="left", padx=10, expand=True)
         
         # Kích hoạt cuộn chuột dọc
         def on_mousewheel(event):
@@ -176,7 +176,7 @@ class MemberManager:
                     popup.destroy()
                     break
 
-        ttk.Button(popup, text="Thêm", command=confirm_add).pack(pady=10)
+        ttk.Button(popup, text="Thêm", command=confirm_add, style="primary-outline").pack(pady=10)
 
     def delete_member(self):
         """Xóa thành viên đã chọn."""
@@ -297,7 +297,7 @@ class MemberManager:
                     popup.destroy()
                     break
 
-        ttk.Button(popup, text="Lưu", command=confirm_edit).pack(pady=10)
+        ttk.Button(popup, text="Lưu", command=confirm_edit, style="primary-outline").pack(pady=10)
 
     def view_member_details(self, event=None):
         """Hiển thị chi tiết thông tin thành viên."""
@@ -337,8 +337,8 @@ class MemberManager:
         ttk.Label(popup, text="Chức danh: " + ("Chủ tịch" if member.get("la_chu_tich", False) else "Thành viên")).pack(pady=5)
 
         # Nút đóng
-        ttk.Button(popup, text="Chỉnh sửa", command=lambda: [popup.destroy(), self.edit_member()]).pack(side="left", padx=10, expand=True)
-        ttk.Button(popup, text="Đóng", command=popup.destroy).pack(side="right", pady=10, expand=True)
+        ttk.Button(popup, text="Chỉnh sửa", command=lambda: [popup.destroy(), self.edit_member()], style="primary-outline").pack(side="left", padx=10, pady=10, expand=True)
+        ttk.Button(popup, text="Đóng", command=popup.destroy, style="secondary-outline").pack(side="right", padx=10, pady=10, expand=True)
 
     def start_drag_member(self, event):
         """Bắt đầu kéo một thành viên."""
