@@ -72,7 +72,7 @@ class EmployeeManager:
     
     def add_employee(self):
         """Add a new employee"""
-        popup = create_popup(self.app.root, "Thêm nhân viên", 450, 500)
+        popup = create_popup(self.app.root, "Thêm nhân viên", 400, 450)
         
         # Create a frame for employee details
         frame = ttk.Frame(popup, padding=10)
@@ -149,7 +149,7 @@ class EmployeeManager:
             select_popup.destroy()
             
             # Open edit form
-            edit_popup = create_popup(self.app.root, "Sửa thông tin nhân viên", 450, 500)   
+            edit_popup = create_popup(self.app.root, "Sửa thông tin nhân viên", 400, 450)   
             
             # Create a frame for employee details
             frame = ttk.Frame(edit_popup, padding=10)

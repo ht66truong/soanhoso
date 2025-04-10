@@ -230,7 +230,7 @@ class DataEntryApp:
         data_tools_menu.add_command(label="Thông tin ứng dụng", command=self.show_about_info)
         
         # Thay thế Button thông thường bằng MenuButton
-        data_tools_button = ttk.Menubutton(data_tools_frame, text="Công cụ dữ liệu", bootstyle="info-outline-menubutton", width=15, menu=data_tools_menu)
+        data_tools_button = ttk.Menubutton(data_tools_frame, text="Công cụ dữ liệu", bootstyle="primary-outline-menubutton", width=15, menu=data_tools_menu)
         data_tools_button.pack(side="left", padx=5)
         ToolTip(data_tools_button, "Nhấp để mở các công cụ quản lý dữ liệu")
 
@@ -256,7 +256,7 @@ class DataEntryApp:
 
         # Styles
         style = ttk.Style()
-        style.theme_use("cosmo")
+        style.theme_use("flatly")
         style.configure("TButton", font=("Segoe UI", 10), borderwidth=1, relief="raised", padding=5)
         
 
