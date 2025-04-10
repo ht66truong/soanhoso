@@ -669,6 +669,31 @@ class TabManager:
 
     def create_tabs(self):
         """Tạo các tab dựa trên field_groups, bao gồm tab Thông tin thành viên và Ngành nghề kinh doanh."""
+        # Tạo menu ngữ cảnh cho các tab
+        tab_header_menu = tk.Menu(self.app.root, tearoff=0)
+        tab_header_menu.add_command(label="Thêm tab", image=self.app.add_icon_img,
+                                compound="left", command=self.add_tab)
+        tab_header_menu.add_command(label="Xóa tab", image=self.app.delete_icon_img,
+                                compound="left", command=self.delete_tab)
+        tab_header_menu.add_command(label="Sửa tên tab", image=self.app.edit_icon_img,
+                                compound="left", command=self.rename_tab)
+        
+        # Hàm để hiển thị menu ngữ cảnh khi click chuột phải vào tab
+        def show_tab_header_menu(event):
+            try:
+                # Lấy index của tab được nhấp chuột phải
+                clicked_index = self.app.notebook.index(f"@{event.x},{event.y}")
+                if clicked_index >= 0:  # Đảm bảo rằng đã nhấp vào một tab hợp lệ
+                    tab_name = self.app.notebook.tab(clicked_index, "text")
+                    self.app.tab_var.set(tab_name)
+                    tab_header_menu.post(event.x_root, event.y_root)
+            except (ValueError, IndexError, tk.TclError) as e:
+                print(f"Tab menu error: {e}")
+                pass
+        
+        # Gán sự kiện chuột phải cho notebook
+        self.app.notebook.bind("<Button-3>", show_tab_header_menu)
+        
         tab_names = list(self.app.field_groups.keys())
         for i, tab_name in enumerate(tab_names):
             if tab_name == "Ngành nghề kinh doanh":
@@ -696,6 +721,18 @@ class TabManager:
                 scrollable_frame.grid_columnconfigure(0, weight=1)
                 scrollable_frame.grid_columnconfigure(1, weight=2)
                 
+                # Tạo context menu cho tab trống
+                tab_context_menu = tk.Menu(self.app.root, tearoff=0)
+                tab_context_menu.add_command(label="Thêm trường", image=self.app.add_icon_img, 
+                                compound="left", command=self.app.field_manager.add_field)
+                
+                # Gán context menu cho cả canvas và scrollable_frame
+                def show_tab_context_menu(event):
+                    tab_context_menu.post(event.x_root, event.y_root)
+                    
+                canvas.bind("<Button-3>", show_tab_context_menu)
+                scrollable_frame.bind("<Button-3>", show_tab_context_menu)
+
                 # Đảm bảo mỗi tab có đủ trường để kiểm tra cuộn (tạm thời thêm nhiều trường giả)
                 fields = self.app.field_groups[tab_name]
                 for j, field in enumerate(fields):

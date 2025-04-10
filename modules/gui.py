@@ -89,27 +89,10 @@ class DataEntryApp:
         self.backup_manager = BackupManager(self)
         self.employee_manager = EmployeeManager(self)
 
-
-        # Top frame cho menu và thông tin phiên bản
-        self.top_frame = ttk.Frame(self.root)
-        self.top_frame.pack(side="top", fill="x", padx=5, pady=5)
-        
-        # Đã di chuyển nút About xuống chung với nút Công cụ dữ liệu
-        
-        self.main_frame = ttk.Frame(root, padding=5)
-        self.main_frame.pack(fill="both", expand=True)
-
-        # Config Frame
-        self.config_frame = ttk.LabelFrame(self.main_frame, text="Quản lý cấu hình", padding=5)
-        self.config_frame.pack(fill="x", pady=(0, 5))
-        ttk.Label(self.config_frame, text="Chọn loại hình:").pack(side="left", padx=5)
-        self.config_var = tk.StringVar()
-        self.config_dropdown = ttk.Combobox(self.config_frame, textvariable=self.config_var, values=list(self.configs.keys()), state="readonly", width=25)
-        self.config_dropdown.pack(side="left", padx=5)
-        ToolTip(self.config_dropdown, "Chọn cấu hình làm việc\nNhấp chuột phải để mở menu quản lý cấu hình")
-        self.config_dropdown.bind("<<ComboboxSelected>>", self.load_selected_config)
-        # Thêm bind chuột phải để hiển thị menu ngữ cảnh cấu hình
-        self.config_dropdown.bind("<Button-3>", self.show_config_context_menu)
+        # Styles
+        style = ttk.Style()
+        style.theme_use("flatly")
+        style.configure("TButton", font=("Segoe UI", 10), borderwidth=1, relief="raised", padding=5)
 
         def resource_path(relative_path): # Hàm hỗ trợ lấy đường dẫn tài nguyên
             """Lấy đường dẫn tuyệt đối đến tài nguyên, hoạt động cho cả mã nguồn và file thực thi PyInstaller."""
@@ -149,35 +132,56 @@ class DataEntryApp:
             logging.error(f"Lỗi khi tải biểu tượng: {str(e)}")
             messagebox.showerror("Lỗi", "Không thể tải biểu tượng, kiểm tra thư mục icon!")
 
-        #Quản lý tab
+        # Top frame
+        self.top_frame = ttk.Frame(self.root)
+        self.top_frame.pack(side="top", fill="x", padx=5, pady=5)
+        
+        self.main_frame = ttk.Frame(root, padding=5)
+        self.main_frame.pack(fill="both", expand=True)
+
+        # Config Frame
+        self.config_frame = ttk.LabelFrame(self.main_frame, text="Quản lý cấu hình", padding=5)
+        self.config_frame.pack(fill="x", pady=(0, 5))
+        ttk.Label(self.config_frame, text="Chọn loại hình:").pack(side="left", padx=5)
+        self.config_var = tk.StringVar()
+        self.config_dropdown = ttk.Combobox(self.config_frame, textvariable=self.config_var, values=list(self.configs.keys()), state="readonly", width=25)
+        self.config_dropdown.pack(side="left", padx=5)
+        ToolTip(self.config_dropdown, "Chọn cấu hình làm việc\nNhấp chuột phải để mở menu quản lý cấu hình")
+        self.config_dropdown.bind("<<ComboboxSelected>>", self.load_selected_config)
+        # Thêm bind chuột phải để hiển thị menu ngữ cảnh cấu hình
+        self.config_dropdown.bind("<Button-3>", self.show_config_context_menu)
+        
+        # Thêm một công tắc để ẩn hiện các mục quản lý tab và trường
         ttk.Separator(self.config_frame, orient="vertical").pack(side="left", padx=5, fill="y")
-        ttk.Label(self.config_frame, text="Quản lý tab:").pack(side="left", padx=5)
+        self.advanced_mode = tk.BooleanVar(value=False)  # Mặc định không hiển thị
+        self.toggle_button = ttk.Checkbutton(self.config_frame, text="Hiện quản lý tab & trường", 
+            variable=self.advanced_mode, command=self.toggle_advanced_controls, bootstyle="round-toggle")
+        self.toggle_button.pack(side="left", padx=5)
+        ToolTip(self.toggle_button, "Bật/tắt hiển thị các điều khiển quản lý tab và trường")
+        
+        # Tạo một frame riêng cho các điều khiển quản lý tab và trường
+        self.advanced_frame = ttk.Frame(self.config_frame)
+        
+        # Quản lý tab - Di chuyển vào advanced_frame
+        ttk.Separator(self.advanced_frame, orient="vertical").pack(side="left", padx=5, fill="y")
+        ttk.Label(self.advanced_frame, text="Quản lý tab:").pack(side="left", padx=5)
         self.tab_var = tk.StringVar()
-        self.tab_dropdown = ttk.Combobox(self.config_frame, textvariable=self.tab_var, state="readonly", width=20)
+        self.tab_dropdown = ttk.Combobox(self.advanced_frame, textvariable=self.tab_var, state="readonly", width=20)
         ToolTip(self.tab_dropdown, "Chọn tab để thêm/sửa/xóa\nNhấp chuột phải để mở menu quản lý tab")
         self.tab_dropdown.pack(side="left", padx=5)
         self.tab_dropdown.bind("<Button-3>", self.show_tab_context_menu)
-
-        #Quản lý trường
-        ttk.Separator(self.config_frame, orient="vertical").pack(side="left", padx=5, fill="y")
-        ttk.Label(self.config_frame, text="Quản lý trường:").pack(side="left", padx=5)
+        
+        # Quản lý trường - Di chuyển vào advanced_frame
+        ttk.Separator(self.advanced_frame, orient="vertical").pack(side="left", padx=5, fill="y")
+        ttk.Label(self.advanced_frame, text="Quản lý trường:").pack(side="left", padx=5)
         self.field_var = tk.StringVar()
-        self.field_dropdown = ttk.Combobox(self.config_frame, textvariable=self.field_var, state="readonly", width=20)
+        self.field_dropdown = ttk.Combobox(self.advanced_frame, textvariable=self.field_var, state="readonly", width=20)
         ToolTip(self.field_dropdown, "Chọn trường để thêm/sửa/xóa\nNhấp chuột phải để mở menu quản lý trường")
         self.field_dropdown.pack(side="left", padx=5)
-        
-        # Thêm menu ngữ cảnh cho field_dropdown thay vì nhiều nút
-        self.field_context_menu = tk.Menu(self.root, tearoff=0)
-        self.field_context_menu.add_command(label="Thêm trường", command=self.add_field)
-        self.field_context_menu.add_command(label="Xóa trường", command=self.delete_selected_field)
-        self.field_context_menu.add_command(label="Sửa tên trường", command=self.rename_selected_field)
         self.field_dropdown.bind("<Button-3>", self.show_field_context_menu)
-
-        #Quản lý template - Thay đổi từ hiển thị trực tiếp thành nút mở popup
-        ttk.Separator(self.config_frame, orient="vertical").pack(side="left", padx=5, fill="y")
-        #ttk.Label(self.config_frame, text="Quản lý mẫu:").pack(side="left", padx=5)
         
-        # Thêm nút để mở popup quản lý mẫu
+        # Quản lý template - Vẫn nằm bên ngoài advanced_frame để luôn hiển thị
+        ttk.Separator(self.config_frame, orient="vertical").pack(side="left", padx=5, fill="y")
         template_button = ttk.Button(self.config_frame, text="Quản lý danh sách mẫu", command=self.show_template_manager_popup, bootstyle="info-outline")
         template_button.pack(side="left", padx=5)
         ToolTip(template_button, "Nhấp để mở cửa sổ quản lý mẫu\nBạn có thể thêm, xóa, kéo thả sắp xếp mẫu")
@@ -253,13 +257,7 @@ class DataEntryApp:
         self.export_file_button = ttk.Button(self.export_frame, image=self.export_icon_img, command=self.export_file, bootstyle="success-outline")
         ToolTip(self.export_file_button, "Xuất file")
         self.export_file_button.grid(row=0, column=2, padx=5)
-
-        # Styles
-        style = ttk.Style()
-        style.theme_use("flatly")
-        style.configure("TButton", font=("Segoe UI", 10), borderwidth=1, relief="raised", padding=5)
-        
-
+       
         # Initialize default config if none exists
         if not self.config_manager.configs:
             self.config_manager.initialize_default_config()
@@ -271,11 +269,8 @@ class DataEntryApp:
             self.config_dropdown.set(config_name)
             self.config_manager.current_config_name = config_name
             self.config_manager.load_selected_config(None)
-        
-        #self.check_and_migrate_data()
 
         self.root.after(600000, self.backup_manager.auto_backup)
-
 
 
     def load_selected_config(self, event):
@@ -522,7 +517,12 @@ class DataEntryApp:
 
     def show_field_context_menu(self, event):
         """Hiển thị menu ngữ cảnh cho field_dropdown."""
-        self.field_context_menu.tk_popup(event.x_root, event.y_root)
+        # Thêm menu ngữ cảnh cho field_dropdown thay vì nhiều nút
+        field_context_menu = tk.Menu(self.root, tearoff=0)
+        field_context_menu.add_command(label="Thêm trường", command=self.add_field)
+        field_context_menu.add_command(label="Xóa trường", command=self.delete_selected_field)
+        field_context_menu.add_command(label="Sửa tên trường", command=self.rename_selected_field)
+        field_context_menu.tk_popup(event.x_root, event.y_root)
 
     def show_tab_context_menu(self, event):
         """Hiển thị menu ngữ cảnh cho tab_dropdown."""
@@ -665,7 +665,6 @@ class DataEntryApp:
         
         menu.tk_popup(event.x_root, event.y_root)
 
-
     def show_config_context_menu(self, event):
         """Hiển thị menu ngữ cảnh cho config_dropdown."""
         selected_config = self.config_var.get()
@@ -696,4 +695,13 @@ class DataEntryApp:
         """
         messagebox.showinfo("Thông tin ứng dụng", about_text)
 
-    
+    def toggle_advanced_controls(self):
+        """Ẩn hiện các điều khiển quản lý tab và trường."""
+        if self.advanced_mode.get():
+            # Hiển thị các điều khiển
+            self.advanced_frame.pack(side="left", fill="y")
+            self.toggle_button.config(text="Ẩn quản lý tab & trường")
+        else:
+            # Ẩn các điều khiển
+            self.advanced_frame.pack_forget()
+            self.toggle_button.config(text="Hiện quản lý tab & trường")
