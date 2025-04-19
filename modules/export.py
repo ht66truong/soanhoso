@@ -5,6 +5,7 @@ import os
 import json
 import logging
 from datetime import datetime
+import comtypes
 from docx.oxml.ns import qn
 from docx2pdf import convert 
 from docx.shared import Pt, Cm
@@ -833,25 +834,65 @@ class ExportManager:
                 messagebox.showinfo("Thành công", f"Đã xuất {len(doc_paths)} file Word riêng lẻ!")
                 logging.info(f"Xuất {len(doc_paths)} file Word riêng lẻ từ {base_path}")
 
-    def export_to_pdf(self, doc_paths, data_lower, mode):
+    def export_to_pdf(self, doc_paths, data_lower, mode, selected_templates):
         # Tính số lượng thành viên
         so_thanh_vien = len(data_lower.get("thanh_vien", []))
         data_lower["so_thanh_vien"] = str(so_thanh_vien)  # Thêm vào data_lower
 
+        # Lấy tên công ty và template từ dữ liệu
+        ma_so_doanh_nghiep = data_lower.get("ma_so_doanh_nghiep", "output")
+        
+        # Loại bỏ đuôi .docx khỏi tên các template
+        template_names = [os.path.splitext(t)[0] for t in selected_templates]
+        template_name = "_".join(template_names)  # Gộp tên các template
+        
         output_path = filedialog.asksaveasfilename(defaultextension=".pdf", filetypes=[("PDF files", "*.pdf")],
-                                                    initialfile=f"output_{datetime.now().strftime('%Y%m%d_%H%M%S')}.pdf")
+                                                initialfile=f"{ma_so_doanh_nghiep}_{template_name}_{datetime.now().strftime('%d%m%Y_%H%M%S')}.pdf")
         if output_path:
             if mode == "merge":
                 merged_doc = self.merge_documents(doc_paths, data_lower)
                 if merged_doc:
                     try:
-                        temp_docx = "temp_merged.docx"
+                        # Sử dụng đường dẫn tạm thời đầy đủ
+                        import tempfile
+                        temp_dir = tempfile.gettempdir()
+                        temp_docx = os.path.join(temp_dir, "temp_merged.docx")
+                        
+                        # Lưu tài liệu trước
+                        logging.info(f"Lưu file tạm thời tại: {temp_docx}")
                         merged_doc.save(temp_docx)
-                        convert(temp_docx, output_path)
-                        os.remove(temp_docx)
-                        os.startfile(output_path)
-                        messagebox.showinfo("Thành công", f"Đã xuất file PDF: {output_path}")
-                        logging.info(f"Xuất PDF gộp: {output_path}")
+                        
+                        # Kiểm tra file tồn tại
+                        if not os.path.exists(temp_docx):
+                            raise FileNotFoundError(f"File tạm không tồn tại: {temp_docx}")
+                        
+                        # Sử dụng comtypes trực tiếp thay vì docx2pdf
+                        try:
+                            import comtypes.client
+                            logging.info("Đang sử dụng comtypes để chuyển đổi PDF")
+                            
+                            word = comtypes.client.CreateObject('Word.Application')
+                            doc = word.Documents.Open(os.path.abspath(temp_docx))
+                            doc.SaveAs(os.path.abspath(output_path), FileFormat=17)
+                            doc.Close()
+                            word.Quit()
+                            
+                            # Xóa file tạm
+                            os.remove(temp_docx)
+                            
+                            # Mở file kết quả
+                            os.startfile(output_path)
+                            messagebox.showinfo("Thành công", f"Đã xuất file PDF: {output_path}")
+                            logging.info(f"Xuất PDF gộp: {output_path}")
+                        except Exception as e1:
+                            logging.error(f"Lỗi khi chuyển đổi bằng comtypes: {str(e1)}")
+                            messagebox.showerror("Lỗi", f"Không thể chuyển đổi bằng comtypes: {str(e1)}")
+                            
+                            # Phương án dự phòng: mở file Word và hướng dẫn người dùng
+                            os.startfile(temp_docx)
+                            messagebox.showinfo("Hướng dẫn", 
+                                "Không thể tự động chuyển đổi sang PDF.\nFile Word đã được mở. "
+                                "Vui lòng sử dụng File > Save As > PDF để lưu file PDF.")
                     except Exception as e:
                         logging.error(f"Lỗi khi xuất PDF: {str(e)}")
                         messagebox.showerror("Lỗi", f"Không thể xuất PDF: {str(e)}")

@@ -279,3 +279,149 @@
 2025-04-10 23:11:52,238 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
 2025-04-10 23:11:57,068 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
 2025-04-10 23:11:58,502 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
+2025-04-16 23:47:48,806 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-16 23:47:48,835 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
+2025-04-16 23:47:48,835 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
+2025-04-16 23:47:50,444 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
+2025-04-16 23:48:03,622 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Phi\u1ebfu thu
+2025-04-16 23:48:06,920 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
+2025-04-19 13:40:58,252 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-19 13:40:58,269 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
+2025-04-19 13:40:58,270 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
+2025-04-19 13:40:59,003 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
+2025-04-19 13:41:31,031 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
+2025-04-19 13:41:32,171 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
+2025-04-19 13:43:41,947 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-19 13:43:41,950 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
+2025-04-19 13:43:41,951 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
+2025-04-19 13:43:42,829 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
+2025-04-19 13:43:46,622 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
+2025-04-19 13:44:18,762 - INFO - Xu\u1ea5t 1 file PDF riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/output_20250419_134357
+2025-04-19 14:47:45,092 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-19 14:47:45,112 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
+2025-04-19 14:47:45,112 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
+2025-04-19 14:47:46,467 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
+2025-04-19 14:47:50,902 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
+2025-04-19 14:48:03,370 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 1
+2025-04-19 14:48:03,370 - INFO - Doc paths: ['templates\\1TV-tang von dieu le.docx', 'templates\\van ban uy quyen.docx']
+2025-04-19 14:48:03,643 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-19 14:48:03,987 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-19 14:48:04,184 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_1.docx
+2025-04-19 14:48:04,278 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_1.docx
+2025-04-19 14:48:04,376 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t g\u1ed9p
+2025-04-19 14:48:14,615 - INFO - Xu\u1ea5t PDF g\u1ed9p: C:/Users/noname/Downloads/output_20250419_144800.pdf
+2025-04-19 14:49:18,468 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-19 14:49:18,471 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
+2025-04-19 14:49:18,472 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
+2025-04-19 14:49:18,998 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
+2025-04-19 14:49:46,110 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
+2025-04-19 14:50:26,089 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 2
+2025-04-19 14:50:26,089 - INFO - Doc paths: ['templates\\van ban uy quyen.docx', 'templates\\2TV_thay doi dia chi.docx']
+2025-04-19 14:50:26,328 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-19 14:50:26,419 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-19 14:50:27,051 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_1.docx
+2025-04-19 14:50:27,602 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_1.docx
+2025-04-19 14:50:27,995 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t g\u1ed9p
+2025-04-19 14:50:40,949 - INFO - Xu\u1ea5t PDF g\u1ed9p: C:/Users/noname/Downloads/output_20250419_145023.pdf
+2025-04-19 14:55:43,602 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-19 14:55:43,605 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
+2025-04-19 14:55:43,606 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
+2025-04-19 14:55:44,045 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
+2025-04-19 14:56:15,148 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
+2025-04-19 14:56:28,714 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 2
+2025-04-19 14:56:28,714 - INFO - Doc paths: ['templates\\van ban uy quyen.docx', 'templates\\2TV_thay doi dia chi.docx']
+2025-04-19 14:56:28,856 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-19 14:56:28,941 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-19 14:56:29,504 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_1.docx
+2025-04-19 14:56:30,117 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_1.docx
+2025-04-19 14:56:30,346 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t g\u1ed9p
+2025-04-19 14:56:43,447 - INFO - Xu\u1ea5t PDF g\u1ed9p: C:/Users/noname/Downloads/output_20250419_145625.pdf
+2025-04-19 18:34:06,186 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-19 18:34:06,212 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
+2025-04-19 18:34:06,212 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
+2025-04-19 18:34:07,141 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
+2025-04-19 18:34:11,077 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
+2025-04-19 18:34:28,971 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 2
+2025-04-19 18:34:28,971 - INFO - Doc paths: ['templates\\van ban uy quyen.docx', 'templates\\2TV_thay doi dia chi.docx']
+2025-04-19 18:34:29,128 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-19 18:34:29,217 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-19 18:34:29,921 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_1.docx
+2025-04-19 18:34:30,476 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_1.docx
+2025-04-19 18:34:30,860 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t g\u1ed9p
+2025-04-19 18:34:30,869 - INFO - L\u01b0u file t\u1ea1m th\u1eddi t\u1ea1i: C:\Users\noname\AppData\Local\Temp\temp_merged.docx
+2025-04-19 18:34:30,895 - ERROR - L\u1ed7i khi chuy\u1ec3n \u0111\u1ed5i b\u1eb1ng comtypes: No module named 'comtypes'
+2025-04-19 18:36:57,860 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-19 18:36:57,863 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
+2025-04-19 18:36:57,863 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
+2025-04-19 18:36:58,395 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
+2025-04-19 18:37:02,002 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
+2025-04-19 18:37:12,909 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 2
+2025-04-19 18:37:12,909 - INFO - Doc paths: ['templates\\van ban uy quyen.docx', 'templates\\2TV_thay doi dia chi.docx']
+2025-04-19 18:37:13,078 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-19 18:37:13,178 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-19 18:37:13,659 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_1.docx
+2025-04-19 18:37:14,200 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_1.docx
+2025-04-19 18:37:14,418 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t g\u1ed9p
+2025-04-19 18:37:14,420 - INFO - L\u01b0u file t\u1ea1m th\u1eddi t\u1ea1i: C:\Users\noname\AppData\Local\Temp\temp_merged.docx
+2025-04-19 18:37:14,483 - INFO - Could not import comtypes.gen, trying to create it.
+2025-04-19 18:37:14,483 - INFO - Created comtypes.gen directory: 'C:\Users\noname\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-04-19 18:37:14,484 - INFO - Writing __init__.py file: 'C:\Users\noname\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen\__init__.py'
+2025-04-19 18:37:14,498 - INFO - Using writeable comtypes cache directory: 'C:\Users\noname\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-04-19 18:37:14,501 - INFO - \u0110ang s\u1eed d\u1ee5ng comtypes \u0111\u1ec3 chuy\u1ec3n \u0111\u1ed5i PDF
+2025-04-19 18:37:17,063 - INFO - Could not import comtypes.gen._00020905_0000_0000_C000_000000000046_0_8_7: No module named 'comtypes.gen._00020905_0000_0000_C000_000000000046_0_8_7'
+2025-04-19 18:37:17,070 - INFO - # Generating comtypes.gen._00020905_0000_0000_C000_000000000046_0_8_7
+2025-04-19 18:37:52,770 - INFO - # Generating comtypes.gen.Word
+2025-04-19 18:37:52,829 - INFO - Could not import comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0: No module named 'comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0'
+2025-04-19 18:37:52,831 - INFO - # Generating comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0
+2025-04-19 18:37:53,268 - INFO - # Generating comtypes.gen.stdole
+2025-04-19 18:37:53,327 - INFO - Could not import comtypes.gen._2DF8D04C_5BFA_101B_BDE5_00AA0044DE52_0_2_8: No module named 'comtypes.gen._2DF8D04C_5BFA_101B_BDE5_00AA0044DE52_0_2_8'
+2025-04-19 18:37:53,330 - INFO - # Generating comtypes.gen._2DF8D04C_5BFA_101B_BDE5_00AA0044DE52_0_2_8
+2025-04-19 18:38:12,628 - INFO - # Generating comtypes.gen.Office
+2025-04-19 18:38:13,775 - INFO - Could not import comtypes.gen._0002E157_0000_0000_C000_000000000046_0_5_3: No module named 'comtypes.gen._0002E157_0000_0000_C000_000000000046_0_5_3'
+2025-04-19 18:38:13,778 - INFO - # Generating comtypes.gen._0002E157_0000_0000_C000_000000000046_0_5_3
+2025-04-19 18:38:25,518 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-19 18:38:25,521 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
+2025-04-19 18:38:25,522 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
+2025-04-19 18:38:25,953 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
+2025-04-19 18:38:28,452 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Phi\u1ebfu thu
+2025-04-19 18:38:29,946 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
+2025-04-19 18:38:44,518 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 2
+2025-04-19 18:38:44,518 - INFO - Doc paths: ['templates\\van ban uy quyen.docx', 'templates\\2TV_thay doi dia chi.docx']
+2025-04-19 18:38:44,705 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-19 18:38:44,799 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-19 18:38:45,268 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_1.docx
+2025-04-19 18:38:45,807 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_1.docx
+2025-04-19 18:38:46,023 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t g\u1ed9p
+2025-04-19 18:38:46,026 - INFO - L\u01b0u file t\u1ea1m th\u1eddi t\u1ea1i: C:\Users\noname\AppData\Local\Temp\temp_merged.docx
+2025-04-19 18:38:46,088 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\noname\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-19 18:38:46,088 - INFO - Using writeable comtypes cache directory: 'C:\Users\noname\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-04-19 18:38:46,091 - INFO - \u0110ang s\u1eed d\u1ee5ng comtypes \u0111\u1ec3 chuy\u1ec3n \u0111\u1ed5i PDF
+2025-04-19 18:38:48,431 - INFO - Could not import comtypes.gen._00020905_0000_0000_C000_000000000046_0_8_7: No module named 'comtypes.gen._00020905_0000_0000_C000_000000000046_0_8_7'
+2025-04-19 18:38:48,439 - INFO - # Generating comtypes.gen._00020905_0000_0000_C000_000000000046_0_8_7
+2025-04-19 18:39:12,573 - INFO - # Generating comtypes.gen.Word
+2025-04-19 18:39:12,960 - INFO - Could not import comtypes.gen._0002E157_0000_0000_C000_000000000046_0_5_3: No module named 'comtypes.gen._0002E157_0000_0000_C000_000000000046_0_5_3'
+2025-04-19 18:39:12,962 - INFO - # Generating comtypes.gen._0002E157_0000_0000_C000_000000000046_0_5_3
+2025-04-19 18:39:13,957 - INFO - # Generating comtypes.gen.VBIDE
+2025-04-19 18:39:36,122 - INFO - Xu\u1ea5t PDF g\u1ed9p: C:/Users/noname/Downloads/output_20250419_183841.pdf
+2025-04-19 18:42:38,417 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-04-19 18:42:38,420 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
+2025-04-19 18:42:38,420 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
+2025-04-19 18:42:38,906 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
+2025-04-19 18:42:41,325 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
+2025-04-19 18:42:58,002 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 2
+2025-04-19 18:42:58,002 - INFO - Doc paths: ['templates\\van ban uy quyen.docx', 'templates\\2TV_thay doi dia chi.docx']
+2025-04-19 18:42:58,160 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-19 18:42:58,246 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-19 18:42:58,757 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_1.docx
+2025-04-19 18:42:59,367 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_1.docx
+2025-04-19 18:42:59,589 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t g\u1ed9p
+2025-04-19 18:42:59,597 - INFO - L\u01b0u file t\u1ea1m th\u1eddi t\u1ea1i: C:\Users\noname\AppData\Local\Temp\temp_merged.docx
+2025-04-19 18:42:59,663 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\noname\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-19 18:42:59,663 - INFO - Using writeable comtypes cache directory: 'C:\Users\noname\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-04-19 18:42:59,666 - INFO - \u0110ang s\u1eed d\u1ee5ng comtypes \u0111\u1ec3 chuy\u1ec3n \u0111\u1ed5i PDF
+2025-04-19 18:43:25,826 - INFO - Xu\u1ea5t PDF g\u1ed9p: C:/Users/noname/Downloads/0318379894_van ban uy quyen_2TV_thay doi dia chi_19042025_184250.pdf
+2025-04-19 18:43:37,807 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 2
+2025-04-19 18:43:37,807 - INFO - Doc paths: ['templates\\2TV_thay doi dia chi.docx']
+2025-04-19 18:43:38,244 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
+2025-04-19 18:43:38,769 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
+2025-04-19 18:43:38,801 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
