@@ -149,7 +149,7 @@ class ConfigManager:
         
         # Cập nhật danh sách trường
         self.app.update_field_dropdown()
-        
+        self.app.update_all_dropdowns()
         # Log thông tin
         logging.info(f"Đã tải cấu hình: {self.current_config_name}")
 

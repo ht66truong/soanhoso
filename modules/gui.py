@@ -275,6 +275,7 @@ class DataEntryApp:
 
     def load_selected_config(self, event):
         self.config_manager.load_selected_config(event)
+        self.initialize_dropdowns()  # Cập nhật dropdowns sau khi tải cấu hình mới
 
     def load_selected_entry(self, event):
         self.data_manager.load_selected_entry(event)
@@ -438,62 +439,6 @@ class DataEntryApp:
     def restore_from_backup(self):
         self.backup_manager.restore_from_backup()
 
-    def load_selected_entry(self, event):
-        """Tải dữ liệu được chọn từ dropdown hoặc tìm kiếm."""
-        selected_name = self.load_data_var.get()
-        
-        if not selected_name:
-            return
-            
-        # Lấy dữ liệu từ cơ sở dữ liệu - đảm bảo lấy entry mới nhất
-        entries = self.config_manager.db_manager.get_entries(
-            self.config_manager.current_config_name
-        )
-        
-        # Cập nhật saved_entries để đồng bộ với database
-        self.saved_entries = entries
-        
-        # Tìm entry tương ứng và điền dữ liệu
-        found = False
-        for entry in entries:
-            if entry["name"] == selected_name:
-                found = True
-                
-                # Xóa dữ liệu hiện tại
-                for field in self.entries:
-                    self.entries[field].delete(0, tk.END)
-                    
-                # Điền dữ liệu mới
-                for field, value in entry["data"].items():
-                    if field in self.entries:
-                        self.entries[field].delete(0, tk.END)
-                        self.entries[field].insert(0, value)
-                
-                # Tải dữ liệu thành viên
-                if hasattr(self, 'member_tree'):
-                    self.member_manager.load_member_data()
-                    
-                # Tải dữ liệu ngành nghề cho tất cả các tab ngành
-                if hasattr(self, 'industry_tree'):
-                    self.industry_manager.load_industry_data()
-                    
-                # Thêm các phương thức tải dữ liệu cho các tab khác
-                if hasattr(self, 'additional_industry_tree'):
-                    self.industry_manager.load_additional_industry_data()
-                    
-                if hasattr(self, 'removed_industry_tree'):
-                    self.industry_manager.load_removed_industry_data()
-                    
-                if hasattr(self, 'adjusted_industry_tree'):
-                    self.industry_manager.load_adjusted_industry_data()
-                
-                # Log và thông báo
-                logging.info(f"Đã tải dữ liệu: {selected_name}")
-                break
-                    
-        if not found:
-            messagebox.showwarning("Cảnh báo", f"Không tìm thấy dữ liệu cho '{selected_name}'")
-
     def update_field_dropdown(self):
         """Cập nhật danh sách trường trong dropdown dựa trên tab hiện tại."""
         if not self.notebook.tabs():  # Check if there are no tabs
@@ -505,6 +450,52 @@ class DataEntryApp:
         fields = self.field_groups.get(current_tab, [])
         self.field_dropdown["values"] = fields
         self.field_var.set(fields[0] if fields else "")
+        
+    def update_all_dropdowns(self):
+        """Cập nhật tất cả dropdown trong ứng dụng."""
+        # Cập nhật dropdown tìm kiếm
+        entries = self.saved_entries
+        if entries:
+            self.search_combobox["values"] = [entry["name"] for entry in entries]
+        else:
+            # Lấy dữ liệu từ cơ sở dữ liệu nếu saved_entries trống
+            if hasattr(self, 'config_manager') and self.config_manager.current_config_name:
+                entries = self.config_manager.db_manager.get_entries(
+                    self.config_manager.current_config_name
+                )
+                self.saved_entries = entries
+                self.search_combobox["values"] = [entry["name"] for entry in entries]
+        
+        # Cập nhật các dropdown khác trong ứng dụng
+        # Danh sách trường và tab
+        self.update_field_dropdown()
+        
+        # Cập nhật tab_dropdown nếu có
+        if hasattr(self, 'tab_dropdown'):
+            if self.notebook.tabs():
+                self.tab_dropdown["values"] = [self.notebook.tab(tab_id, "text") for tab_id in self.notebook.tabs()]
+                if self.tab_dropdown["values"]:
+                    self.tab_var.set(self.tab_dropdown["values"][0])
+        
+        logging.info("Đã cập nhật tất cả dropdown trong ứng dụng")
+
+    def initialize_dropdowns(self):
+        """Khởi tạo và tải dữ liệu cho tất cả các dropdown, không phụ thuộc vào tab."""
+        # Đảm bảo cơ sở dữ liệu được truy cập
+        if hasattr(self, 'config_manager') and self.config_manager.current_config_name:
+            # Tải tất cả dữ liệu từ cấu hình hiện tại
+            entries = self.config_manager.db_manager.get_entries(
+                self.config_manager.current_config_name
+            )
+            self.saved_entries = entries
+            
+            # Cập nhật dropdown tìm kiếm
+            self.search_combobox["values"] = [entry["name"] for entry in entries]
+            
+            # Cập nhật các dropdown khác
+            self.update_all_dropdowns()
+            
+            logging.info("Đã khởi tạo tất cả dropdown")
         
     def add_entry_context_menu(self, entry):
         """Thêm menu ngữ cảnh cho ô nhập liệu."""

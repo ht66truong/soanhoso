@@ -155,6 +155,7 @@ class DataManager:
             logging.info(f"Thêm dữ liệu '{selected_name}'")
         else:
             logging.info(f"Lưu dữ liệu '{selected_name}'")
+        
 
     def delete_entry_data(self):
         """Xóa bản ghi dữ liệu từ cơ sở dữ liệu."""
@@ -257,7 +258,67 @@ class DataManager:
         
         logging.info(f"Đã xóa thông tin trong tab '{current_tab}'")
 
-    
+    def load_selected_entry(self, event):
+        """Tải dữ liệu được chọn từ dropdown hoặc tìm kiếm."""
+        app = self.app
+        selected_name = app.load_data_var.get()
+        
+        if not selected_name:
+            return
+            
+        # Lấy dữ liệu từ cơ sở dữ liệu - đảm bảo lấy entry mới nhất
+        entries = app.config_manager.db_manager.get_entries(
+            app.config_manager.current_config_name
+        )
+        
+        # Cập nhật saved_entries để đồng bộ với database
+        app.saved_entries = entries
+        
+        # Tìm entry tương ứng và điền dữ liệu
+        found = False
+        for entry in entries:
+            if entry["name"] == selected_name:
+                found = True
+                
+                # Xóa dữ liệu hiện tại
+                for field in app.entries:
+                    app.entries[field].delete(0, tk.END)
+                    
+                # Điền dữ liệu mới
+                for field, value in entry["data"].items():
+                    if field in app.entries:
+                        app.entries[field].delete(0, tk.END)
+                        app.entries[field].insert(0, value)
+                
+                # Tải dữ liệu cho tất cả các loại tab (nếu tồn tại)
+                # Tải dữ liệu thành viên nếu có tab thành viên
+                if hasattr(app, 'member_tree'):
+                    app.member_manager.load_member_data()
+                    
+                # Tải dữ liệu ngành nghề nếu có tab ngành nghề
+                if hasattr(app, 'industry_tree'):
+                    app.industry_manager.load_industry_data()
+                    
+                # Tải dữ liệu cho các tab ngành nghề bổ sung
+                if hasattr(app, 'additional_industry_tree'):
+                    app.industry_manager.load_additional_industry_data()
+                    
+                if hasattr(app, 'removed_industry_tree'):
+                    app.industry_manager.load_removed_industry_data()
+                    
+                if hasattr(app, 'adjusted_industry_tree'):
+                    app.industry_manager.load_adjusted_industry_data()
+                
+                # Luôn cập nhật dropdown và danh sách tìm kiếm bất kể tab nào tồn tại
+                app.update_search_suggestions(None)
+                app.update_all_dropdowns()  # Thêm dòng này
+                
+                # Log và thông báo
+                logging.info(f"Đã tải dữ liệu: {selected_name}")
+                break
+                    
+        if not found:
+            messagebox.showwarning("Cảnh báo", f"Không tìm thấy dữ liệu cho '{selected_name}'")
 
     def add_entry_data_from_import(self, entry_data):
         """Thêm dữ liệu từ file Excel vào danh sách."""
