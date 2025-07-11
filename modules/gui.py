@@ -575,9 +575,10 @@ class DataEntryApp:
                         self.member_tree.insert(
                             "", "end", values=(
                                 member.get("ho_ten", ""),
-                                member.get("gioi_tinh", ""),
-                                member.get("ngay_sinh", ""),
-                                member.get("chuc_danh", "")
+                                member.get("so_cccd", ""),
+                                member.get("von_gop", ""),
+                                member.get("ty_le_gop", ""),
+                                member.get("la_chu_tich", "")
                             )
                         )
 
