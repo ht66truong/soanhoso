@@ -1,588 +1,184 @@
-2025-04-09 23:12:51,210 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-09 23:12:51,214 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-09 23:12:51,214 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-09 23:12:51,611 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
-2025-04-09 23:30:03,043 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-09 23:30:03,047 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-09 23:30:03,047 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-09 23:30:03,508 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
-2025-04-09 23:31:01,046 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-09 23:31:01,049 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-09 23:31:01,049 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-09 23:31:01,494 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
-2025-04-10 11:44:39,735 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-10 11:44:39,754 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-10 11:44:39,754 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-10 11:44:40,364 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
-2025-04-10 11:47:21,416 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-10 11:47:21,419 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-10 11:47:21,419 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-10 11:47:21,814 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
-2025-04-10 11:48:38,566 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-10 11:48:38,568 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-10 11:48:38,569 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-10 11:48:38,905 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
-2025-04-10 11:48:52,958 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
-2025-04-10 11:49:19,474 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-10 11:49:19,477 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-10 11:49:19,477 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-10 11:49:19,857 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
-2025-04-10 11:49:22,884 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
-2025-04-10 11:51:38,260 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-10 11:51:38,262 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-10 11:51:38,262 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-10 11:51:38,633 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
-2025-04-10 11:53:00,945 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-10 11:53:00,948 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-10 11:53:00,948 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-10 11:53:01,309 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
-2025-04-10 11:53:57,952 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-10 11:53:57,956 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-10 11:53:57,956 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-10 11:53:58,302 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
-2025-04-10 11:54:11,688 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
-2025-04-10 11:57:21,181 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-10 11:57:21,184 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-10 11:57:21,185 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-10 11:57:21,619 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
-2025-04-10 11:58:26,803 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
-2025-04-10 11:59:40,564 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-10 11:59:40,567 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-10 11:59:40,567 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-10 11:59:40,925 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
-2025-04-10 12:01:02,466 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-10 12:01:02,470 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-10 12:01:02,470 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-10 12:01:02,831 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
-2025-04-10 12:01:40,697 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-10 12:01:40,700 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-10 12:01:40,701 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-10 12:01:41,071 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
-2025-04-10 12:02:40,150 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-10 12:02:40,154 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-10 12:02:40,154 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-10 12:02:40,606 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
-2025-04-10 12:03:14,652 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-10 12:03:14,655 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-10 12:03:14,656 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-10 12:03:14,961 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
-2025-04-10 12:13:14,981 - INFO - \u0110ã t\u1ea1o b\u1ea3n sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250410_121314.db
-2025-04-10 12:13:14,986 - INFO - \u0110ã xóa b\u1ea3n sao l\u01b0u c\u0169: backup\backup_20250409_211441.db
-2025-04-10 12:23:15,000 - INFO - \u0110ã t\u1ea1o b\u1ea3n sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250410_122314.db
-2025-04-10 12:23:15,002 - INFO - \u0110ã xóa b\u1ea3n sao l\u01b0u c\u0169: backup\backup_20250409_212441.db
-2025-04-10 12:33:15,021 - INFO - \u0110ã t\u1ea1o b\u1ea3n sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250410_123315.db
-2025-04-10 12:33:15,023 - INFO - \u0110ã xóa b\u1ea3n sao l\u01b0u c\u0169: backup\backup_20250409_213441.db
-2025-04-10 12:43:15,039 - INFO - \u0110ã t\u1ea1o b\u1ea3n sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250410_124315.db
-2025-04-10 12:43:15,041 - INFO - \u0110ã xóa b\u1ea3n sao l\u01b0u c\u0169: backup\backup_20250409_214441.db
-2025-04-10 12:53:15,059 - INFO - \u0110ã t\u1ea1o b\u1ea3n sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250410_125315.db
-2025-04-10 12:53:15,061 - INFO - \u0110ã xóa b\u1ea3n sao l\u01b0u c\u0169: backup\backup_20250409_215442.db
-2025-04-10 13:03:15,086 - INFO - \u0110ã t\u1ea1o b\u1ea3n sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250410_130315.db
-2025-04-10 13:03:15,088 - INFO - \u0110ã xóa b\u1ea3n sao l\u01b0u c\u0169: backup\backup_20250409_220442.db
-2025-04-10 13:13:15,107 - INFO - \u0110ã t\u1ea1o b\u1ea3n sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250410_131315.db
-2025-04-10 13:13:15,109 - INFO - \u0110ã xóa b\u1ea3n sao l\u01b0u c\u0169: backup\backup_20250409_221442.db
-2025-04-10 13:23:15,122 - INFO - \u0110ã t\u1ea1o b\u1ea3n sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250410_132315.db
-2025-04-10 13:23:15,124 - INFO - \u0110ã xóa b\u1ea3n sao l\u01b0u c\u0169: backup\backup_20250409_222442.db
-2025-04-10 13:33:15,149 - INFO - \u0110ã t\u1ea1o b\u1ea3n sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250410_133315.db
-2025-04-10 13:33:15,151 - INFO - \u0110ã xóa b\u1ea3n sao l\u01b0u c\u0169: backup\backup_20250409_223442.db
-2025-04-10 13:43:15,168 - INFO - \u0110ã t\u1ea1o b\u1ea3n sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250410_134315.db
-2025-04-10 13:43:15,170 - INFO - \u0110ã xóa b\u1ea3n sao l\u01b0u c\u0169: backup\backup_20250409_225916.db
-2025-04-10 13:53:15,196 - INFO - \u0110ã t\u1ea1o b\u1ea3n sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250410_135315.db
-2025-04-10 13:53:15,198 - INFO - \u0110ã xóa b\u1ea3n sao l\u01b0u c\u0169: backup\backup_20250410_121314.db
-2025-04-10 14:03:15,223 - INFO - \u0110ã t\u1ea1o b\u1ea3n sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250410_140315.db
-2025-04-10 14:03:15,225 - INFO - \u0110ã xóa b\u1ea3n sao l\u01b0u c\u0169: backup\backup_20250410_122314.db
-2025-04-10 14:13:15,247 - INFO - \u0110ã t\u1ea1o b\u1ea3n sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250410_141315.db
-2025-04-10 14:13:15,249 - INFO - \u0110ã xóa b\u1ea3n sao l\u01b0u c\u0169: backup\backup_20250410_123315.db
-2025-04-10 14:23:15,270 - INFO - \u0110ã t\u1ea1o b\u1ea3n sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250410_142315.db
-2025-04-10 14:23:15,272 - INFO - \u0110ã xóa b\u1ea3n sao l\u01b0u c\u0169: backup\backup_20250410_124315.db
-2025-04-10 14:33:15,292 - INFO - \u0110ã t\u1ea1o b\u1ea3n sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250410_143315.db
-2025-04-10 14:33:15,294 - INFO - \u0110ã xóa b\u1ea3n sao l\u01b0u c\u0169: backup\backup_20250410_125315.db
-2025-04-10 14:43:15,318 - INFO - \u0110ã t\u1ea1o b\u1ea3n sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250410_144315.db
-2025-04-10 14:43:15,321 - INFO - \u0110ã xóa b\u1ea3n sao l\u01b0u c\u0169: backup\backup_20250410_130315.db
-2025-04-10 14:53:15,339 - INFO - \u0110ã t\u1ea1o b\u1ea3n sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250410_145315.db
-2025-04-10 14:53:15,341 - INFO - \u0110ã xóa b\u1ea3n sao l\u01b0u c\u0169: backup\backup_20250410_131315.db
-2025-04-10 15:03:15,361 - INFO - \u0110ã t\u1ea1o b\u1ea3n sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250410_150315.db
-2025-04-10 15:03:15,363 - INFO - \u0110ã xóa b\u1ea3n sao l\u01b0u c\u0169: backup\backup_20250410_132315.db
-2025-04-10 15:13:15,387 - INFO - \u0110ã t\u1ea1o b\u1ea3n sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250410_151315.db
-2025-04-10 15:13:15,389 - INFO - \u0110ã xóa b\u1ea3n sao l\u01b0u c\u0169: backup\backup_20250410_133315.db
-2025-04-10 15:23:15,404 - INFO - \u0110ã t\u1ea1o b\u1ea3n sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250410_152315.db
-2025-04-10 15:23:15,406 - INFO - \u0110ã xóa b\u1ea3n sao l\u01b0u c\u0169: backup\backup_20250410_134315.db
-2025-04-10 15:33:15,426 - INFO - \u0110ã t\u1ea1o b\u1ea3n sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250410_153315.db
-2025-04-10 15:33:15,428 - INFO - \u0110ã xóa b\u1ea3n sao l\u01b0u c\u0169: backup\backup_20250410_135315.db
-2025-04-10 15:43:15,453 - INFO - \u0110ã t\u1ea1o b\u1ea3n sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250410_154315.db
-2025-04-10 15:43:15,455 - INFO - \u0110ã xóa b\u1ea3n sao l\u01b0u c\u0169: backup\backup_20250410_140315.db
-2025-04-10 15:53:15,480 - INFO - \u0110ã t\u1ea1o b\u1ea3n sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250410_155315.db
-2025-04-10 15:53:15,483 - INFO - \u0110ã xóa b\u1ea3n sao l\u01b0u c\u0169: backup\backup_20250410_141315.db
-2025-04-10 16:03:15,496 - INFO - \u0110ã t\u1ea1o b\u1ea3n sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250410_160315.db
-2025-04-10 16:03:15,499 - INFO - \u0110ã xóa b\u1ea3n sao l\u01b0u c\u0169: backup\backup_20250410_142315.db
-2025-04-10 16:13:15,516 - INFO - \u0110ã t\u1ea1o b\u1ea3n sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250410_161315.db
-2025-04-10 16:13:15,518 - INFO - \u0110ã xóa b\u1ea3n sao l\u01b0u c\u0169: backup\backup_20250410_143315.db
-2025-04-10 16:23:15,534 - INFO - \u0110ã t\u1ea1o b\u1ea3n sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250410_162315.db
-2025-04-10 16:23:15,536 - INFO - \u0110ã xóa b\u1ea3n sao l\u01b0u c\u0169: backup\backup_20250410_144315.db
-2025-04-10 16:33:15,556 - INFO - \u0110ã t\u1ea1o b\u1ea3n sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250410_163315.db
-2025-04-10 16:33:15,559 - INFO - \u0110ã xóa b\u1ea3n sao l\u01b0u c\u0169: backup\backup_20250410_145315.db
-2025-04-10 16:43:15,576 - INFO - \u0110ã t\u1ea1o b\u1ea3n sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250410_164315.db
-2025-04-10 16:43:15,578 - INFO - \u0110ã xóa b\u1ea3n sao l\u01b0u c\u0169: backup\backup_20250410_150315.db
-2025-04-10 16:53:15,599 - INFO - \u0110ã t\u1ea1o b\u1ea3n sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250410_165315.db
-2025-04-10 16:53:15,601 - INFO - \u0110ã xóa b\u1ea3n sao l\u01b0u c\u0169: backup\backup_20250410_151315.db
-2025-04-10 17:03:15,633 - INFO - \u0110ã t\u1ea1o b\u1ea3n sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250410_170315.db
-2025-04-10 17:03:15,636 - INFO - \u0110ã xóa b\u1ea3n sao l\u01b0u c\u0169: backup\backup_20250410_152315.db
-2025-04-10 17:13:15,656 - INFO - \u0110ã t\u1ea1o b\u1ea3n sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250410_171315.db
-2025-04-10 17:13:15,658 - INFO - \u0110ã xóa b\u1ea3n sao l\u01b0u c\u0169: backup\backup_20250410_153315.db
-2025-04-10 17:23:15,675 - INFO - \u0110ã t\u1ea1o b\u1ea3n sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250410_172315.db
-2025-04-10 17:23:15,677 - INFO - \u0110ã xóa b\u1ea3n sao l\u01b0u c\u0169: backup\backup_20250410_154315.db
-2025-04-10 17:33:15,694 - INFO - \u0110ã t\u1ea1o b\u1ea3n sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250410_173315.db
-2025-04-10 17:33:15,696 - INFO - \u0110ã xóa b\u1ea3n sao l\u01b0u c\u0169: backup\backup_20250410_155315.db
-2025-04-10 19:50:09,846 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-10 19:50:09,849 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-10 19:50:09,849 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-10 19:50:10,197 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
-2025-04-10 19:50:37,878 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
-2025-04-10 19:50:42,441 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
-2025-04-10 21:50:14,217 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-10 21:50:14,220 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-10 21:50:14,221 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-10 21:50:14,667 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
-2025-04-10 21:50:21,183 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
-2025-04-10 21:50:23,251 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
-2025-04-10 21:50:37,499 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
-2025-04-10 21:50:57,026 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
-2025-04-10 21:50:58,566 - INFO - Thêm tab 'tab m\u1edbi'
-2025-04-10 21:53:52,915 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-10 21:53:52,919 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-10 21:53:52,921 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-10 21:53:53,479 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
-2025-04-10 21:54:15,778 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-10 21:54:15,781 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-10 21:54:15,781 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-10 21:54:16,223 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
-2025-04-10 21:58:28,436 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-10 21:58:28,439 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-10 21:58:28,440 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-10 21:58:28,951 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
-2025-04-10 21:59:10,904 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
-2025-04-10 21:59:12,685 - INFO - \u0110\u1ed5i tên tab t\u1eeb 'tab m\u1edbi' thành 'tab m\u1edbi 1'
-2025-04-10 21:59:18,518 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
-2025-04-10 21:59:19,921 - INFO - Xóa tab 'tab m\u1edbi 1'
-2025-04-10 21:59:42,418 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
-2025-04-10 21:59:43,929 - INFO - Thêm tab 'tab'
-2025-04-10 21:59:52,661 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
-2025-04-10 21:59:54,075 - INFO - Xóa tab 'tab'
-2025-04-10 22:01:43,161 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
-2025-04-10 22:01:43,312 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
-2025-04-10 22:01:43,312 - INFO - Xóa tr\u01b0\u1eddng 'v\u1ed1n_\u0111i\u1ec1u_l\u1ec7_m\u1edbi' kh\u1ecfi tab 'Thông tin công ty m\u1edbi'
-2025-04-10 22:08:18,821 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
-2025-04-10 22:08:28,975 - INFO - \u0110ã t\u1ea1o b\u1ea3n sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250410_220828.db
-2025-04-10 22:08:28,977 - INFO - \u0110ã xóa b\u1ea3n sao l\u01b0u c\u0169: backup\backup_20250410_160315.db
-2025-04-10 22:12:03,304 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-10 22:12:03,307 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-10 22:12:03,307 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-10 22:12:03,754 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
-2025-04-10 22:16:16,102 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-10 22:16:16,105 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-10 22:16:16,106 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-10 22:16:48,687 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-10 22:16:48,690 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-10 22:16:48,690 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-10 22:18:51,617 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-10 22:18:51,620 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-10 22:18:51,620 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-10 22:18:52,081 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
-2025-04-10 22:20:26,026 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-10 22:20:26,029 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-10 22:20:26,029 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-10 22:20:26,481 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
-2025-04-10 22:22:35,261 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-10 22:22:35,264 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-10 22:22:35,265 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-10 22:22:35,702 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
-2025-04-10 22:24:19,669 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-10 22:24:19,672 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-10 22:24:19,673 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-10 22:24:20,123 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
-2025-04-10 22:25:32,840 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-10 22:25:32,843 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-10 22:25:32,843 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-10 22:25:33,303 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
-2025-04-10 22:27:55,789 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-10 22:27:55,792 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-10 22:27:55,793 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-10 22:27:56,260 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
-2025-04-10 22:29:45,623 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
-2025-04-10 22:29:45,776 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
-2025-04-10 22:29:45,777 - INFO - Thêm tr\u01b0\u1eddng 'tên_doanh_nghi\u1ec7p_m\u1edbi' vào tab 'Thông tin công ty m\u1edbi'
-2025-04-10 22:48:07,345 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-10 22:48:07,348 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-10 22:48:07,349 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-10 22:48:07,803 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
-2025-04-10 22:55:33,768 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-10 22:55:33,773 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-10 22:55:33,773 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-10 22:55:34,161 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
-2025-04-10 22:55:59,117 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
-2025-04-10 22:55:59,255 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
-2025-04-10 22:55:59,255 - INFO - Xóa tr\u01b0\u1eddng 'tên_doanh_nghi\u1ec7p' kh\u1ecfi tab 'Thông tin công ty'
-2025-04-10 22:56:19,683 - INFO - \u0110ã t\u1ea1o b\u1ea3n sao l\u01b0u tr\u01b0\u1edbc khi khôi ph\u1ee5c: backup\pre_restore_20250410_225619.db
-2025-04-10 22:56:19,717 - INFO - \u0110ã khôi ph\u1ee5c database t\u1eeb: backup\backup_20250410_220828.db
-2025-04-10 22:56:23,690 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-10 22:56:23,693 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-10 22:56:23,693 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-10 22:56:24,052 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
-2025-04-10 22:57:36,009 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-10 22:57:36,012 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-10 22:57:36,012 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-10 22:57:36,418 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
-2025-04-10 22:58:12,905 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-10 22:58:12,908 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-10 22:58:12,909 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-10 22:58:13,329 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
-2025-04-10 22:58:45,908 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-10 22:58:45,911 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-10 22:58:45,912 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-10 22:58:46,338 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
-2025-04-10 22:59:13,043 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-10 22:59:13,046 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-10 22:59:13,047 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-10 22:59:13,478 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
-2025-04-10 23:00:05,550 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-10 23:00:05,553 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-10 23:00:05,553 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-10 23:00:05,967 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
-2025-04-10 23:03:05,527 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-10 23:03:05,530 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-10 23:03:05,531 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-10 23:03:05,949 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
-2025-04-10 23:03:36,170 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-10 23:03:36,173 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-10 23:03:36,173 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-10 23:03:36,575 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
-2025-04-10 23:06:34,056 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-10 23:06:34,059 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-10 23:06:34,060 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-10 23:06:34,476 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
-2025-04-10 23:08:25,463 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-10 23:08:25,466 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-10 23:08:25,466 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-10 23:08:25,853 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
-2025-04-10 23:09:45,166 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-10 23:09:45,169 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-10 23:09:45,169 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-10 23:09:45,562 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
-2025-04-10 23:10:53,961 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-10 23:10:53,967 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-10 23:10:53,968 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-10 23:10:54,406 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
-2025-04-10 23:11:02,301 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: T\u1ea1m ng\u01b0ng - Gi\u1ea3i th\u1ec3
-2025-04-10 23:11:47,660 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-10 23:11:47,663 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-10 23:11:47,664 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-10 23:11:48,003 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
-2025-04-10 23:11:52,238 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
-2025-04-10 23:11:57,068 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
-2025-04-10 23:11:58,502 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
-2025-04-16 23:47:48,806 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-16 23:47:48,835 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-16 23:47:48,835 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-16 23:47:50,444 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
-2025-04-16 23:48:03,622 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Phi\u1ebfu thu
-2025-04-16 23:48:06,920 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
-2025-04-19 13:40:58,252 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-19 13:40:58,269 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-19 13:40:58,270 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-19 13:40:59,003 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
-2025-04-19 13:41:31,031 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
-2025-04-19 13:41:32,171 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
-2025-04-19 13:43:41,947 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-19 13:43:41,950 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-19 13:43:41,951 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-19 13:43:42,829 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
-2025-04-19 13:43:46,622 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
-2025-04-19 13:44:18,762 - INFO - Xu\u1ea5t 1 file PDF riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/output_20250419_134357
-2025-04-19 14:47:45,092 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-19 14:47:45,112 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-19 14:47:45,112 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-19 14:47:46,467 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
-2025-04-19 14:47:50,902 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
-2025-04-19 14:48:03,370 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 1
-2025-04-19 14:48:03,370 - INFO - Doc paths: ['templates\\1TV-tang von dieu le.docx', 'templates\\van ban uy quyen.docx']
-2025-04-19 14:48:03,643 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
-2025-04-19 14:48:03,987 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
-2025-04-19 14:48:04,184 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_1.docx
-2025-04-19 14:48:04,278 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_1.docx
-2025-04-19 14:48:04,376 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t g\u1ed9p
-2025-04-19 14:48:14,615 - INFO - Xu\u1ea5t PDF g\u1ed9p: C:/Users/noname/Downloads/output_20250419_144800.pdf
-2025-04-19 14:49:18,468 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-19 14:49:18,471 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-19 14:49:18,472 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-19 14:49:18,998 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
-2025-04-19 14:49:46,110 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
-2025-04-19 14:50:26,089 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 2
-2025-04-19 14:50:26,089 - INFO - Doc paths: ['templates\\van ban uy quyen.docx', 'templates\\2TV_thay doi dia chi.docx']
-2025-04-19 14:50:26,328 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
-2025-04-19 14:50:26,419 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
-2025-04-19 14:50:27,051 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_1.docx
-2025-04-19 14:50:27,602 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_1.docx
-2025-04-19 14:50:27,995 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t g\u1ed9p
-2025-04-19 14:50:40,949 - INFO - Xu\u1ea5t PDF g\u1ed9p: C:/Users/noname/Downloads/output_20250419_145023.pdf
-2025-04-19 14:55:43,602 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-19 14:55:43,605 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-19 14:55:43,606 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-19 14:55:44,045 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
-2025-04-19 14:56:15,148 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
-2025-04-19 14:56:28,714 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 2
-2025-04-19 14:56:28,714 - INFO - Doc paths: ['templates\\van ban uy quyen.docx', 'templates\\2TV_thay doi dia chi.docx']
-2025-04-19 14:56:28,856 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
-2025-04-19 14:56:28,941 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
-2025-04-19 14:56:29,504 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_1.docx
-2025-04-19 14:56:30,117 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_1.docx
-2025-04-19 14:56:30,346 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t g\u1ed9p
-2025-04-19 14:56:43,447 - INFO - Xu\u1ea5t PDF g\u1ed9p: C:/Users/noname/Downloads/output_20250419_145625.pdf
-2025-04-19 18:34:06,186 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-19 18:34:06,212 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-19 18:34:06,212 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-19 18:34:07,141 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
-2025-04-19 18:34:11,077 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
-2025-04-19 18:34:28,971 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 2
-2025-04-19 18:34:28,971 - INFO - Doc paths: ['templates\\van ban uy quyen.docx', 'templates\\2TV_thay doi dia chi.docx']
-2025-04-19 18:34:29,128 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
-2025-04-19 18:34:29,217 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
-2025-04-19 18:34:29,921 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_1.docx
-2025-04-19 18:34:30,476 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_1.docx
-2025-04-19 18:34:30,860 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t g\u1ed9p
-2025-04-19 18:34:30,869 - INFO - L\u01b0u file t\u1ea1m th\u1eddi t\u1ea1i: C:\Users\noname\AppData\Local\Temp\temp_merged.docx
-2025-04-19 18:34:30,895 - ERROR - L\u1ed7i khi chuy\u1ec3n \u0111\u1ed5i b\u1eb1ng comtypes: No module named 'comtypes'
-2025-04-19 18:36:57,860 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-19 18:36:57,863 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-19 18:36:57,863 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-19 18:36:58,395 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
-2025-04-19 18:37:02,002 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
-2025-04-19 18:37:12,909 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 2
-2025-04-19 18:37:12,909 - INFO - Doc paths: ['templates\\van ban uy quyen.docx', 'templates\\2TV_thay doi dia chi.docx']
-2025-04-19 18:37:13,078 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
-2025-04-19 18:37:13,178 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
-2025-04-19 18:37:13,659 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_1.docx
-2025-04-19 18:37:14,200 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_1.docx
-2025-04-19 18:37:14,418 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t g\u1ed9p
-2025-04-19 18:37:14,420 - INFO - L\u01b0u file t\u1ea1m th\u1eddi t\u1ea1i: C:\Users\noname\AppData\Local\Temp\temp_merged.docx
-2025-04-19 18:37:14,483 - INFO - Could not import comtypes.gen, trying to create it.
-2025-04-19 18:37:14,483 - INFO - Created comtypes.gen directory: 'C:\Users\noname\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
-2025-04-19 18:37:14,484 - INFO - Writing __init__.py file: 'C:\Users\noname\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen\__init__.py'
-2025-04-19 18:37:14,498 - INFO - Using writeable comtypes cache directory: 'C:\Users\noname\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
-2025-04-19 18:37:14,501 - INFO - \u0110ang s\u1eed d\u1ee5ng comtypes \u0111\u1ec3 chuy\u1ec3n \u0111\u1ed5i PDF
-2025-04-19 18:37:17,063 - INFO - Could not import comtypes.gen._00020905_0000_0000_C000_000000000046_0_8_7: No module named 'comtypes.gen._00020905_0000_0000_C000_000000000046_0_8_7'
-2025-04-19 18:37:17,070 - INFO - # Generating comtypes.gen._00020905_0000_0000_C000_000000000046_0_8_7
-2025-04-19 18:37:52,770 - INFO - # Generating comtypes.gen.Word
-2025-04-19 18:37:52,829 - INFO - Could not import comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0: No module named 'comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0'
-2025-04-19 18:37:52,831 - INFO - # Generating comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0
-2025-04-19 18:37:53,268 - INFO - # Generating comtypes.gen.stdole
-2025-04-19 18:37:53,327 - INFO - Could not import comtypes.gen._2DF8D04C_5BFA_101B_BDE5_00AA0044DE52_0_2_8: No module named 'comtypes.gen._2DF8D04C_5BFA_101B_BDE5_00AA0044DE52_0_2_8'
-2025-04-19 18:37:53,330 - INFO - # Generating comtypes.gen._2DF8D04C_5BFA_101B_BDE5_00AA0044DE52_0_2_8
-2025-04-19 18:38:12,628 - INFO - # Generating comtypes.gen.Office
-2025-04-19 18:38:13,775 - INFO - Could not import comtypes.gen._0002E157_0000_0000_C000_000000000046_0_5_3: No module named 'comtypes.gen._0002E157_0000_0000_C000_000000000046_0_5_3'
-2025-04-19 18:38:13,778 - INFO - # Generating comtypes.gen._0002E157_0000_0000_C000_000000000046_0_5_3
-2025-04-19 18:38:25,518 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-19 18:38:25,521 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-19 18:38:25,522 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-19 18:38:25,953 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
-2025-04-19 18:38:28,452 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Phi\u1ebfu thu
-2025-04-19 18:38:29,946 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
-2025-04-19 18:38:44,518 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 2
-2025-04-19 18:38:44,518 - INFO - Doc paths: ['templates\\van ban uy quyen.docx', 'templates\\2TV_thay doi dia chi.docx']
-2025-04-19 18:38:44,705 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
-2025-04-19 18:38:44,799 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
-2025-04-19 18:38:45,268 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_1.docx
-2025-04-19 18:38:45,807 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_1.docx
-2025-04-19 18:38:46,023 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t g\u1ed9p
-2025-04-19 18:38:46,026 - INFO - L\u01b0u file t\u1ea1m th\u1eddi t\u1ea1i: C:\Users\noname\AppData\Local\Temp\temp_merged.docx
-2025-04-19 18:38:46,088 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\noname\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
-2025-04-19 18:38:46,088 - INFO - Using writeable comtypes cache directory: 'C:\Users\noname\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
-2025-04-19 18:38:46,091 - INFO - \u0110ang s\u1eed d\u1ee5ng comtypes \u0111\u1ec3 chuy\u1ec3n \u0111\u1ed5i PDF
-2025-04-19 18:38:48,431 - INFO - Could not import comtypes.gen._00020905_0000_0000_C000_000000000046_0_8_7: No module named 'comtypes.gen._00020905_0000_0000_C000_000000000046_0_8_7'
-2025-04-19 18:38:48,439 - INFO - # Generating comtypes.gen._00020905_0000_0000_C000_000000000046_0_8_7
-2025-04-19 18:39:12,573 - INFO - # Generating comtypes.gen.Word
-2025-04-19 18:39:12,960 - INFO - Could not import comtypes.gen._0002E157_0000_0000_C000_000000000046_0_5_3: No module named 'comtypes.gen._0002E157_0000_0000_C000_000000000046_0_5_3'
-2025-04-19 18:39:12,962 - INFO - # Generating comtypes.gen._0002E157_0000_0000_C000_000000000046_0_5_3
-2025-04-19 18:39:13,957 - INFO - # Generating comtypes.gen.VBIDE
-2025-04-19 18:39:36,122 - INFO - Xu\u1ea5t PDF g\u1ed9p: C:/Users/noname/Downloads/output_20250419_183841.pdf
-2025-04-19 18:42:38,417 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-19 18:42:38,420 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-19 18:42:38,420 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-19 18:42:38,906 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
-2025-04-19 18:42:41,325 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
-2025-04-19 18:42:58,002 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 2
-2025-04-19 18:42:58,002 - INFO - Doc paths: ['templates\\van ban uy quyen.docx', 'templates\\2TV_thay doi dia chi.docx']
-2025-04-19 18:42:58,160 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
-2025-04-19 18:42:58,246 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
-2025-04-19 18:42:58,757 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_1.docx
-2025-04-19 18:42:59,367 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_1.docx
-2025-04-19 18:42:59,589 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t g\u1ed9p
-2025-04-19 18:42:59,597 - INFO - L\u01b0u file t\u1ea1m th\u1eddi t\u1ea1i: C:\Users\noname\AppData\Local\Temp\temp_merged.docx
-2025-04-19 18:42:59,663 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\noname\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
-2025-04-19 18:42:59,663 - INFO - Using writeable comtypes cache directory: 'C:\Users\noname\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
-2025-04-19 18:42:59,666 - INFO - \u0110ang s\u1eed d\u1ee5ng comtypes \u0111\u1ec3 chuy\u1ec3n \u0111\u1ed5i PDF
-2025-04-19 18:43:25,826 - INFO - Xu\u1ea5t PDF g\u1ed9p: C:/Users/noname/Downloads/0318379894_van ban uy quyen_2TV_thay doi dia chi_19042025_184250.pdf
-2025-04-19 18:43:37,807 - INFO - D\u1eef li\u1ec7u \u0111\u1ea7u vào - Industries: 0, Members: 2
-2025-04-19 18:43:37,807 - INFO - Doc paths: ['templates\\2TV_thay doi dia chi.docx']
-2025-04-19 18:43:38,244 - INFO - \u0110ã l\u01b0u file t\u1ea1m th\u1eddi: temp_0.docx
-2025-04-19 18:43:38,769 - INFO - \u0110ã c\u1eadp nh\u1eadt file t\u1ea1m th\u1eddi v\u1edbi các placeholder còn l\u1ea1i: temp_0.docx
-2025-04-19 18:43:38,801 - INFO - Hoàn t\u1ea5t ch\u1ebf \u0111\u1ed9 xu\u1ea5t riêng l\u1ebb
-2025-04-21 23:18:41,140 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-21 23:18:41,158 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-21 23:18:41,159 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-21 23:18:41,715 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
-2025-04-21 23:18:44,816 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Phi\u1ebfu thu
-2025-04-21 23:23:54,321 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-21 23:23:54,324 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-21 23:23:54,324 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-21 23:23:54,681 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
-2025-04-21 23:23:57,326 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Phi\u1ebfu thu
-2025-04-21 23:24:04,595 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
-2025-04-21 23:24:06,957 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Phi\u1ebfu thu
-2025-04-21 23:25:32,721 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-21 23:25:32,724 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-21 23:25:32,724 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-21 23:25:33,124 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
-2025-04-21 23:32:39,275 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-21 23:32:39,278 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-21 23:32:39,279 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-21 23:32:39,689 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
-2025-04-21 23:32:39,690 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
-2025-04-21 23:32:43,646 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
-2025-04-21 23:32:43,647 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Phi\u1ebfu thu
-2025-04-21 23:37:02,386 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-21 23:37:02,390 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-21 23:37:02,391 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-21 23:37:02,787 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
-2025-04-21 23:37:02,788 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
-2025-04-21 23:37:08,840 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
-2025-04-21 23:37:08,841 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Phi\u1ebfu thu
-2025-04-21 23:37:17,340 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
-2025-04-21 23:37:17,341 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: T\u1ea1m ng\u01b0ng - Gi\u1ea3i th\u1ec3
-2025-04-21 23:37:21,919 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
-2025-04-21 23:37:21,920 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
-2025-04-21 23:37:26,717 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
-2025-04-21 23:37:26,718 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
-2025-04-21 23:37:39,095 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
-2025-04-21 23:37:39,096 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
-2025-04-21 23:39:14,849 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-21 23:39:14,852 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-21 23:39:14,852 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-21 23:39:15,349 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
-2025-04-21 23:39:15,349 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
-2025-04-21 23:39:19,282 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
-2025-04-21 23:39:19,282 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: H\u1ee3p \u0111\u1ed3ng
-2025-04-21 23:41:35,449 - INFO - Xu\u1ea5t 1 file PDF riêng l\u1ebb t\u1eeb C:/Users/noname/Downloads/0315623079_H\u1ee2P \u0110\u1ed2NG T\u01af V\u1ea4N QU\u1ea2N LÝ DOANH NGHI\u1ec6P_21042025_233955
-2025-04-21 23:41:40,862 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
-2025-04-21 23:41:40,863 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
-2025-04-21 23:41:44,397 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
-2025-04-21 23:41:44,398 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Phi\u1ebfu thu
-2025-04-21 23:42:17,006 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
-2025-04-21 23:42:18,366 - INFO - Xóa tab 'Thông tin thành viên'
-2025-04-21 23:42:27,004 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
-2025-04-21 23:42:27,004 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: H\u1ee3p \u0111\u1ed3ng
-2025-04-21 23:45:20,810 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-21 23:45:20,813 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-21 23:45:20,813 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-21 23:45:21,219 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
-2025-04-21 23:45:21,219 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
-2025-04-21 23:45:26,850 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
-2025-04-21 23:45:26,850 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Phi\u1ebfu thu
-2025-04-21 23:45:31,981 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
-2025-04-21 23:45:31,982 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: H\u1ee3p \u0111\u1ed3ng
-2025-04-21 23:45:42,366 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
-2025-04-21 23:45:42,366 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: T\u1ea1m ng\u01b0ng - Gi\u1ea3i th\u1ec3
-2025-04-21 23:45:44,814 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
-2025-04-21 23:45:44,815 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Phi\u1ebfu thu
-2025-04-21 23:47:59,719 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-21 23:47:59,722 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-21 23:47:59,722 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-21 23:48:00,180 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
-2025-04-21 23:48:02,568 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: H\u1ee3p \u0111\u1ed3ng
-2025-04-21 23:48:05,335 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Phi\u1ebfu thu
-2025-04-21 23:48:24,323 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-21 23:48:24,326 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-21 23:48:24,326 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-21 23:48:24,718 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
-2025-04-21 23:48:24,718 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
-2025-04-21 23:48:26,781 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
-2025-04-21 23:48:26,781 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Phi\u1ebfu thu
-2025-04-21 23:48:30,155 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
-2025-04-21 23:48:30,156 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: H\u1ee3p \u0111\u1ed3ng
-2025-04-21 23:48:33,713 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
-2025-04-21 23:48:33,714 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: H\u1ee3p \u0111\u1ed3ng
-2025-04-21 23:48:38,902 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
-2025-04-21 23:48:38,902 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Phi\u1ebfu thu
-2025-04-21 23:49:41,622 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-21 23:49:41,625 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-21 23:49:41,625 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-21 23:49:42,080 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
-2025-04-21 23:49:42,081 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
-2025-04-21 23:54:11,648 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-21 23:54:11,651 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-21 23:54:11,651 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-21 23:55:23,434 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-21 23:55:23,437 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-21 23:55:23,437 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-21 23:55:23,787 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
-2025-04-21 23:55:23,787 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
-2025-04-21 23:55:31,350 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
-2025-04-21 23:55:31,351 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: H\u1ee3p \u0111\u1ed3ng
-2025-04-21 23:55:33,959 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
-2025-04-21 23:55:33,960 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Phi\u1ebfu thu
-2025-04-21 23:56:48,859 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-21 23:56:48,862 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-21 23:56:48,862 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-21 23:56:49,256 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
-2025-04-21 23:56:49,257 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
-2025-04-21 23:57:10,364 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
-2025-04-21 23:57:10,364 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: H\u1ee3p \u0111\u1ed3ng
-2025-04-21 23:57:12,456 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
-2025-04-21 23:57:12,457 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Phi\u1ebfu thu
-2025-04-21 23:57:16,152 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
-2025-04-21 23:57:16,152 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: H\u1ee3p \u0111\u1ed3ng
-2025-04-21 23:57:56,733 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-21 23:57:56,736 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-21 23:57:56,737 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-21 23:59:50,671 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-21 23:59:50,674 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-21 23:59:50,675 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-21 23:59:51,058 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
-2025-04-21 23:59:51,059 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
-2025-04-21 23:59:56,069 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
-2025-04-21 23:59:56,069 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Phi\u1ebfu thu
-2025-04-21 23:59:56,070 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
-2025-04-21 23:59:58,888 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
-2025-04-21 23:59:58,888 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: H\u1ee3p \u0111\u1ed3ng
-2025-04-21 23:59:58,888 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
-2025-04-22 00:00:04,556 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
-2025-04-22 00:00:04,556 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Phi\u1ebfu thu
-2025-04-22 00:00:04,558 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
-2025-04-22 00:02:16,444 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-22 00:02:16,447 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-22 00:02:16,447 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-22 00:02:16,810 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
-2025-04-22 00:02:16,811 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
-2025-04-22 00:02:19,672 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
-2025-04-22 00:02:19,672 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Phi\u1ebfu thu
-2025-04-22 00:02:19,675 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
-2025-04-22 00:02:19,675 - INFO - \u0110ã kh\u1edfi t\u1ea1o t\u1ea5t c\u1ea3 dropdown
-2025-04-22 00:02:22,141 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
-2025-04-22 00:02:22,141 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: H\u1ee3p \u0111\u1ed3ng
-2025-04-22 00:02:22,143 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
-2025-04-22 00:02:22,144 - INFO - \u0110ã kh\u1edfi t\u1ea1o t\u1ea5t c\u1ea3 dropdown
-2025-04-22 00:02:26,233 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
-2025-04-22 00:02:26,234 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Phi\u1ebfu thu
-2025-04-22 00:02:26,236 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
-2025-04-22 00:02:26,236 - INFO - \u0110ã kh\u1edfi t\u1ea1o t\u1ea5t c\u1ea3 dropdown
-2025-04-22 00:04:31,052 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
-2025-04-22 00:04:31,054 - WARNING - File industry_codes.json không t\u1ed3n t\u1ea1i: AppData\industry_codes.json
-2025-04-22 00:04:31,055 - WARNING - File employees.json không t\u1ed3n t\u1ea1i: AppData\employees.json
-2025-04-22 00:04:31,634 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
-2025-04-22 00:04:31,635 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp doanh nghi\u1ec7p
-2025-04-22 00:04:56,819 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
-2025-04-22 00:04:56,820 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Phi\u1ebfu thu
-2025-04-22 00:04:56,822 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
-2025-04-22 00:04:56,822 - INFO - \u0110ã kh\u1edfi t\u1ea1o t\u1ea5t c\u1ea3 dropdown
-2025-04-22 00:04:59,642 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
-2025-04-22 00:04:59,642 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: H\u1ee3p \u0111\u1ed3ng
-2025-04-22 00:04:59,645 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
-2025-04-22 00:04:59,645 - INFO - \u0110ã kh\u1edfi t\u1ea1o t\u1ea5t c\u1ea3 dropdown
+2025-07-11 09:17:36,538 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-07-11 09:17:36,862 - INFO - \u0110ã kh\u1edfi t\u1ea1o c\u1ea5u hình m\u1eb7c \u0111\u1ecbnh
+2025-07-11 09:17:37,074 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
+2025-07-11 09:17:37,074 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: M\u1eb7c \u0111\u1ecbnh
+2025-07-11 09:17:57,271 - INFO - \u0110\u1ed5i tên c\u1ea5u hình t\u1eeb 'M\u1eb7c \u0111\u1ecbnh' thành 'Thành l\u1eadp m\u1edbi'
+2025-07-11 09:17:58,703 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
+2025-07-11 09:17:58,703 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp m\u1edbi
+2025-07-11 09:17:58,704 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
+2025-07-11 09:17:58,706 - INFO - \u0110ã kh\u1edfi t\u1ea1o t\u1ea5t c\u1ea3 dropdown
+2025-07-11 09:18:09,240 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
+2025-07-11 09:18:09,240 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
+2025-07-11 09:18:09,240 - INFO - Thêm c\u1ea5u hình 'Thay \u0111\u1ed5i \u0110KKD'
+2025-07-11 09:18:42,695 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
+2025-07-11 09:18:42,695 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
+2025-07-11 09:18:42,698 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
+2025-07-11 09:18:42,698 - INFO - \u0110ã kh\u1edfi t\u1ea1o t\u1ea5t c\u1ea3 dropdown
+2025-07-11 09:19:51,694 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-07-11 09:19:53,375 - INFO - Thêm tab 'Thông tin công ty m\u1edbi'
+2025-07-11 09:20:14,882 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-07-11 09:20:16,276 - INFO - Thêm tab 'Thông tin \u0110DPL m\u1edbi'
+2025-07-11 09:20:30,329 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-07-11 09:20:31,656 - INFO - Thêm tab 'Ngành b\u1ed5 sung'
+2025-07-11 09:20:39,484 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-07-11 09:20:40,886 - INFO - Thêm tab 'Ngành gi\u1ea3m'
+2025-07-11 09:20:47,719 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-07-11 09:20:49,246 - INFO - Thêm tab 'Ngành \u0111i\u1ec1u ch\u1ec9nh'
+2025-07-11 09:21:16,316 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-07-11 09:21:16,535 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
+2025-07-11 09:21:16,535 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
+2025-07-11 09:21:16,535 - INFO - Thêm tr\u01b0\u1eddng 'tên_doanh_nghi\u1ec7p_m\u1edbi' vào tab 'Thông tin công ty m\u1edbi'
+2025-07-11 09:21:32,065 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-07-11 09:21:32,318 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
+2025-07-11 09:21:32,318 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
+2025-07-11 09:21:32,318 - INFO - Thêm tr\u01b0\u1eddng 'tên_n\u01b0\u1edbc_ngoài_m\u1edbi' vào tab 'Thông tin công ty m\u1edbi'
+2025-07-11 09:21:42,055 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-07-11 09:21:42,269 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
+2025-07-11 09:21:42,269 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
+2025-07-11 09:21:42,270 - INFO - Thêm tr\u01b0\u1eddng 'tên_vi\u1ebft_t\u1eaft_m\u1edbi' vào tab 'Thông tin công ty m\u1edbi'
+2025-07-11 09:21:50,162 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-07-11 09:21:50,381 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
+2025-07-11 09:21:50,381 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
+2025-07-11 09:21:50,381 - INFO - Thêm tr\u01b0\u1eddng 's\u1ed1_nhà_tên_\u0111\u01b0\u1eddng_m\u1edbi' vào tab 'Thông tin công ty m\u1edbi'
+2025-07-11 09:21:57,770 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-07-11 09:21:58,002 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
+2025-07-11 09:21:58,003 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
+2025-07-11 09:21:58,003 - INFO - Thêm tr\u01b0\u1eddng 'xã_ph\u01b0\u1eddng_m\u1edbi' vào tab 'Thông tin công ty m\u1edbi'
+2025-07-11 09:22:37,190 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-07-11 09:22:37,424 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
+2025-07-11 09:22:37,424 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
+2025-07-11 09:22:37,424 - INFO - Thêm tr\u01b0\u1eddng 't\u1ec9nh_thành_ph\u1ed1_m\u1edbi' vào tab 'Thông tin công ty m\u1edbi'
+2025-07-11 09:22:41,514 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-07-11 09:22:41,737 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
+2025-07-11 09:22:41,737 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
+2025-07-11 09:22:41,737 - INFO - Xóa tr\u01b0\u1eddng 'qu\u1eadn_huy\u1ec7n' kh\u1ecfi tab 'Thông tin công ty'
+2025-07-11 09:24:23,660 - INFO - \u1ee8ng d\u1ee5ng kh\u1edfi \u0111\u1ed9ng
+2025-07-11 09:24:24,083 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
+2025-07-11 09:24:24,084 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp m\u1edbi
+2025-07-11 09:24:39,600 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-07-11 09:24:39,757 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
+2025-07-11 09:24:39,757 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp m\u1edbi
+2025-07-11 09:24:39,758 - INFO - Xóa tr\u01b0\u1eddng 'qu\u1eadn_huy\u1ec7n' kh\u1ecfi tab 'Thông tin công ty'
+2025-07-11 09:25:18,333 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
+2025-07-11 09:25:18,334 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Phi\u1ebfu thu
+2025-07-11 09:25:18,334 - INFO - Thêm c\u1ea5u hình 'Phi\u1ebfu thu'
+2025-07-11 09:25:35,351 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-07-11 09:25:36,712 - INFO - Xóa tab 'Thông tin u\u1ef7 quy\u1ec1n'
+2025-07-11 09:25:39,824 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-07-11 09:25:41,081 - INFO - Xóa tab 'Ngành ngh\u1ec1 kinh doanh'
+2025-07-11 09:25:43,288 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-07-11 09:25:44,537 - INFO - Xóa tab 'Thành viên/Ch\u1ee7 s\u1edf h\u1eefu'
+2025-07-11 09:25:47,471 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-07-11 09:25:48,636 - INFO - Xóa tab 'Thông tin \u0110DPL'
+2025-07-11 09:25:58,584 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
+2025-07-11 09:25:58,585 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp m\u1edbi
+2025-07-11 09:25:58,587 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
+2025-07-11 09:25:58,587 - INFO - \u0110ã kh\u1edfi t\u1ea1o t\u1ea5t c\u1ea3 dropdown
+2025-07-11 09:26:02,214 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
+2025-07-11 09:26:02,215 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
+2025-07-11 09:26:02,217 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
+2025-07-11 09:26:02,217 - INFO - \u0110ã kh\u1edfi t\u1ea1o t\u1ea5t c\u1ea3 dropdown
+2025-07-11 09:26:24,003 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-07-11 09:26:24,226 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
+2025-07-11 09:26:24,227 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
+2025-07-11 09:26:24,227 - INFO - Thêm tr\u01b0\u1eddng 's\u1ed1_\u0111i\u1ec7n_tho\u1ea1i_m\u1edbi' vào tab 'Thông tin công ty m\u1edbi'
+2025-07-11 09:26:32,685 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-07-11 09:26:32,891 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
+2025-07-11 09:26:32,892 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
+2025-07-11 09:26:32,892 - INFO - Thêm tr\u01b0\u1eddng 'v\u1ed1n_\u0111i\u1ec1u_l\u1ec7_m\u1edbi' vào tab 'Thông tin công ty m\u1edbi'
+2025-07-11 09:26:56,556 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-07-11 09:26:56,790 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
+2025-07-11 09:26:56,790 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
+2025-07-11 09:26:56,791 - INFO - Thêm tr\u01b0\u1eddng 'h\u1ecd_tên_m\u1edbi' vào tab 'Thông tin \u0110DPL m\u1edbi'
+2025-07-11 09:27:06,913 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-07-11 09:27:07,146 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
+2025-07-11 09:27:07,146 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
+2025-07-11 09:27:07,146 - INFO - Thêm tr\u01b0\u1eddng 'gi\u1edbi_tính_m\u1edbi' vào tab 'Thông tin \u0110DPL m\u1edbi'
+2025-07-11 09:30:28,549 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-07-11 09:30:28,767 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
+2025-07-11 09:30:28,767 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
+2025-07-11 09:30:28,767 - INFO - Thêm tr\u01b0\u1eddng 'ngày_sinh_m\u1edbi' vào tab 'Thông tin \u0110DPL m\u1edbi'
+2025-07-11 09:30:39,154 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-07-11 09:30:39,411 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
+2025-07-11 09:30:39,411 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
+2025-07-11 09:30:39,411 - INFO - Thêm tr\u01b0\u1eddng 's\u1ed1_cccd_m\u1edbi' vào tab 'Thông tin \u0110DPL m\u1edbi'
+2025-07-11 09:30:55,332 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-07-11 09:30:55,570 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
+2025-07-11 09:30:55,571 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
+2025-07-11 09:30:55,571 - INFO - Thêm tr\u01b0\u1eddng 'ddpl_s\u1ed1_nhà_tên_\u0111\u01b0\u1eddng_m\u1edbi' vào tab 'Thông tin \u0110DPL m\u1edbi'
+2025-07-11 09:31:02,565 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-07-11 09:31:02,806 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
+2025-07-11 09:31:02,806 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
+2025-07-11 09:31:02,806 - INFO - Thêm tr\u01b0\u1eddng 'ddpl_xã_ph\u01b0\u1eddng_m\u1edbi' vào tab 'Thông tin \u0110DPL m\u1edbi'
+2025-07-11 09:31:11,546 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-07-11 09:31:11,809 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
+2025-07-11 09:31:11,809 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
+2025-07-11 09:31:11,810 - INFO - Thêm tr\u01b0\u1eddng 'ddpl_t\u1ec9nh_thành_ph\u1ed1_m\u1edbi' vào tab 'Thông tin \u0110DPL m\u1edbi'
+2025-07-11 09:31:22,685 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-07-11 09:31:22,934 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
+2025-07-11 09:31:22,934 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
+2025-07-11 09:31:22,934 - INFO - Thêm tr\u01b0\u1eddng 'qu\u1ed1c_gia_m\u1edbi' vào tab 'Thông tin \u0110DPL m\u1edbi'
+2025-07-11 09:32:03,853 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
+2025-07-11 09:32:03,853 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Phi\u1ebfu thu
+2025-07-11 09:32:03,855 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
+2025-07-11 09:32:03,855 - INFO - \u0110ã kh\u1edfi t\u1ea1o t\u1ea5t c\u1ea3 dropdown
+2025-07-11 09:32:17,363 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-07-11 09:32:17,420 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
+2025-07-11 09:32:17,421 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Phi\u1ebfu thu
+2025-07-11 09:32:17,421 - INFO - S\u1eeda tên tr\u01b0\u1eddng t\u1eeb 'tên_n\u01b0\u1edbc_ngoài' thành 'mã_s\u1ed1_thu\u1ebf' trong tab 'Thông tin công ty'
+2025-07-11 09:32:26,072 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-07-11 09:32:26,127 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
+2025-07-11 09:32:26,127 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Phi\u1ebfu thu
+2025-07-11 09:32:26,127 - INFO - Xóa tr\u01b0\u1eddng 'tên_vi\u1ebft_t\u1eaft' kh\u1ecfi tab 'Thông tin công ty'
+2025-07-11 09:32:36,371 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-07-11 09:32:36,424 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
+2025-07-11 09:32:36,425 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Phi\u1ebfu thu
+2025-07-11 09:32:36,425 - INFO - S\u1eeda tên tr\u01b0\u1eddng t\u1eeb 's\u1ed1_nhà_tên_\u0111\u01b0\u1eddng' thành '\u0111\u1ecba_ch\u1ec9' trong tab 'Thông tin công ty'
+2025-07-11 09:32:45,415 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-07-11 09:32:45,470 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
+2025-07-11 09:32:45,471 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Phi\u1ebfu thu
+2025-07-11 09:32:45,471 - INFO - S\u1eeda tên tr\u01b0\u1eddng t\u1eeb 'xã_ph\u01b0\u1eddng' thành 's\u1ed1_phi\u1ebfu_thu' trong tab 'Thông tin công ty'
+2025-07-11 09:32:57,088 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-07-11 09:32:57,147 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
+2025-07-11 09:32:57,148 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Phi\u1ebfu thu
+2025-07-11 09:32:57,148 - INFO - Thêm tr\u01b0\u1eddng 's\u1ed1_ti\u1ec1n' vào tab 'Thông tin công ty'
+2025-07-11 09:33:36,330 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-07-11 09:33:36,389 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
+2025-07-11 09:33:36,389 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Phi\u1ebfu thu
+2025-07-11 09:33:36,389 - INFO - Xóa tr\u01b0\u1eddng 't\u1ec9nh_thành_ph\u1ed1' kh\u1ecfi tab 'Thông tin công ty'
+2025-07-11 09:33:43,469 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-07-11 09:33:43,526 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
+2025-07-11 09:33:43,527 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Phi\u1ebfu thu
+2025-07-11 09:33:43,527 - INFO - Xóa tr\u01b0\u1eddng 's\u1ed1_\u0111i\u1ec7n_tho\u1ea1i' kh\u1ecfi tab 'Thông tin công ty'
+2025-07-11 09:34:00,003 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-07-11 09:34:00,054 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
+2025-07-11 09:34:00,054 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Phi\u1ebfu thu
+2025-07-11 09:34:00,054 - INFO - S\u1eeda tên tr\u01b0\u1eddng t\u1eeb 'v\u1ed1n_\u0111i\u1ec1u_l\u1ec7' thành 'lý_do_n\u1ed9p' trong tab 'Thông tin công ty'
+2025-07-11 09:34:19,333 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-07-11 09:34:19,383 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
+2025-07-11 09:34:19,383 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Phi\u1ebfu thu
+2025-07-11 09:34:19,384 - INFO - S\u1eeda tên tr\u01b0\u1eddng t\u1eeb 'mã_s\u1ed1_thu\u1ebf' thành 'mã_s\u1ed1_doanh_nghi\u1ec7p' trong tab 'Thông tin công ty'
+2025-07-11 09:34:24,108 - INFO - \u0110ã t\u1ea1o b\u1ea3n sao l\u01b0u t\u1ef1 \u0111\u1ed9ng: backup\backup_20250711_093424.db
+2025-07-11 09:34:24,110 - INFO - \u0110ã xóa b\u1ea3n sao l\u01b0u c\u0169: backup\backup_20250709_155935.db
+2025-07-11 09:34:35,809 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
+2025-07-11 09:34:35,809 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Phi\u1ebfu thu
+2025-07-11 09:34:35,811 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
+2025-07-11 09:34:35,811 - INFO - \u0110ã kh\u1edfi t\u1ea1o t\u1ea5t c\u1ea3 dropdown
+2025-07-11 09:34:41,783 - INFO - \u0110ã l\u01b0u c\u1ea5u hình
+2025-07-11 09:34:43,873 - INFO - \u0110\u1ed5i tên tab t\u1eeb 'Thông tin công ty' thành 'Thông tin phi\u1ebfu thu'
+2025-07-11 09:34:45,888 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
+2025-07-11 09:34:45,888 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
+2025-07-11 09:34:45,890 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
+2025-07-11 09:34:45,890 - INFO - \u0110ã kh\u1edfi t\u1ea1o t\u1ea5t c\u1ea3 dropdown
+2025-07-11 09:34:46,934 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
+2025-07-11 09:34:46,934 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp m\u1edbi
+2025-07-11 09:34:46,936 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
+2025-07-11 09:34:46,936 - INFO - \u0110ã kh\u1edfi t\u1ea1o t\u1ea5t c\u1ea3 dropdown
+2025-07-11 09:35:25,399 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
+2025-07-11 09:35:25,401 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thay \u0111\u1ed5i \u0110KKD
+2025-07-11 09:35:25,402 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
+2025-07-11 09:35:25,402 - INFO - \u0110ã kh\u1edfi t\u1ea1o t\u1ea5t c\u1ea3 dropdown
+2025-07-11 09:35:26,758 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
+2025-07-11 09:35:26,760 - INFO - \u0110ã t\u1ea3i c\u1ea5u hình: Thành l\u1eadp m\u1edbi
+2025-07-11 09:35:26,762 - INFO - \u0110ã c\u1eadp nh\u1eadt t\u1ea5t c\u1ea3 dropdown trong \u1ee9ng d\u1ee5ng
+2025-07-11 09:35:26,762 - INFO - \u0110ã kh\u1edfi t\u1ea1o t\u1ea5t c\u1ea3 dropdown

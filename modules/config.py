@@ -20,11 +20,11 @@ class ConfigManager:
         """Khởi tạo cấu hình mặc định nếu chưa có."""
         default_config = {
             "field_groups": {
-                "Thông tin công ty": self.app.default_fields[0:11],
-                "Thông tin ĐDPL": self.app.default_fields[11:22],
-                "Thông tin thành viên": [],
+                "Thông tin công ty": self.app.default_fields[0:8],
+                "Thông tin ĐDPL": self.app.default_fields[8:16],
+                "Thành viên/Chủ sở hữu": [],
                 "Ngành nghề kinh doanh": [],
-                "Thông tin uỷ quyền": self.app.default_fields[22:]  
+                "Thông tin uỷ quyền": self.app.default_fields[16:]  
             },
             "templates": {},
             "entries": []
@@ -158,11 +158,11 @@ class ConfigManager:
         if config_name and config_name not in self.configs:
             self.configs[config_name] = {
                 "field_groups": {
-                    "Thông tin công ty": self.app.default_fields[0:11],
-                    "Thông tin ĐDPL": self.app.default_fields[11:22],
-                    "Thông tin thành viên": [],
+                    "Thông tin công ty": self.app.default_fields[0:8],
+                    "Thông tin ĐDPL": self.app.default_fields[8:16],
+                    "Thành viên/Chủ sở hữu": [],
                     "Ngành nghề kinh doanh": [],
-                    "Thông tin uỷ quyền": self.app.default_fields[22:]  
+                    "Thông tin uỷ quyền": self.app.default_fields[16:]  
                 },
                 "templates": {},
                 "entries": []

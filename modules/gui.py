@@ -56,16 +56,12 @@ class DataEntryApp:
         if not os.path.exists(self.backup_dir):
             os.makedirs(self.backup_dir)
 
-        self.default_fields = ["tên_doanh_nghiệp", "tên_nước_ngoài", "tên_viết_tắt", "mã_số_doanh_nghiệp", "ngày_cấp_mst", 
-                               "số_nhà_tên_đường", "xã_phường", "quận_huyện", "tỉnh_thành_phố", "số_điện_thoại", "vốn_điều_lệ",
-                               "họ_tên", "giới_tính", "ngày_sinh", "dân_tộc", "quốc_tịch", "số_cccd", "ngày_cấp", "nơi_cấp", "ngày_hết_hạn", "địa_chỉ_thường_trú", "địa_chỉ_liên_lạc",
-                               "họ_tên_uq", "giới_tính_uq", "ngày_sinh_uq", "số_cccd_uq", "ngày_cấp_uq", "nơi_cấp_uq", "địa_chỉ_liên_lạc_uq", "sdt_uq", "email_uq"]
-        # Định nghĩa các cột cho bảng thông tin thành viên
-        self.member_columns = [
-            "ho_ten", "gioi_tinh", "ngay_sinh", "dan_toc", "quoc_tich", "loai_giay_to",
-            "so_cccd", "ngay_cap", "noi_cap",
-            "ngay_het_han", "dia_chi_thuong_tru", "dia_chi_lien_lac", "von_gop", "ty_le_gop", "ngay_gop_von"
-        ]
+        self.default_fields = ["tên_doanh_nghiệp", "tên_nước_ngoài", "tên_viết_tắt", "số_nhà_tên_đường", "xã_phường", "tỉnh_thành_phố", 
+                               "số_điện_thoại", "vốn_điều_lệ",
+                               "họ_tên", "giới_tính", "ngày_sinh", "số_cccd", "ddpl_số_nhà_tên_đường", "ddpl_xã_phường", "ddpl_tỉnh_thành_phố", "quốc_gia",
+                               "họ_tên_uq", "giới_tính_uq", "ngày_sinh_uq", "số_cccd_uq", "địa_chỉ_liên_lạc_uq", "sdt_uq", "email_uq"]
+        # Định nghĩa các cột cho bảng Thành viên/Chủ sở hữu
+        self.member_columns = ["ho_ten", "gioi_tinh", "ngay_sinh", "so_cccd", "so_nha_ten_duong", "xa_phuong", "tinh_thanh_pho", "quoc_gia", "von_gop", "ty_le_gop", "ngay_gop_von"]
 
         self.configs = {}
         self.current_config_name = None
@@ -200,7 +196,7 @@ class DataEntryApp:
         search_frame.grid(row=0, column=0, columnspan=2, pady=5, sticky="w")
         ttk.Label(search_frame, text="Tìm kiếm:").pack(side="left", padx=5)
         self.search_var = tk.StringVar()
-        self.search_combobox = ttk.Combobox(search_frame, textvariable=self.search_var, width=30, state="normal")
+        self.search_combobox = ttk.Combobox(search_frame, textvariable=self.search_var, width=60, state="normal")
         self.search_combobox.pack(side="left", padx=5)
         ToolTip(self.search_combobox, "Tìm kiếm hoặc chọn dữ liệu\nNhập tên để tìm kiếm công ty")
         self.search_combobox["values"] = [entry["name"] for entry in self.saved_entries]
@@ -503,6 +499,7 @@ class DataEntryApp:
         context_menu.add_command(label="Sao chép", command=lambda: entry.event_generate("<<Copy>>"))
         context_menu.add_command(label="Dán", command=lambda: entry.event_generate("<<Paste>>"))
         context_menu.add_command(label="Xóa", command=lambda: entry.delete(0, tk.END))
+        context_menu.add_command(label="Xóa trắng", command=self.clear_entries)
         # Lưu menu vào thuộc tính context_menu của entry
         entry.context_menu = context_menu
 
@@ -652,7 +649,7 @@ class DataEntryApp:
         menu.add_command(label="Xóa dữ liệu", command=self.delete_entry_data)
         menu.add_separator()
         menu.add_command(label="Lưu/Cập nhật", command=self.save_entry_data)
-        menu.add_command(label="Xóa trắng", command=self.clear_entries)
+        
         
         menu.tk_popup(event.x_root, event.y_root)
 
@@ -672,8 +669,8 @@ class DataEntryApp:
         about_text = """
         Ứng dụng soạn hồ sơ Đăng Ký Doanh Nghiệp
         
-        Phiên bản: 6.0.9
-        Phát hành: 09/04/2025
+        Phiên bản: 6.1.0
+        Phát hành: 11/07/2025
         
         © 2025 CÔNG TY TNHH GIẢI PHÁP SME
         Bản quyền thuộc về CÔNG TY TNHH GIẢI PHÁP SME

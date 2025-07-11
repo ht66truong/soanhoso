@@ -927,7 +927,7 @@ class ExportManager:
         for cell in table.columns[2].cells:
             cell.width = Cm(2.75)  # Cột 3: Mã ngành
         for cell in table.columns[3].cells:
-            cell.width = Cm(3.0)  # Cột 4: Ngành nghề kinh doanh chính
+            cell.width = Cm(3.0)  # Cột 4: Ngành, nghề kinh doanh chính
 
         # Thêm viền cho bảng
         table_style = table._tblPr.xpath('./w:tblBorders')[0] if table._tblPr.xpath('./w:tblBorders') else OxmlElement('w:tblBorders')
@@ -946,7 +946,7 @@ class ExportManager:
         hdr_cells[0].text = "STT"
         hdr_cells[1].text = "Tên ngành"
         hdr_cells[2].text = "Mã ngành"
-        hdr_cells[3].text = "Ngành nghề kinh doanh chính"
+        hdr_cells[3].text = "Ngành, nghề kinh doanh chính"
 
         # Định dạng chữ cho tiêu đề
         for cell in hdr_cells:
@@ -1004,7 +1004,7 @@ class ExportManager:
         for cell in table.columns[2].cells:
             cell.width = Cm(2.75)  # Cột 3: Mã ngành
         for cell in table.columns[3].cells:
-            cell.width = Cm(3.0)  # Cột 4: Ngành chính
+            cell.width = Cm(3.0)  # Cột 4: Ngành, nghề kinh doanh chính
 
         # Thêm viền cho bảng
         table_style = table._tblPr.xpath('./w:tblBorders')[0] if table._tblPr.xpath('./w:tblBorders') else OxmlElement('w:tblBorders')
@@ -1023,7 +1023,7 @@ class ExportManager:
         hdr_cells[0].text = "STT"
         hdr_cells[1].text = "Tên ngành"
         hdr_cells[2].text = "Mã ngành"
-        hdr_cells[3].text = "Ngành chính"
+        hdr_cells[3].text = "Ngành, nghề kinh doanh chính"
 
         # Định dạng chữ cho tiêu đề
         for cell in hdr_cells:
@@ -1077,7 +1077,7 @@ class ExportManager:
         for cell in table.columns[2].cells:
             cell.width = Cm(2.75)  # Cột 3: Mã ngành
         for cell in table.columns[3].cells:
-            cell.width = Cm(3.0)  # Cột 4: Ngành chính
+            cell.width = Cm(3.0)  # Cột 4: Ngành, nghề kinh doanh chính
 
         # Thêm viền cho bảng
         table_style = table._tblPr.xpath('./w:tblBorders')[0] if table._tblPr.xpath('./w:tblBorders') else OxmlElement('w:tblBorders')
@@ -1096,7 +1096,7 @@ class ExportManager:
         hdr_cells[0].text = "STT"
         hdr_cells[1].text = "Tên ngành"
         hdr_cells[2].text = "Mã ngành"
-        hdr_cells[3].text = "Ngành chính"
+        hdr_cells[3].text = "Ngành, nghề kinh doanh chính"
 
         # Định dạng chữ cho tiêu đề
         for cell in hdr_cells:
@@ -1150,7 +1150,7 @@ class ExportManager:
         for cell in table.columns[2].cells:
             cell.width = Cm(2.75)  # Cột 3: Mã ngành
         for cell in table.columns[3].cells:
-            cell.width = Cm(3.0)  # Cột 4: Ngành chính
+            cell.width = Cm(3.0)  # Cột 4: Ngành, nghề kinh doanh chính
 
         # Thêm viền cho bảng
         table_style = table._tblPr.xpath('./w:tblBorders')[0] if table._tblPr.xpath('./w:tblBorders') else OxmlElement('w:tblBorders')
@@ -1169,7 +1169,7 @@ class ExportManager:
         hdr_cells[0].text = "STT"
         hdr_cells[1].text = "Tên ngành"
         hdr_cells[2].text = "Mã ngành"
-        hdr_cells[3].text = "Ngành chính"
+        hdr_cells[3].text = "Ngành, nghề kinh doanh chính"
 
         # Định dạng chữ cho tiêu đề
         for cell in hdr_cells:
@@ -1284,15 +1284,15 @@ class ExportManager:
                 f"Họ và tên: {member.get('ho_ten', '')}\n"
                 f"Giới tính: {member.get('gioi_tinh', '')}\n"
                 f"Ngày sinh: {member.get('ngay_sinh', '')}\n"
-                f"Dân tộc: {member.get('dan_toc', '')}\n"
-                f"Quốc tịch: {member.get('quoc_tich', '')}\n"
-                f"Loại giấy tờ pháp lý cá nhân: {member.get('loai_giay_to', '')}\n"
-                f"Số giấy tờ pháp lý cá nhân: {member.get('so_cccd', '')}\n"
-                f"Ngày cấp: {member.get('ngay_cap', '')}\n"
-                f"Nơi cấp: {member.get('noi_cap', '')}\n"
-                f"Ngày hết hạn: {member.get('ngay_het_han', '')}\n"
-                f"Đia chỉ thường trú: {member.get('dia_chi_thuong_tru', '')}\n"
-                f"Địa chỉ liên lạc: {member.get('dia_chi_lien_lac', '')}\n"
+                #f"Dân tộc: {member.get('dan_toc', '')}\n"
+                #f"Quốc tịch: {member.get('quoc_tich', '')}\n"
+                #f"Loại giấy tờ pháp lý cá nhân: {member.get('loai_giay_to', '')}\n"
+                f"Số định danh cá nhân: {member.get('so_cccd', '')}\n"
+                #f"Ngày cấp: {member.get('ngay_cap', '')}\n"
+                #f"Nơi cấp: {member.get('noi_cap', '')}\n"
+                #f"Ngày hết hạn: {member.get('ngay_het_han', '')}\n"
+                #f"Đia chỉ thường trú: {member.get('dia_chi_thuong_tru', '')}\n"
+                f"Địa chỉ liên lạc: {member.get('so_nha_ten_duong', '')}, {member.get('xa_phuong', '')}, {member.get('tinh_thanh_pho', '')}, {member.get('quoc_gia', '')}\n"
             )
             p1.style = doc.styles["Normal"]
             p1.alignment = WD_ALIGN_PARAGRAPH.LEFT
@@ -1364,8 +1364,8 @@ class ExportManager:
             row_cells[1].text = member.get("ho_ten", "")
             row_cells[2].text = member.get("ngay_sinh", "")
             row_cells[3].text = member.get("gioi_tinh", "")
-            row_cells[4].text = member.get("quoc_tich", "")
-            row_cells[5].text = member.get("dia_chi_lien_lac", "")
+            row_cells[4].text = "Việt Nam"
+            row_cells[5].text = f"{member.get('so_nha_ten_duong', '')}, {member.get('xa_phuong', '')}, {member.get('tinh_thanh_pho', '')}, {member.get('quoc_gia', '')}"
             row_cells[6].text = (
                 f"{member.get('loai_giay_to', '')}\n"
                 f"{member.get('so_cccd', '')}\n"
@@ -1614,9 +1614,9 @@ class ExportManager:
             row_cells[1].text = member.get("ho_ten", "")
             row_cells[2].text = member.get("ngay_sinh", "")
             row_cells[3].text = member.get("gioi_tinh", "")
-            row_cells[4].text = member.get("quoc_tich", "")
+            row_cells[4].text = "Việt Nam"  # Khớp với tài liệu
             row_cells[5].text = member.get("dan_toc", "")
-            row_cells[6].text = member.get("dia_chi_lien_lac", "")
+            row_cells[6].text = f"{member.get('so_nha_ten_duong', '')}, {member.get('xa_phuong', '')}, {member.get('tinh_thanh_pho', '')}, {member.get('quoc_gia', '')}" # đang làm tới đây - 
             row_cells[7].text = f"{member.get('loai_giay_to', '')}\n{member.get('so_cccd', '')}\n{member.get('ngay_cap', '')}\n{member.get('noi_cap', '')}"
             row_cells[8].text = member.get("von_gop", "")
             row_cells[9].text = member.get("ty_le_gop", "")

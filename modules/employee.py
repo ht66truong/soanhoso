@@ -10,10 +10,7 @@ class EmployeeManager:
         self.app = app
         self.employees = []
         self.employee_fields = [
-            "họ_tên_uq", "giới_tính_uq", "ngày_sinh_uq", 
-            "số_cccd_uq", "ngày_cấp_uq", "nơi_cấp_uq", 
-            "địa_chỉ_liên_lạc_uq", "sdt_uq", "email_uq"
-        ]
+            "họ_tên_uq", "giới_tính_uq", "ngày_sinh_uq", "số_cccd_uq", "địa_chỉ_liên_lạc_uq", "sdt_uq", "email_uq"]
         self.load_employees()
     
     def load_employees(self):
@@ -40,8 +37,6 @@ class EmployeeManager:
                                 'gioi_tinh_uq': 'giới_tính_uq',
                                 'ngay_sinh_uq': 'ngày_sinh_uq',
                                 'so_cccd_uq': 'số_cccd_uq',
-                                'ngay_cap_uq': 'ngày_cấp_uq',
-                                'noi_cap_uq': 'nơi_cấp_uq',
                                 'dia_chi_lien_lac_uq': 'địa_chỉ_liên_lạc_uq',
                                 'sdt_uq': 'sdt_uq',
                                 'email_uq': 'email_uq'

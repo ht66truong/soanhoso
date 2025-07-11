@@ -729,7 +729,7 @@ class TabManager:
         self.app = app
 
     def create_tabs(self):
-        """Tạo các tab dựa trên field_groups, bao gồm tab Thông tin thành viên và Ngành nghề kinh doanh."""
+        """Tạo các tab dựa trên field_groups, bao gồm tab Thành viên/Chủ sở hữu và Ngành nghề kinh doanh."""
         # Tạo menu ngữ cảnh cho các tab
         tab_header_menu = tk.Menu(self.app.root, tearoff=0)
         tab_header_menu.add_command(label="Thêm tab", image=self.app.add_icon_img,
@@ -765,7 +765,7 @@ class TabManager:
                 self.app.industry_manager.create_removed_industry_tab()
             elif tab_name == "Ngành điều chỉnh":
                 self.app.industry_manager.create_adjusted_industry_tab()
-            elif tab_name == "Thông tin thành viên":
+            elif tab_name == "Thành viên/Chủ sở hữu":
                 self.app.member_manager.create_member_tab()
             else:
                 tab = ttk.Frame(self.app.notebook)

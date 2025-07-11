@@ -7,10 +7,10 @@ from modules.utils import create_popup_with_notebook
 class MemberManager:
     def __init__(self, app):
         self.app = app
-#hàm tạp tab thông tin thành viên
+#hàm tạp tab Thành viên/Chủ sở hữu
     def create_member_tab(self):
-        """Tạo tab Thông tin thành viên với Treeview và scrollbar dọc."""
-        tab_name = "Thông tin thành viên"
+        """Tạo tab Thành viên/Chủ sở hữu với Treeview và scrollbar dọc."""
+        tab_name = "Thành viên/Chủ sở hữu"
         tab = ttk.Frame(self.app.notebook)
         self.app.notebook.add(tab, text=tab_name)
         
@@ -31,16 +31,16 @@ class MemberManager:
         tree_frame.pack(fill="both", expand=True, padx=20, pady=20)
         
         # Chỉ hiển thị các cột quan trọng
-        self.app.displayed_columns = ["ho_ten", "so_cccd", "dia_chi_thuong_tru", "von_gop", "ty_le_gop", "la_chu_tich"]
+        self.app.displayed_columns = ["ho_ten", "so_cccd", "von_gop", "ty_le_gop", "la_chu_tich"]
         self.app.member_tree = ttk.Treeview(tree_frame, columns=self.app.displayed_columns, show="headings", height=15)  # Tăng height để hiển thị nhiều hàng hơn
         
         # Định nghĩa tiêu đề và chiều rộng cột
         column_widths = {
-            "ho_ten": 200,      # Họ tên rộng hơn để dễ đọc
-            "so_cccd": 100,
-            "dia_chi_thuong_tru": 400,
-            "von_gop": 120,
-            "ty_le_gop": 100,
+            "ho_ten": 300,      # Họ tên rộng hơn để dễ đọc
+            "so_cccd": 200,
+            #"dia_chi_thuong_tru": 400,
+            "von_gop": 250,
+            "ty_le_gop": 200,
             "la_chu_tich": 80,  # Cột Chủ tịch nhỏ gọn
         }
         for col in self.app.displayed_columns:
@@ -131,9 +131,8 @@ class MemberManager:
 #Hàm thao tác 
     def add_member(self):
         tabs = {
-            "Thông tin cá nhân": ["ho_ten", "gioi_tinh", "ngay_sinh", "dan_toc", "quoc_tich"],
-            "Thông tin giấy tờ": ["loai_giay_to", "so_cccd", "ngay_cap", "noi_cap", "ngay_het_han"],
-            "Thông tin địa chỉ": ["dia_chi_thuong_tru", "dia_chi_lien_lac"],
+            "Thông tin cá nhân": ["ho_ten", "gioi_tinh", "ngay_sinh", "so_cccd"],
+            "Thông tin địa chỉ": ["so_nha_ten_duong", "xa_phuong", "tinh_thanh_pho", "quoc_gia"],
             "Thông tin vốn góp": ["von_gop", "ty_le_gop", "ngay_gop_von"]
         }
         popup, entries = create_popup_with_notebook(self.app.root, "Thêm thành viên", 450, 550, tabs)
@@ -227,7 +226,7 @@ class MemberManager:
             messagebox.showerror("Lỗi", f"Không thể xóa thành viên: {str(e)}")
 
     def edit_member(self):
-        """Sửa thông tin thành viên đã chọn."""
+        """Sửa Thành viên/Chủ sở hữu đã chọn."""
         selected_item = self.app.member_tree.selection()
         if not selected_item:
             messagebox.showwarning("Cảnh báo", "Vui lòng chọn thành viên để sửa!")
@@ -241,9 +240,8 @@ class MemberManager:
                 break
 
         tabs = {
-            "Thông tin cá nhân": ["ho_ten", "gioi_tinh", "ngay_sinh", "dan_toc", "quoc_tich"],
-            "Thông tin giấy tờ": ["loai_giay_to", "so_cccd", "ngay_cap", "noi_cap", "ngay_het_han"],
-            "Thông tin địa chỉ": ["dia_chi_thuong_tru", "dia_chi_lien_lac"],
+            "Thông tin cá nhân": ["ho_ten", "gioi_tinh", "ngay_sinh", "so_cccd"],
+            "Thông tin địa chỉ": ["so_nha_ten_duong", "xa_phuong", "tinh_thanh_pho", "quoc_gia"],
             "Thông tin vốn góp": ["von_gop", "ty_le_gop", "ngay_gop_von"]
         }
         popup, entries = create_popup_with_notebook(self.app.root, "Sửa thành viên", 450, 550, tabs)
@@ -300,7 +298,7 @@ class MemberManager:
         ttk.Button(popup, text="Lưu", command=confirm_edit, style="primary-outline").pack(pady=10)
 
     def view_member_details(self, event=None):
-        """Hiển thị chi tiết thông tin thành viên."""
+        """Hiển thị chi tiết Thành viên/Chủ sở hữu."""
         selected_items = self.app.member_tree.selection()
         if not selected_items:
             messagebox.showwarning("Cảnh báo", "Vui lòng chọn thành viên để xem chi tiết!")
@@ -321,9 +319,8 @@ class MemberManager:
                 break
 
         tabs = {
-            "Thông tin cá nhân": ["ho_ten", "gioi_tinh", "ngay_sinh", "dan_toc", "quoc_tich"],
-            "Thông tin giấy tờ": ["loai_giay_to", "so_cccd", "ngay_cap", "noi_cap", "ngay_het_han"],
-            "Thông tin địa chỉ": ["dia_chi_thuong_tru", "dia_chi_lien_lac"],
+            "Thông tin cá nhân": ["ho_ten", "gioi_tinh", "ngay_sinh", "so_cccd"],
+            "Thông tin địa chỉ": ["so_nha_ten_duong", "xa_phuong", "tinh_thanh_pho", "quoc_gia"],
             "Thông tin vốn góp": ["von_gop", "ty_le_gop", "ngay_gop_von"]
         }
         popup, entries = create_popup_with_notebook(self.app.root, "Chi tiết thành viên", 450, 550, tabs)
