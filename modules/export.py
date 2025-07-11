@@ -789,17 +789,17 @@ class ExportManager:
         data_lower["so_thanh_vien"] = str(so_thanh_vien)  # Thêm vào data_lower
 
         # Lấy tên công ty và template từ dữ liệu
-        ma_so_doanh_nghiep = data_lower.get("ma_so_doanh_nghiep", "output")
-        
+        ma_so_doanh_nghiep = data_lower.get("ma_so_doanh_nghiep", "")
+        ten_doanh_nghiep = data_lower.get("ten_doanh_nghiep", "")
         # Loại bỏ đuôi .docx khỏi tên các template
-        template_names = [os.path.splitext(t)[0] for t in selected_templates]
-        template_name = "_".join(template_names)  # Gộp tên các template
+        #template_names = [os.path.splitext(t)[0] for t in selected_templates]
+        #template_name = "_".join(template_names)  # Gộp tên các template
 
         if mode == "merge":
             output_path = filedialog.asksaveasfilename(
                 defaultextension=".docx",
                 filetypes=[("Word files", "*.docx")],
-                initialfile=f"{ma_so_doanh_nghiep}_{template_name}_{datetime.now().strftime('%d%m%Y')}.docx"
+                initialfile=f"{ma_so_doanh_nghiep}-{ten_doanh_nghiep}_{datetime.now().strftime('%d%m%Y')}.docx"
             )
             if output_path:
                 merged_doc = self.merge_documents(doc_paths, data_lower)
@@ -816,7 +816,7 @@ class ExportManager:
             base_path = filedialog.asksaveasfilename(
                 defaultextension=".docx",
                 filetypes=[("Word files", "*.docx")],
-                initialfile=f"{ma_so_doanh_nghiep}_{template_name}_{datetime.now().strftime('%d%m%Y_%H%M%S')}.docx",
+                initialfile=f"{ma_so_doanh_nghiep}-{ten_doanh_nghiep}_{datetime.now().strftime('%d%m%Y_%H%M%S')}.docx",
                 title="Chọn vị trí lưu file đầu tiên"
             )
             if base_path:
@@ -840,14 +840,14 @@ class ExportManager:
         data_lower["so_thanh_vien"] = str(so_thanh_vien)  # Thêm vào data_lower
 
         # Lấy tên công ty và template từ dữ liệu
-        ma_so_doanh_nghiep = data_lower.get("ma_so_doanh_nghiep", "output")
-        
+        ma_so_doanh_nghiep = data_lower.get("ma_so_doanh_nghiep", "")
+        ten_doanh_nghiep = data_lower.get("ten_doanh_nghiep", "")
         # Loại bỏ đuôi .docx khỏi tên các template
         template_names = [os.path.splitext(t)[0] for t in selected_templates]
         template_name = "_".join(template_names)  # Gộp tên các template
         
         output_path = filedialog.asksaveasfilename(defaultextension=".pdf", filetypes=[("PDF files", "*.pdf")],
-                                                initialfile=f"{ma_so_doanh_nghiep}_{template_name}_{datetime.now().strftime('%d%m%Y_%H%M%S')}.pdf")
+                                                initialfile=f"{ma_so_doanh_nghiep}-{ten_doanh_nghiep}_{datetime.now().strftime('%d%m%Y_%H%M%S')}.pdf")
         if output_path:
             if mode == "merge":
                 merged_doc = self.merge_documents(doc_paths, data_lower)
